@@ -1,5 +1,5 @@
 # Site settings
-title: gionn.net
+title: root at linux in ~/src/gionn.net (master)
 author: Giovanni Toraldo
 email: me@gionn.net
 description: Open-Source enthusiast with SuperCow Powers, a PHP/Java/whatever developer, devops, writer of the OpenNebula book.
@@ -7,20 +7,18 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://gionn.net" # the base hostname & protocol for your site
 twitter_username: gionn
 github_username:  gionn
+facebook_username: gionn
+rss: rss
 google_analytics: UA-107557-13
 disqus:
   shortname: gionn-blog
 
-highlighter: rouge
-markdown: kramdown
-kramdown:
-  input: GFM
-
 permalink: /:year/:month/:day/:title/
-paginate: 20
 timezone: Europe/Rome
 
 plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
   - jemoji
