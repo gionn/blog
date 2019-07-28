@@ -7,6 +7,8 @@ I am an [Open Source](https://github.com/gionn) enthusiast with [SuperCow Powers
 
 Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/giovannitoraldo) for working purposes, but I rarely reply to recruiters.
 
+My resume (CV) is [here](/files/giovanni-toraldo-cv.pdf).
+
 You can send me coffes via one of the following cryptos:
 
 * BTC: 12QnftpDzxdkobFErKj5zM4nkrZtbat3HK
