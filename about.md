@@ -3,11 +3,11 @@ layout: page
 title: About me
 permalink: /about/
 ---
-I am an [Open Source](https://github.com/gionn) enthusiast with [SuperCow Powers](http://serverfault.com/users/72778/giovanni-toraldo), a [PHP/Java/Ruby/whatever developer](https://github.com/gionn?tab=repositories), writer of the [OpenNebula 3 Cloud Computing](https://www.packtpub.com/virtualization-and-cloud/opennebula-3-cloud-computing) [book](http://www.amazon.com/OpenNebula-Cloud-Computing-Giovanni-Toraldo/dp/1849517460), lead developer at [ClouDesire](https://www.cloudesire.com), [medieval crossbower](https://consanpaolino.org/) during the weekends.
+My name is **Giovanni Toraldo**, I was born in Lucca (Italy) and I am an [Open Source](https://github.com/gionn) enthusiast with [SuperCow Powers](http://serverfault.com/users/72778/giovanni-toraldo), a [PHP/Java/Ruby/whatever developer](https://github.com/gionn?tab=repositories), writer of the [OpenNebula 3 Cloud Computing](https://www.packtpub.com/virtualization-and-cloud/opennebula-3-cloud-computing) [book](http://www.amazon.com/OpenNebula-Cloud-Computing-Giovanni-Toraldo/dp/1849517460), lead developer at [ClouDesire](https://www.cloudesire.com), [medieval crossbower](https://consanpaolino.org/) during the weekends.
 
-Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/giovannitoraldo) for working purposes, but I rarely reply to recruiters.
-
-My resume (CV) is [here](/files/giovanni-toraldo-cv.pdf).
+Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/giovannitoraldo)
+for working purposes, but I am currently not open to any new working
+opportunities. My resume (CV) is [here](/files/giovanni-toraldo-cv.pdf).
 
 You can send me coffes via one of the following cryptos:
 
