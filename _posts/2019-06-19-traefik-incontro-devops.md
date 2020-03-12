@@ -9,4 +9,4 @@ certificati SSL automatici con Let's Encrypt e qualche caso d'uso reale.
 
 2020 edition: Friday, March 6th 2020, Bologna
 
-Link: https://www.youtube.com/watch?v=CBBZD_WetmM
+Guarda la presentazione su [YouTube](https://www.youtube.com/watch?v=CBBZD_WetmM)
