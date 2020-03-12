@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Introduction to Traefik @ ContainerDay 2018
+title:  Introduction to Traefik - ContainerDay 2018
 ---
 
 From zero to Traefik in 40 minutes slides
