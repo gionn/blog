@@ -10,6 +10,8 @@ uno sviluppatore in ambito Cloud.
 “Automazione deve diventare ossessione”. Il motto di Giovanni Toraldo, developer
 senior esperto di piattaforme Cloud è questo.
 
+![scheda](/images/CI_rubrica_INGENIUM_GiovanniToraldo_ITA9-OK.jpg)
+
 “Uno sviluppatore dovrebbe avere questa irrinunciabile attitudine ad
 automatizzare quanto possibile, non solo per velocizzare alcune operazioni
 ripetitive, ma soprattutto per evitare che una persona possa fare errori mentre
