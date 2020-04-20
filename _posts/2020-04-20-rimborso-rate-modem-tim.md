@@ -4,7 +4,7 @@ title: Rimborso rate modem TIM
 ---
 
 Voglio documentare la mia esperienza nel richiedere il rimborso delle rate del
-modem per la fibra di TIM a seguito della delibera 348/18/CON, per un
+modem per la fibra di TIM a seguito della Delibera 348/18/CON, per un
 abbonamento sottoscritto a fine 2018 che prevedeva obbligatoriamente l'addebito
 di 48 rate da 5 euro (!!) con cadenza mensile, nella speranza che sia utile a
 qualcun altro.
@@ -21,7 +21,7 @@ procedimento contro TIM con categoria **Trasparenza Tariffaria**.
 Nel testo della procedura ho riportato:
 
 > Rimborso per un totale di 240 euro per acquisto obbligato di modem a rate
-contro delibera 348/18/CON".
+contro Delibera 348/18/CON.
 
 In meno di 24 ore mi hanno risposto con:
 
@@ -40,4 +40,4 @@ provi l'avvenuta spedizione del modem. Io ho allegato la lettera di vettura del
 corriere SDA che ho prenotato tramite [paccofacile.it](https://paccofacile.it).
 
 Il 20 aprile 2020 ho finalmente ricevuto quanto pattuito attraverso bonifico sul
-conto che avevo specificato all'apertura del procedimento.
+conto che avevo specificato all'apertura del procedimento. Hurrà!
