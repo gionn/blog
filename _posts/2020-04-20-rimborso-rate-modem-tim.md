@@ -16,7 +16,8 @@ richiedere il rimborso, ti consiglio di fare altrettanto.
 
 Il 10 marzo 2020 ho aperto segnalazione tramite la piattaforma
 [ConciliaWeb](https://conciliaweb.agcom.it/conciliaweb/) di AGCOM, aprendo un
-procedimento contro TIM con categoria **Trasparenza Tariffaria**.
+procedimento contro **TIM SpA (Kena mobile)** con categoria **Trasparenza
+Tariffaria**.
 
 Nel testo della procedura ho riportato:
 
