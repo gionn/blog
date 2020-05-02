@@ -14,9 +14,7 @@ An alternative and effective method to deliver the short status notification is 
 
 <!--more-->
 
-Register a new standard Twitter account and make sure to enable in the settings:
-
-<img src="http://gionn.net/sites/default/files/twitter-privacy.png" alt="twitter privacy settings" />
+Register a new standard Twitter account and make sure to enable in the settings.
 
 We need to install on the monitoring server a command-line Twitter client, such as Twidge:
 

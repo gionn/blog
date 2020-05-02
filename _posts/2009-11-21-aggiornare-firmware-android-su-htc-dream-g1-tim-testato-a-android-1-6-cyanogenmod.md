@@ -8,7 +8,7 @@ comments: true
 categories: !binary |-
   aGFyZHdhcmUgaXRfaXQ=
 ---
-<strong>UPDATE</strong>: ho pubblicato un aggiornamento per <a href="/node/419">Android 2.1 + CyanogenMod 5.x</a>
+<strong>UPDATE</strong>: ho pubblicato un aggiornamento per Android 2.1 + CyanogenMod 5.x
 
 Questo lunedì mi è arrivato l'<strong>HTC Dream</strong> marchiato Tim che in questi giorni si trova scontato al Mediaworld (289 euro, di listino sta a 349).
 Purtroppo, come spesso capita con gli smartphone che montano un software modificato dagli operatori, la versione è vecchia, non più mantenuta e spesso priva di alcune applicazioni "strategiche" (google talk, chat, sincronizzazione contatti gmail).

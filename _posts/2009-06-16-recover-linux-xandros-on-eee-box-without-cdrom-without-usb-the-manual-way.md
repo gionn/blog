@@ -12,7 +12,7 @@ I don't have an external USB CD-ROM drive, nor a live Xandros installation to bu
 
 The prerequisites are:
 - the file named system_image.gz that is on the Recovery CD.
-- a live linux system (<a href="http://www.knoppix.net/">knoppix</a>? SysRescueCD? I've used my debian on nfs.)
+- a live linux system (knoppix? SysRescueCD? I've used my debian on nfs.)
 - basic knowledge of a partition tool editor (like cfdisk).
 
 system_image.gz is the compressed image of the root system. Copy it on a usb pen, samba share, public_html, where you want!

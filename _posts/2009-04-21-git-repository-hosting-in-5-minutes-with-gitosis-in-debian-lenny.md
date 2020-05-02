@@ -64,5 +64,3 @@ fatal: The remote end hung up unexpectedly
 error: failed to push some refs to 'gitosis@192.168.1.1:sandbox.git'</code>
 
 You should remember to commit changes before to push it ;)
-
-References: <a href="http://scie.nti.st/2007/11/14/hosting-git-repositories-the-easy-and-secure-way">http://scie.nti.st/2007/11/14/hosting-git-repositories-the-easy-and-secure-way</a>

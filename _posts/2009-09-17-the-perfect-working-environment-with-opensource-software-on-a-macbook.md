@@ -12,7 +12,7 @@ I am writing this article for sharing my actual setup on my recently bought MacB
 
 After some week, I managed how to make a third-boot system with rEFIt, having MacOS, Windows (I like enjoying some videogame, the last was Fallout 3), and Debian GNU/Linux.
 I wasn't very satisfied with this choice, because i wasted a lot of my 300 GB hd, and the hardware support in Linux wasn't has in MacOS:
-- Soundcard not supported by alsa [bug: #<a href="https://bugtrack.alsa-project.org/alsa-bug/view.php?id=4432">4432</a>]
+- Soundcard not supported by alsa bug: #4432
 - The nvidia proprietary driver fails to detect the integrated 9400 chip, so I was forced to use the 9600GT, which is a waste of battery lifetime when I am not gaming
 - The only good way to share documents between OS is thru a HFS+ paritition with <strong>journaling disabled</strong>.
 

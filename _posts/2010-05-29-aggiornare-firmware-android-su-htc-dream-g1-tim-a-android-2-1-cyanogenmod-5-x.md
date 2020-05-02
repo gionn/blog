@@ -10,18 +10,18 @@ categories: !binary |-
 ---
 Sono riuscito ad aggiornare il mio HTC Dream dal firmware CyanogenMod 4.x a 5.x.
 
-Se avete ancora il firmware originale, dovrebbero ancora valere i passi descritti nel precedente post su <a href="/?p=539">CyanogenMod 4.x</a> per poter installare una recovery image custom (fino a Installazione Android escluso, ovviamente).
+Se avete ancora il firmware originale, dovrebbero ancora valere i passi descritti nel precedente post su CyanogenMod 4.x per poter installare una recovery image custom (fino a Installazione Android escluso, ovviamente).
 
-Ho seguito la guida presente sul wiki di CM: <a href="http://wiki.cyanogenmod.com/index.php/DangerSPL_and_CM_5_for_Dream">DangerSPL and CM 5 for Dream</a>.
+Ho seguito la guida presente sul wiki di CM: DangerSPL and CM 5 for Dream.
 
 Requisiti:
 * HTC Dream/G1 con immagine di recovery custom (Home+Power in fase di boot)
 * Radio Compatibile (versione 2.22.19.26I, vedi con Camera+Power in fase di boot)
 <!--break-->
 <strong>Files richiesti</strong>:
-* <a href="http://sapphire-port-dream.googlecode.com/files/spl-signed.zip">Danger Spl</a>
-* <a href="http://kanged.net/mirror/download.php?file=gapps-ds-ERE36B-signed.zip">gapps-ds-ERE36B-signed.zip (Google Apps)</a>
-* <a href="http://wiki.cyanogenmod.com/index.php/Latest_version#Current_Stable_Version_2">Android-CM5 for Dream/G1</a>
+* Danger Spl
+* gapps-ds-ERE36B-signed.zip (Google Apps)
+* Android-CM5 for Dream/G1
 
 Ultima versione testata da me: <strong>CyanogenMod-5.0.8</strong>
 

@@ -7,7 +7,7 @@ comments: true
 categories: !binary |-
   bnVsbA==
 ---
-<img id="image140" src="http://gionn.net/sites/default/files/images/secureg2.miniatura.gif" alt="Pc Sicuro" class="alignleft"/> Ecco qua una breve guida su come creare una partizione criptata accessibile solamente tramite password. La procedura è abbastanza semplice e intuitiva e può esser facilmente adoperata sia per partizioni su disco fisso, sia per periferiche rimovibili come hd esterni o chiavi usb.
+Ecco qua una breve guida su come creare una partizione criptata accessibile solamente tramite password. La procedura è abbastanza semplice e intuitiva e può esser facilmente adoperata sia per partizioni su disco fisso, sia per periferiche rimovibili come hd esterni o chiavi usb.
 
 <!--break-->
 Procediamo con l'installazione del pacchetto.

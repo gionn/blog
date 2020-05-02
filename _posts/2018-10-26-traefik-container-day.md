@@ -12,4 +12,4 @@ From zero to Traefik in 40 minutes slides
 
 [#idi2019](https://twitter.com/search?q=%23idi2019&src=typd) #containerday #traefik #docker #golang
 
-<script async class="speakerdeck-embed" data-id="77a3d30e091e425294424009c3e69801" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="77a3d30e091e425294424009c3e69801" data-ratio="1.33333333333333" src="https://speakerdeck.com/assets/embed.js"></script>

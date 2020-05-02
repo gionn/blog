@@ -12,7 +12,7 @@ Ok, you have a small postfix deployed, and you need a fast but effective protect
 
 The first thing to do, is to configure the variable mynetworks to allow only certain netblocks to use postfix to send email all over the world:
 <code>mynetworks = 127.0.0.0/8 [::ffff:127.0.0.0]/104 [::1]/128 X.X.X.X/XX</code>
-Look out: the ips should be in <a href="http://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing">CIDR</a> notation, so you probably need to <strong>apt-get install ipcalc</strong>.
+Look out: the ips should be in <a href="https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing">CIDR</a> notation, so you probably need to <strong>apt-get install ipcalc</strong>.
 
 Using ipcalc is straight-forward. For example, think our servers are located on the netblock from 188.57.33.80 to 188.57.33.87:
 <code>$ ipcalc 188.57.33.80 - 188.57.33.87

@@ -31,9 +31,9 @@ You can send me coffes via one of the following cryptos:
 
 [lucca]: https://goo.gl/maps/ULH2ab9wLrNGa3M86
 [1]: https://github.com/gionn
-[2]: http://serverfault.com/users/72778/giovanni-toraldo
+[2]: https://serverfault.com/users/72778/giovanni-toraldo
 [3]: https://www.packtpub.com/virtualization-and-cloud/opennebula-3-cloud-computing
-[4]: http://www.amazon.com/OpenNebula-Cloud-Computing-Giovanni-Toraldo/dp/1849517460
+[4]: https://www.amazon.com/OpenNebula-Cloud-Computing-Giovanni-Toraldo/dp/1849517460
 [5]: https://eng.it/dhub
 [6]: https://www.cloudesire.com
 [7]: https://consanpaolino.org/gallery

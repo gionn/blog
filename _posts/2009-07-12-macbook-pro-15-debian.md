@@ -8,7 +8,7 @@ categories: !binary |-
   aGFyZHdhcmUgc29mdHdhcmU=
 ---
 Il vecchio Asus F3Jc stava esalando gli ultimi respiri, quindi onde evitare di rimanere senza pc (anche perchè lo usavo a lavoro), ho ben pensato di accattarmi un nuovo portatile.
-Lavorando con due mac luser (ndr: <a href="http://twitter.com/malteo">malteo</a> e <a href="http://twitter.com/orontobate">orontobate</a>) con diversi anni in attivo di militanza in territorio Apple, son riusciti a convincermi a prendermene uno.
+Lavorando con due mac luser (ndr: <a href="https://twitter.com/malteo">malteo</a> e <a href="https://twitter.com/orontobate">orontobate</a>) con diversi anni in attivo di militanza in territorio Apple, son riusciti a convincermi a prendermene uno.
 
 La scelta è ricaduta su un MacBook Pro da 15 pollici con processore 2.66GHz (che ho preso da Essedi scontato di 200 euro).
 <!--break-->

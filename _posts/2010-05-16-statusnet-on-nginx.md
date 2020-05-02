@@ -7,7 +7,7 @@ comments: true
 categories: !binary |-
   ZW5fdXM=
 ---
-<a href="http://status.net/">StatusNet</a> is an opensource <a href="http://en.wikipedia.org/wiki/Twitter">twitter</a>-like clone. You can install StatusNet on your own server and run your private status server for people in your organization.
+StatusNet is an opensource <a href="http://en.wikipedia.org/wiki/Twitter">twitter</a>-like clone. You can install StatusNet on your own server and run your private status server for people in your organization.
 
 Install is pretty straight-forward, so I am not showing here any bit to you.
 I am attaching here my nginx configuration file and the relevant option in StatusNet config.php to enable fancy URLs.
