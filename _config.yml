@@ -1,26 +1,32 @@
-# Site settings
+# settings
+baseurl: ""
+url: "https://gionn.net"
+
+# meta
 title: root at linux in ~/src/gionn.net (master)
 author: Giovanni Toraldo
-email: me@gionn.net
-description: Open-Source enthusiast with SuperCow Powers, a PHP/Java/whatever developer, devops, writer of the OpenNebula book.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://gionn.net" # the base hostname & protocol for your site
+description: A blog abouth tech, programming and my personal life, alive and kicking from 2005.
+
+# social links
 twitter_username: gionn
 github_username:  gionn
 facebook_username: gionn
+instagram_username: gionn_net
+linkedin_username: giovannitoraldo
 rss: rss
+
+# integrations
 google_analytics: UA-107557-13
 disqus:
   shortname: gionn-blog
 
+# others
 permalink: /:year/:month/:day/:title/
 timezone: Europe/Rome
-
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
   - jemoji
-
-theme: minima
