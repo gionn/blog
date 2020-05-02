@@ -16,7 +16,7 @@ Here is a list with a description of all the software I currently use on my lapt
 <ul>
 	<li><a href="http://adium.im/">Adium</a>: one of the best piece of software for mac. If you want to chat with friends and collegues, you can't not use it</li>
 
-	<li><a href="http://www.freemacsoft.net/AppCleaner/">AppCleaner</a>: a problem of Mac is the absence of some sort of uninstaller for application. You simply put the application in the trash, but the user settings remains in your home. With AppCleaner you can remove them automatically.</li>
+	<li>AppCleaner: a problem of Mac is the absence of some sort of uninstaller for application. You simply put the application in the trash, but the user settings remains in your home. With AppCleaner you can remove them automatically.</li>
 
 	<li><a href="http://metaquark.de/appfresh/">AppFresh</a>: useful for keeping an eye on the update state of your installed application</li>
 
@@ -32,7 +32,7 @@ Here is a list with a description of all the software I currently use on my lapt
 
 	<li><a href="http://www.grapefruit.ch/iBackup/">iBackup</a>: frequently TimeMachine is enought for many people, but not for all. If you need something more powerful and refined than TimeMachine, go with iBackup</li>
 
-	<li><a href="http://docs.blacktree.com/nocturne/nocturne">Nocturne</a>: if you often work on dark light, you probably you find this little tool very useful. It will reduce notably the illumination effect of your monitor, even when you have the brightness level to minimun</li>
+	<li>Nocturne: if you often work on dark light, you probably you find this little tool very useful. It will reduce notably the illumination effect of your monitor, even when you have the brightness level to minimun</li>
 
 	<li><a href="http://www.openoffice.org/">OpenOffice</a>: Office replace, it works, don't blame us with "My Word doesn't bla bla bla"</li>
 

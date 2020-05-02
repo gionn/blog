@@ -7,7 +7,7 @@ comments: true
 categories: !binary |-
   aGFyZHdhcmU=
 ---
-<strong>Per una guida su come effettuare l'upgrade seguire la guida in <a href="http://blog.scorpionworld.it/sunstech-dvp-x505-firmware-upgrade.html" target="_blank">questa pagina</a>.</strong>
+<strong>Per una guida su come effettuare l'upgrade seguire la guida in <a href="/2005/06/16/sunstech-dvp-x505-firmware-download-e-upgrade/" target="_blank">questa pagina</a>.</strong>
 
 <strong>Ultimo Aggiornamento: 15 Aprile 2006</strong>
 <em>Ho rimosso completamente il firmware modificato da scratch di quello originale perche` quello medion e` nettamente superiore e funzionale.</em>
@@ -16,9 +16,9 @@ categories: !binary |-
 
 <strong>L'aggiornamento che effettuate viene comunque fatto a vostro rischio e pericolo, ed e` inoltre vivamente sconsigliato di cambiare il firmware con uno non originale perche` farebbe <u>decadere immediatamente la garanzia</u> di 24 mesi!!!</strong>
 
-<strong><a href="http://fileserver.scorpionworld.it/index.php?dir=dvd-firmware/Sunstech-DVP-x505/originale/">Firmware Originale</a>:</strong> l'ultima versione disponibile del firmware originale direttamente dalla casa produttrice. L'ideale se il prodotto e` ancora in garanzia, ma ha funzionalita` limitate.
+<strong>Firmware Originale:</strong> l'ultima versione disponibile del firmware originale direttamente dalla casa produttrice. L'ideale se il prodotto e` ancora in garanzia, ma ha funzionalita` limitate.
 
-<strong><a href="http://fileserver.scorpionworld.it/index.php?dir=dvd-firmware/Sunstech-DVP-x505/">Hacked Firmware</a>:</strong> segue lista molto lunga dei miglioramenti.
+<strong>Hacked Firmware:</strong> segue lista molto lunga dei miglioramenti.
 <ul>
 	<li>Supporto per i sottotitoli dei divx nel formato: .srt, .sub, .ssa, .smi.</li>
 	<li>Corretti diversi bug nella visualizzazione dei sottotitoli.</li>
@@ -38,7 +38,7 @@ categories: !binary |-
 <strong>Ci sono due versioni, ognuna a seconda del numero di Servo: 02.xxx... e 07.xxx...</strong>
 Per visualizzare il proprio digitare sul proprio telecomando a lettore avviato <strong><u>Setup 1 3 7 9</u></strong>.
 
-Servo 02: <a href="http://fileserver.scorpionworld.it/index.php?dir=dvd-firmware/Sunstech-DVP-x505/servo02/">Medion7457_1252_v11_Mtz.zip</a>
+Servo 02: Medion7457_1252_v11_Mtz.zip
 <ul> - Ansonic 10T Servo: 2.06
 - Dual 800, 800-1, 880, 2200. Servo: 2.06 (KHM 280)
 - DK Digital 915 Servo: 2.06
@@ -52,7 +52,7 @@ Servo 02: <a href="http://fileserver.scorpionworld.it/index.php?dir=dvd-firmware
 - Sunstech X505 Servo: 2.06
 - Technica DivX T 1000 D
 - Transcontinents DivX TR 100</ul>
-Servo 07: <a href="http://fileserver.scorpionworld.it/index.php?dir=dvd-firmware/Sunstech-DVP-x505/servo07/">MedionClones_KHM310_Servo07_1252_V3_Mtz.zip</a>
+Servo 07: MedionClones_KHM310_Servo07_1252_V3_Mtz.zip
 <ul> - Ansonic DIXH-10T Servo: 07
 - Dual 800, 800-1, 880, 2200. Servo: 07 (KHM 310) (needs VFD Button replace)
 - First FA 958 Servo: 07

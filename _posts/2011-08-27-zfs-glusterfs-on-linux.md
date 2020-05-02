@@ -11,7 +11,7 @@ Time is almost ripe for start using the native ZFS port on Linux (http://zfsonli
 
 Installing ZFS on Debian/Ubuntu is straightforward: you need first to build the SPL (Solaris Porting Layer) and after ZFS itself.
 
-Download the latest <a href="https://github.com/zfsonlinux/spl/downloads">SPL package</a>, unpack it and <a href="http://zfsonlinux.org/spl-building-deb.html">build</a>:
+Download the latest <a href="https://github.com/zfsonlinux/spl/downloads">SPL package</a>, unpack it and build:
 
 ``` bash
 sudo apt-get install build-essential gawk alien fakeroot linux-headers-$(uname -r)
@@ -20,7 +20,7 @@ make deb
 dpkg -i *.deb
 ```
 
-Download the latest <a href="https://github.com/zfsonlinux/zfs/downloads">ZFS package</a>, unpack it and <a href="http://zfsonlinux.org/zfs-building-deb.html">build</a>:
+Download the latest <a href="https://github.com/zfsonlinux/zfs/downloads">ZFS package</a>, unpack it and build:
 
 ``` bash
 sudo apt-get install zlib1g-dev uuid-dev libblkid-dev libselinux-dev parted lsscsi

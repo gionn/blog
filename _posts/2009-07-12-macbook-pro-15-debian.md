@@ -39,10 +39,10 @@ La scelta è ricaduta su un MacBook Pro da 15 pollici con processore 2.66GHz (ch
 
 Praticamente tutto fatto da nvidia =P
 
-Con una Lenny amd64 il grosso funziona, manca solo il wireless che non è supportato dal modulo bcm43xx opensource ma tocca usare il driver AP WL STA proprietario (aptitude install broadcom-sta-source && module-assistant a-i broadcom-sta && modprobe wl), e l'audio, nonostante venga rilevata correttamente la scheda audio e i controlli paiono esserci tutti, non son riuscito a far funzionare nè gli speaker interni nè il jack delle cuffie [<a href="https://bugtrack.alsa-project.org/alsa-bug/view.php?id=4521">bug report</a>]
+Con una Lenny amd64 il grosso funziona, manca solo il wireless che non è supportato dal modulo bcm43xx opensource ma tocca usare il driver AP WL STA proprietario (aptitude install broadcom-sta-source && module-assistant a-i broadcom-sta && modprobe wl), e l'audio, nonostante venga rilevata correttamente la scheda audio e i controlli paiono esserci tutti, non son riuscito a far funzionare nè gli speaker interni nè il jack delle cuffie.
 
 Per il controllo delle ventole (fornito dal modulo applesmc di Linux) ho trovato uno script carino:
-<a href="http://files.getdropbox.com/u/630394/macbookpro51/setfan.sh">setfan.sh</a>
+setfan.sh
 (l'autore originale non me ne vorrà , ma non ricordo proprio da dove l'ho pescato)
 
 Non dimenticate di installare pommed per la gestione dei tasti funzione (luminosità  e retroilluminazione dei tasti).

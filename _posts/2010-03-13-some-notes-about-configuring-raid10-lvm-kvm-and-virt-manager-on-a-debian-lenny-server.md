@@ -36,7 +36,7 @@ dd if=/dev/sda of=/dev/sdd count=1 bs=512</pre>
 
 At this point, installing kvm plus virt-manager is straightway:
 <pre lang="bash">aptitude install kvm libvirt-bin virt-manager</pre>
-Remember that Lenny is getting pretty old, so for getting more from your server, you should use the <a href="http://backports.org/dokuwiki/doku.php?id=instructions">backports.org</a> packages.
+Remember that Lenny is getting pretty old, so for getting more from your server, you should use the backports.org packages.
 
 Now add your user to the libvirt and kvm system groups (/etc/groups):
 <pre lang="bash">[..]
@@ -58,8 +58,6 @@ And the virt-manager window will popup.
 Edit->Host Details->Storage
 Add your LVM Volume Group defined during the first setup: from this window, you can create virtual disks for your machines.
 Using LVM instead of simple disk images give great benefits: less overhead, and the ability to expands images (and filesystems on it) without even rebooting the VM.
-<a href="http://tech.libersoft.it/wp-content/uploads/2010/03/Schermata-ph1-Dettagli-host.png"><img src="http://tech.libersoft.it/wp-content/uploads/2010/03/Schermata-ph1-Dettagli-host-300x208.png" alt="" title="Virt-manager: LVM based storage management" width="300" height="208" class="aligncenter size-medium wp-image-372" /></a>
-
 
 <strong>Network Configuration</strong>
 You can use both <strong>bridged networks</strong> and <strong>private networks</strong>. Bridged networks are used when a VM should have the same subnet address of the other hosts on the local networks.

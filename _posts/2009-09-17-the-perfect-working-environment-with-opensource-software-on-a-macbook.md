@@ -21,6 +21,6 @@ For the working aspect, I can't find something good and flexible like a Debian G
 
 Now I split my experience in two separated articles:
 <ul>
-	<li><a href="http://tech.libersoft.it/2009/the-essential-opensource-software-for-your-mac/">OpenSource Software for my Mac</a></li>
-	<li><a href="http://tech.libersoft.it/2009/my-network-hints-for-setting-up-virtualbox-on-mac-host-with-linux-guests/">My network hints for setting up VirtualBox on Mac Host with Linux Guests</a></li>
+	<li>OpenSource Software for my Mac</li>
+	<li>My network hints for setting up VirtualBox on Mac Host with Linux Guests</li>
 </ul>

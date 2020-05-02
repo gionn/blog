@@ -7,7 +7,7 @@ comments: true
 categories: !binary |-
   bmV3cw==
 ---
-Siccome ormai la gente che arriva in questo blog cercando le soluzioni del <a href="http://www.webdomus.it/tao/test_intelligenza_mensa.html">Mensa</a> (33 ditloidi - Il test di "intelligenza" della MENSA del Web 2.0) sta diventando della stessa entità  di un'orda barbarica senza precedenti, ho deciso di pubblicare tutte le soluzioni.
+Siccome ormai la gente che arriva in questo blog cercando le soluzioni del http://www.webdomus.it/tao/test_intelligenza_mensa.html - Mensa (33 ditloidi - Il test di "intelligenza" della MENSA del Web 2.0) sta diventando della stessa entità  di un'orda barbarica senza precedenti, ho deciso di pubblicare tutte le soluzioni.
 
 <strong>Non proseguite da qui in giù se non vi interessa di conoscerla per non rovinarvi il gioco!</strong>
 

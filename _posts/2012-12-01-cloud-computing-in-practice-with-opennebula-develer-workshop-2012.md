@@ -12,7 +12,7 @@ These months have been quite busy for me, but I always try to find some time to 
 
 On 26 Novembre 2012 I carried out a workshop, sponsored by <a href="http://www.develer.com">Develer</a> (offering space, organization and drinks), that attracted <a href="http://workshop.develer.com/ilcloudcomputingriempielaplatea/">quite many people</a> around the Florence area, spending a nice evening discussing about Cloud Computing with OpenNebula.
 
-The presentation covered some basic topics, like what OpenNebula is and why users should use it, and continued with a live demo using the [OpenNebula Sandbox VM](http://www.opennebula.org/cloud:tryout).
+The presentation covered some basic topics, like what OpenNebula is and why users should use it, and continued with a live demo using the [OpenNebula](http://www.opennebula.org) Sandbox VM.
 
 <script async class="speakerdeck-embed"
 data-id="9e3d9a901a470130ab9412313d2a40b3" data-ratio="1.33333333333333"

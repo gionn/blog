@@ -10,7 +10,7 @@ Java/Ruby/whatever developer, writer of the [OpenNebula 3 Cloud Computing][3]
 [book][4].
 
 I currently work as Solution Developer lead developer at [Engineering D.HUB][5],
-developing the [ClouDesire](6) platform since the startup I co-founded in 2016.
+developing the [ClouDesire][6] platform since the startup I co-founded in 2016.
 
 During the weekends I shoot with a [medieval crossbow][7] for a reenactment association.
 

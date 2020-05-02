@@ -19,5 +19,3 @@ This is how I did it:
 </ul>
 
 Now, everytime I want to create an Activity Stream digest, I go for Create Content -> Activity Stream Digest, I select the items I want in my digest (throwing away unuseful tweets) and publish.
-
-You can see an example output <a href="/digest/2011-01-activity-digest">here</a>.

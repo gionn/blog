@@ -59,4 +59,3 @@ Although I've installed these libraries, I continue to get the error:
           /opt/local/lib/perl5/vendor_perl/5.8.9/Crypt/DH.pm line 6</code></pre>
 Comments welcome.
 
-Reference: <a href="http://freenode.net/irc_servers.shtml#tor">http://freenode.net/irc_servers.shtml#tor</a>

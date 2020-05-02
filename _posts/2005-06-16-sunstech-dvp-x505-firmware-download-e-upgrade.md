@@ -22,7 +22,7 @@ Passati 3 sec., il disco dovrebbe esser pronto: lo inserite nel lettore e attend
 Dovrebbe apparire un messaggio di avvenuto riconoscimento della presenza di un firmware sul cd che avete appena inserito, premete play e aspettare che la procedura finisca fino al riavvio automatico del lettore. Dopo che il cd viene sputato fuori levatelo e attendete la fine della procedura di aggiornamento (impiega circa 30 interminabili secondi).
 
 Fate attenzione a <strong>non interrompere l'alimentazione durante l'aggiornamento</strong> o potete dire addio al vostro lettore.
-Per gli sfigati trovate <a href="http://mtz.softpedia.com/index.php?option=com_content&amp;task=view&amp;id=20&amp;Itemid=2">qui</a> una guida per far resuscitare i lettori morti.
+Per gli sfigati trovate qui softpedia.com una guida per far resuscitare i lettori morti.
 
 <strong>L'aggiornamento che effettuate viene comunque fatto a vostro
 rischio e pericolo, ed è inoltre vivamente sconsigliato di cambiare il

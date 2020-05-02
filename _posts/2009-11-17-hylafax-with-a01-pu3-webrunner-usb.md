@@ -9,7 +9,7 @@ categories: !binary |-
 ---
 <blockquote>HylaFAX is an enterprise-class system for sending and receiving facsimiles as well as for sending alpha-numeric pages.</blockquote>
 
-The <a href="http://www.atlantis-land.com/ita/scheda_prodotto.php?articolo=A01-PU3">A01-PU3</a> is an usb PSTN modem that support the <a href="http://wiki.openmoko.org/wiki/USB_CDC_ACM">CDC ACM</a> standard, and it works great on Linux!
+The A01-PU3 is an usb PSTN modem that support the <a href="http://wiki.openmoko.org/wiki/USB_CDC_ACM">CDC ACM</a> standard, and it works great on Linux!
 
 On Debian you can easily setup an Hylafax Server installing it by:
 <pre lang="bash">aptitude install hylafax</pre>

@@ -50,5 +50,3 @@ And add to /config.php:
 <pre lang="bash">
 $config['site']['fancy'] = true;
 </pre>
-
-You can reach my test installation here: <a href="http://bits.scorpionworld.it/">http://bits.scorpionworld.it/</a>

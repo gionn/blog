@@ -8,8 +8,6 @@ comments: true
 categories: !binary |-
   aGFyZHdhcmUgaXRfaXQgc29mdHdhcmU=
 ---
-<strong>UPDATE</strong>: è uscita la CyanogenMod 6.x stabile. Dai un occhio a <a href="/node/423">quest'altro articolo</a> prima di fare qualsiasi altra cosa.
-
 Sono riuscito ad aggiornare il mio HTC Dream dal firmware CyanogenMod 4.x a 5.x.
 
 Se avete ancora il firmware originale, dovrebbero ancora valere i passi descritti nel precedente post su <a href="/?p=539">CyanogenMod 4.x</a> per poter installare una recovery image custom (fino a Installazione Android escluso, ovviamente).

@@ -7,7 +7,7 @@ comments: true
 categories: !binary |-
   ZGViaWFuIGhhcmR3YXJl
 ---
-After <a href="/vendesi-macbook-pro-15-unibody-51-usato">selling my macbook pro</a>, I decided to go back to PC world and searching for something more suitable for a <strong>roadwarrior sysadmin</strong>.
+After selling my macbook pro, I decided to go back to PC world and searching for something more suitable for a <strong>roadwarrior sysadmin</strong>.
 
 I've bought a 13,3" Sony Vaio (VPCS13V9E), and I have found some rusty after having successfully installed Debian Squeeze.
 <!--break-->
