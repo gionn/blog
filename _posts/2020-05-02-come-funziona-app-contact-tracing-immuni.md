@@ -101,9 +101,9 @@ questa situazione.
 
 Dopo la pubblicazione sui social, un contatto ha posto la seguente domanda:
 
-> Visto che il bluetooth ha una "portata" di 10 mt circa, come posso essere
-sicuro di non essere notificato come soggetto "forse contagiato" da qualcuno che
-in realtà era molto lontano da me?
+> Visto che il bluetooth ha una **portata** di 10 mt circa, come posso essere
+sicuro di non essere notificato come soggetto **forse contagiato** da qualcuno
+che in realtà era molto lontano da me?
 
 E' vero che il BT è in grado di scambiare dati in modo anonimo sino a 10 mt di
 distanza, ma è anche vero che analizzando *la potenza del segnale* si può
