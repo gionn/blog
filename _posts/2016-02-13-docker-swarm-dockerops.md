@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Clustering with Docker Swarm @ Dockerops 2016
+tags:
+ - conferences
+ - Dockerops
 ---
 
 An introduction to Docker native clustering: Swarm.

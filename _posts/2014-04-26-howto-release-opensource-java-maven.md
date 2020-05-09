@@ -1,6 +1,8 @@
 ---
 layout: post
 title: How to release open-source java projects to Maven Central repository
+tags:
+ - howto
 ---
 
 There is plenty of documentation once you find it, the hard part was to search for the right keywords to obtain it, so I am writing this post.

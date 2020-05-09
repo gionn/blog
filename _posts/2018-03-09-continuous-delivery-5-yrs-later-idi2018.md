@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  Continuous Delivery, 5 years later @ Incontro DevOps Italia 2018
+tags:
+ - conferences
+ - Incontro DevOps Italia
 ---
 
 This is a [presentation](http://archive.incontrodevops.it/sessions/continuous-delivery-5-anni-dopo/) I held at the six edition of "[Incontro DevOps Italia](https://www.incontrodevops.it/)" conference.

@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+sidebar_link: true
 ---
 My name is **Giovanni Toraldo** and I was born in [Lucca][lucca] (Italy).
 

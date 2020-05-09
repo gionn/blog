@@ -6,6 +6,8 @@ created: 1299182360
 comments: true
 categories: !binary |-
   ZGViaWFuIGhhcmR3YXJl
+tags:
+ - linux hardware
 ---
 After selling my macbook pro, I decided to go back to PC world and searching for something more suitable for a <strong>roadwarrior sysadmin</strong>.
 
@@ -113,7 +115,7 @@ echo -n $VAL > /sys/class/backlight/nvidia_backlight/brightness
 </code>
 
 
-/etc/acpi/nvidia_backlight_down.sh 
+/etc/acpi/nvidia_backlight_down.sh
 <code>
 #!/bin/sh
 

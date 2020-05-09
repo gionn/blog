@@ -3,7 +3,7 @@ baseurl: ""
 url: "https://gionn.net"
 
 # meta
-title: root at linux in ~/src/gionn.net (master)
+title: gionn.net
 author: Giovanni Toraldo
 description: A blog abouth tech, programming and my personal life, alive and kicking from 2005.
 
@@ -21,12 +21,14 @@ disqus:
   shortname: gionn-blog
 
 # others
+paginate: 5
 permalink: /:year/:month/:day/:title/
 timezone: Europe/Rome
-theme: minima
+remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-remote-theme
   - jemoji

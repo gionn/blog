@@ -3,6 +3,9 @@ layout: post
 title: Come funzionano le app di contact-tracing (Immuni)
 author: Andrea Vecchi
 image: /images/markus-winkler--D-6Ve_yNWc-unsplash.jpg
+tags:
+ - covid-19
+ - italiano
 ---
 
 Proverò a spiegare con un linguaggio non troppo tecnico (mi scusino i colleghi

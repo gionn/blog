@@ -7,6 +7,8 @@ created: 1331498473
 comments: true
 categories: !binary |-
   ZGViaWFuIGVuX3VzIHVidW50dQ==
+tags:
+ - howto
 ---
 In recent Linux releases, it's available a tiny module called <strong>zram</strong>, that permits us to create RAM based block devices (named /dev/zramX), which will be kept in memory as compressed data. These ram-based block devices allow very fast I/O, and compression provides a reasonable amounts of memory saving.
 

@@ -7,6 +7,8 @@ created: 1312727076
 comments: true
 categories: !binary |-
   ZW5fdXMgaGFyZHdhcmU=
+tags:
+ - howto
 ---
 Quick and dirty video of Ubuntu Natty 11.04 boot-up and applications launch of my Sony Vaio laptop with a Corsair 60GB SSD (http://twitpic.com/61y3n5)
 

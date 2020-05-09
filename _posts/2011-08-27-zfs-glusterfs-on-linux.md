@@ -6,6 +6,8 @@ created: 1314438242
 comments: true
 categories: !binary |-
   c29mdHdhcmU=
+tags:
+ - howto
 ---
 Time is almost ripe for start using the native ZFS port on Linux (http://zfsonlinux.org/), and to increase the performances, reliability and space usage of our affordable distributed opensource storage solution.
 
@@ -58,7 +60,7 @@ Et voilà, your space usage is highly optimized compressing and deduplicating da
 Now it's the GlusterFS turn, download the latest version and install it:
 
 ``` bash
-dpkg -i glusterfs_3.2.2-1_amd64.deb 
+dpkg -i glusterfs_3.2.2-1_amd64.deb
 update-rc.d glusterd defaults
 /etc/init.d/glusterd start
 ```
@@ -74,7 +76,7 @@ Only on one node, create and start the volume:
 ``` bash
 gluster volume create gtank replica 2 transport tcp ip.add.re.ss1:/tank ip.add.re.ss2:/tank
 gluster volume start gtank
-``` 
+```
 
 On every node, mount it with:
 

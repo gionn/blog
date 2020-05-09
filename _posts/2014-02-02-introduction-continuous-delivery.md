@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Introduction to Continuous Delivery @ Apericoder CodersTUG
+tags:
+ - conferences
+ - codersTUG
 ---
 What we have learn the last year while developing [ClouDesire](http://cloudesire.com), presented at an [Apericoder](http://www.eventbrite.it/e/biglietti-continuous-delivery-apericoder-10368942787) event organized by **Coders TUG** in Pisa.
 

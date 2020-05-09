@@ -6,6 +6,8 @@ created: 1319304062
 comments: true
 categories: !binary |-
   ZW5fdXMgbmV3cw==
+tags:
+ - conferences
 ---
 This year I've joined the LinuxDay of Pisa with a talk about my recent works in <a href="http://www.libersoft.it/">LiberSoft</a> to the <a href="http://en.wikipedia.org/wiki/National_Central_Library_(Florence)">BNCF</a>.
 

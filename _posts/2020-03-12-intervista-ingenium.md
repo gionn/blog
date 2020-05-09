@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  Intervista su ingenium-magazine
+tags:
+ - italiano
+ - giovanni toraldo
 ---
 
 Automatizzare "con ossessione" non solo per velocizzare alcune operazioni

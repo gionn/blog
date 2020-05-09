@@ -7,6 +7,9 @@ created: 1335101520
 comments: true
 categories: !binary |-
   ZW5fdXMgdWJ1bnR1
+
+tags:
+ - howto
 ---
 During the migration of a RAID1 mdadm on Ubuntu server to a ZFS mirror, I got stuck at the initial zfs volume creation with the following error:
 

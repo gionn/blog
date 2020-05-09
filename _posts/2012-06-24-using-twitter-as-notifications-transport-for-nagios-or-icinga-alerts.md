@@ -7,6 +7,8 @@ created: 1340524732
 comments: true
 categories: !binary |-
   ZW5fdXMgdWJ1bnR1
+tags:
+ - howto
 ---
 Are you wondering how many alternative ways to get notifications from your nagios/icinga exists, other than plain email messages? And what if you actually are monitoring your email or DNS infrastructure and you don't want to use a third-party email account dedicated to our precious notices?
 

@@ -7,6 +7,9 @@ created: 1294591157
 comments: true
 categories: !binary |-
   ZW5fdXMgc29mdHdhcmU=
+tags:
+ - drupal
+ - web development
 ---
 I was researching for an easy method to publish as a single post my latest {month|week|day} activities on twitter aggregated by <a href="http://drupal.org/project/activitystream">Activity Stream</a>.
 <!--break-->

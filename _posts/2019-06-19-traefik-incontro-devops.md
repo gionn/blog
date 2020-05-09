@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  Introduzione a Traefik - Incontro DevOps 2019
+tags:
+ - conferences
+ - Incontro DevOps Italia
 ---
 
 Scopriamo insieme il load-balancer open-source traefik, con supporto nativo alla
