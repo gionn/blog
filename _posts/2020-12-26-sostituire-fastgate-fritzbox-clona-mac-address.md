@@ -58,9 +58,9 @@ riferimenti:
 
 ## Procedura di configurazione
 
-Questa procedura l'ho verificata sulla mia linea FTTC 200 (VULA Tim) con un
-**FRITZ!Box 7530**, ma probabilmente è utilizzabile anche su modelli precedenti
-e successivi.
+Questa procedura l'ho verificata sulla mia linea FTTN/FTTC 200 (VULA Tim) con un
+[FRITZ!Box 7530](https://amzn.to/34KsOok), ma probabilmente è utilizzabile anche
+su modelli precedenti e successivi.
 
 Requisiti prima di iniziare la procedura:
 
