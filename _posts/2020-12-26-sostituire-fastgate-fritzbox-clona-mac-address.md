@@ -138,3 +138,5 @@ Grazie al passaggio al Fritz!Box inoltre sono passato da circa 110 Mbit/s a
 v12.0.20 con protocollo VDSL2 35b (ITU G.993.2).
 
 Enjoy!
+
+> Commenti su [r/ItalyInformatica](https://www.reddit.com/r/ItalyInformatica/comments/kkfx7w/come_sostituire_il_router_fastweb_fastgate_con_un/)
