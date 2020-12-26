@@ -72,8 +72,9 @@ Requisiti prima di iniziare la procedura:
   * Altri parametri, come VPI e VCI, sono indifferenti (lasciate il default
     proposto).
 * Scaricare l'ultima versione di
-  [FBEditor](https://github.com/proghack/FBEditor) ed essere in grado di avviare
-  *FBEditor.jar* (necessita di [Java
+  [FBEditor](https://github.com/proghack/FBEditor) (io ho usato la
+  [v0.7.2.1j](https://github.com/proghack/FBEditor/releases/tag/v0.7.2.1j)) ed
+  essere in grado di avviare *FBEditor.jar* (necessita di [Java
   JRE](https://www.oracle.com/it/java/technologies/javase-jre8-downloads.html))
 * Recuperare il MAC Address dell'attuale FASTGate, stampato sull'etichetta sul
   retro del dispositivo oppure dall'interfaccia web nella sezione *Informazioni*
