@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Come sostituire un FASTGate su linea FTTN/FTTC con un Fritz!Box senza contattare assistenza Fastweb
+image: /images/fritzbox_7530_640x400.jpg
 redirect_from:
  - /2020/12/25/sostuire-fastgate-fritzbox-clona-mac-address/
 ---
