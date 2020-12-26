@@ -3,6 +3,7 @@ layout: post
 title: Rimborso rate modem TIM
 tags:
  - italiano
+ - modem libero
 ---
 
 Voglio documentare la mia esperienza nel richiedere il rimborso delle rate del

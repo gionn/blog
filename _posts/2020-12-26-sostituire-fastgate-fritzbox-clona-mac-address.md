@@ -4,6 +4,9 @@ title: Come sostituire un FASTGate su linea FTTN/FTTC con un Fritz!Box senza con
 image: /images/fritzbox_7530_640x400.jpg
 redirect_from:
  - /2020/12/25/sostuire-fastgate-fritzbox-clona-mac-address/
+tags:
+ - italiano
+ - modem libero
 ---
 
 Dopo aver lasciato TIM e aver ottenuto [il rimborso a seguito dell'acquisto
