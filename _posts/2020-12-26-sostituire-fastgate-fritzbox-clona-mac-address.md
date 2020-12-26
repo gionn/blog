@@ -1,25 +1,35 @@
 ---
 layout: post
-title: Come sostuire un FASTGate su linea FTTN/FTTC con un Fritz!Box senza contattare assistenza Fastweb
+title: Come sostituire un FASTGate su linea FTTN/FTTC con un Fritz!Box senza contattare assistenza Fastweb
+redirect_from:
+ - /2020/12/25/sostuire-fastgate-fritzbox-clona-mac-address/
 ---
 
-Ho sentito profondamente la necessità di sostituire il FASTGate fornito da
-Fastweb con un altro router a causa di:
+Dopo aver lasciato TIM e aver ottenuto [il rimborso a seguito dell'acquisto
+obbligatorio del modem](/2020/04/20/rimborso-rate-modem-tim/), ho sentito
+profondamente la necessità di sostituire il FASTGate fornito da Fastweb con un
+altro router a causa di una serie di spiacevoli limitazioni:
 
-* Impossibilità di configurare DNS alternativi (Cloudflare, OpenDNS, Google DNS)
-* Wi-Fi 5Ghz instabile da quando ho iniziato ad usare Google Stadia nelle ultime
-  settimane
-* Impossibilità di disabilitare il servizio WOW FI che mantiene attiva una rete
-  aperta per far utilizzare ad altri clienti Fastweb la connessione Internet che
-  io pago
+* Impossibilità di configurare **DNS alternativi** (Cloudflare, OpenDNS, Google
+  DNS)
+* Wi-Fi 5Ghz instabile da quando ho iniziato ad usare **Google Stadia** nelle
+  ultime settimane
+* Impossibilità di disabilitare il servizio **WOW FI** che mantiene attiva una
+  rete aperta per far utilizzare ad altri clienti Fastweb la connessione
+  Internet che io pago
+* Più in generale, gli aggiornamenti del **firmware del FASTGate** sono gestiti
+  da remoto e non è dato sapere quali siano le modifiche apportate, né avere
+  accesso ai sorgenti, quindi il controllo che possiamo esercitare è molto
+  limitato.
 
 Nonostante la **delibera 348/18/CONS** di AGCOM, denominata volgarmente **Modem
 Libero**, preveda che il consumatore debba esser libero di non utilizzare il
-router fornito dal provider, la realtà è leggermente più complicata con Fastweb.
+router fornito dal provider (oltre al non doverlo acquistare obbligatoriamente),
+la realtà è leggermente più complicata con Fastweb.
 
-Nella pagina dedicata [Tutto quello che hai bisogno di sapere se vuoi usare un
-modem alternativo a quello fornito da
-Fastweb](https://www.fastweb.it/adsl-fibra-ottica/dettagli/altri-modem/) in
+Nella pagina dedicata del supporto Fastweb si trova [Tutto quello che hai
+bisogno di sapere se vuoi usare un modem alternativo a quello fornito da
+Fastweb](https://www.fastweb.it/adsl-fibra-ottica/dettagli/altri-modem/), in
 realtà manca di una informazione essenziale: anche collegando alla propria linea
 un modem compatibile con le specifiche documentate, otterrete con successo il
 collegamento alla portante DSL ma **non otterrete alcun indirizzo IP**, gateway
@@ -32,13 +42,14 @@ possa esser abilitato e contestualmente disattivato l'accesso tramite FASTGate.
 
 Questo implica che qualsiasi necessità futura di cambio router o ritorno al
 FASTGate (anche temporaneamente magari a causa di un guasto dell'apparato
-principale), si traduca nel dover ricontattare nuovamente il supporto, con
+principale), si traduca nel dover **ricontattare nuovamente il supporto**, con
 annessa perdita di tempo.
 
-Effettuando qualche ricerca, si scoprono diversi utenti su forum online che
-hanno provato una procedura per far funzionare il tutto senza, ma questa non
-risulta sempre ben documentata e spesso con informazioni discrepanti o con
-evidenti errori di copia-incolla. Alcuni riferimenti:
+Effettuando qualche ricerca, si scoprono diversi utenti sui forum online che
+hanno provato una procedura per poter utilizzare un modem alternativa senza
+comunicare alcunché a Fastweb, ma questa non risulta ben documentata e spesso
+con informazioni discrepanti o con evidenti errori di copia-incolla. Alcuni
+riferimenti:
 [[1]](https://www.fritzbox-forum.com/t10295-cambiare-mac-address-fritz-box#49719)
 [[2]](https://www.wisp-forum.it/viewtopic.php?t=37528)
 [[3]](https://www.ilpuntotecnico.com/forum/index.php/topic,82468.msg259979.html#msg259979)
@@ -83,7 +94,7 @@ In breve i passi da effettuare sono:
 
 Le impostazioni da modificare sono due:
 
-* Modificare la direttiva **macdsl_override** con il MAC address del proprio
+* Modificare la direttiva `macdsl_override` con il MAC address del proprio
   FASTGate:
 
 ```
@@ -91,8 +102,8 @@ Le impostazioni da modificare sono due:
     macdsl_override = 00:00:00:00:00:00;
 ```
 
-* Aggiungere la direttiva **class_identifier** nelle **2** sezioni
-  **etherencapcfg** (rispettivamente per la linea dati e linea voce):
+* Aggiungere la direttiva `class_identifier` nelle **2** sezioni
+  `etherencapcfg` (rispettivamente per la linea dati e linea voce):
 
 ```
     etherencapcfg {
@@ -107,9 +118,15 @@ Le impostazioni da modificare sono due:
     }
 ```
 
+Per completezza, con `class_identifier` andiamo a definire la [DHCP Option
+60](https://tools.ietf.org/html/rfc2132), che non è altro che un semplice campo
+testuale che il DHCP client inserisce nella propria richiesta e che corrisponde
+al **Vendor Class Identifier**, su cui il DHCP server può basarsi per rispondere
+(oppure no) alla richiesta.
+
 Entrambe le modifiche faranno credere a Fastweb che si stia ancora usando il
-proprio FASTGate e non un modem personale, e quindi si riuscirà a stabilire
-correttamente una connessione ricevendo le impostazioni attraverso DHCP.
+proprio FASTGate e non un modem personale, e quindi si riuscirà a **stabilire
+correttamente una connessione**, ricevendo le impostazioni di rete necessarie.
 
 Grazie al passaggio al Fritz!Box inoltre sono passato da circa 110 Mbit/s a
 123,8 Mbit/s di portante DSL, a 253 metri di distanza dalla centrale Broadcom
