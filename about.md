@@ -29,9 +29,8 @@ My resume (CV) is [here](https://gionn.net/files/giovanni-toraldo-cv.pdf).
 
 You can send me a tip via one of the following cryptos:
 
-* BTC: 12QnftpDzxdkobFErKj5zM4nkrZtbat3HK
-* LTC: LewicmDTgj4jdS9kPCDEQrzwi75M4tzYqb
-* ETH: ***REMOVED***
+* BTC: 1Kf1T5bTdRhdY31hg29YS1qkzxaeujAhA3
+* ETH/BNB/MATIC: ***REMOVED***
 
 [lucca]: https://goo.gl/maps/ULH2ab9wLrNGa3M86
 [1]: https://github.com/gionn
