@@ -18,7 +18,7 @@ association.
 
 My resume (CV) is [here](https://gionn.net/files/giovanni-toraldo-cv.pdf).
 
-You can offer me coffee, a beer or a pizza via:
+You can offer me a ☕, a 🍺 or a 🍕 via:
 
 * [Paypal](https://paypal.me/gionn)
 * BTC: 1Kf1T5bTdRhdY31hg29YS1qkzxaeujAhA3
