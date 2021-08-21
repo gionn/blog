@@ -29,6 +29,7 @@ My resume (CV) is [here](https://gionn.net/files/giovanni-toraldo-cv.pdf).
 
 You can send me a tip via one of the following cryptos:
 
+* [Paypal](https://paypal.me/gionn)
 * BTC: ***REMOVED***
 * ETH/BNB/MATIC: ***REMOVED***
 
