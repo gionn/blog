@@ -10,8 +10,8 @@ I am an [Open Source enthusiast 🐧][1] with [SuperCow Powers 🐮][2], a
 Java/Ruby/whatever developer 🧑🏻‍💻, writer of the [OpenNebula 3 Cloud Computing][3]
 [book ☁️][4].
 
-I currently work as Solution Developer at [Engineering D.HUB][5],
-developing the [ClouDesire][6] platform I co-founded in 2016.
+I currently work as Solutions Developer at [Engineering D.HUB][5],
+developing the [Cloudesire][6] platform I co-founded in 2016.
 
 During the weekends I shoot with a [medieval crossbow 🎯][7] for a reenactment
 association.
