@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<header>
+    <h1 class="post-title">{{ page.title }}</h1>
+</header>
+<div class="content">
+    {% include post-meta.html post=page %}
+
+    <div class="post-body">
+        {{ content }}
+
+        <div style="background-color: palegoldenrod; padding: 1em;">
+            If you liked this post, you can offer me a ☕ or a 🍺 or a 🍕 via:
+            <ul>
+                <li>
+                    <a href="https://paypal.me/gionn">Paypal</a>
+                </li>
+                <li>
+                    Bitcoin <code>1Kf1T5bTdRhdY31hg29YS1qkzxaeujAhA3</code>
+                </li>
+                <li>
+                    Ethereum <code>0xa7d7e0c3Ac54cBE90865Bdd5f6eFfd058656fd31</code>
+                </li>
+            </ul>
+        </div>
+
+        {% include post-tags.html post=page %}
+    </div>
+
+    {% include comments.html %}
+    {% include related_posts.html %}
+</div>
