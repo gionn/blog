@@ -21,8 +21,8 @@ My resume (CV) is [here](https://gionn.net/files/giovanni-toraldo-cv.pdf).
 You can offer me a ☕, a 🍺 or a 🍕 via:
 
 * [Paypal](https://paypal.me/gionn)
-* Bitcon: ***REMOVED***
-* Ethereum (and L2): ***REMOVED***
+* Bitcon: bc1qmmgdj4mhcsk7aavvtqepv0wqr5r2x5sau6lc66
+* Ethereum (and L2): 0x3Bce5d576991be320fD704D7Ca28A4FF7612C63D
 
 [lucca]: https://goo.gl/maps/ULH2ab9wLrNGa3M86
 [1]: https://github.com/gionn
