@@ -10,11 +10,15 @@ I am an [Open Source enthusiast 🐧][1] with [SuperCow Powers 🐮][2], a
 Java/Ruby/whatever developer 🧑🏻‍💻, writer of the [OpenNebula 3 Cloud Computing][3]
 [book ☁️][4].
 
-I currently work as Solutions Developer at [Engineering D.HUB][5],
-developing the [Cloudesire][6] platform I co-founded in 2016.
+I currently work as DevOps Engineer at [Hyland Software][8] in the [Alfresco][9]
+engineering. Some of my work involves the maintaining of the open source
+[Ansible Playbook][10], the [helm charts][11] and [build tools][12].
+
+Previously I was developing [Cloudesire][6], the platform I co-founded in 2016 that
+later got acquired by [Engineering D.HUB][5].
 
 During the weekends I shoot with a [medieval crossbow 🎯][7] for a reenactment
-association.
+association in the city of [Lucca][13].
 
 My resume (CV) is [here](https://gionn.net/files/giovanni-toraldo-cv.pdf).
 
@@ -32,3 +36,9 @@ You can offer me a ☕, a 🍺 or a 🍕 via:
 [5]: https://eng.it/dhub
 [6]: https://www.cloudesire.com
 [7]: https://consanpaolino.org/gallery
+[8]: https://www.hyland.com/
+[9]: https://www.alfresco.com/
+[10]: https://github.com/Alfresco/alfresco-ansible-deployment
+[11]: https://github.com/Alfresco/acs-deployment
+[12]: https://github.com/Alfresco/alfresco-build-tools
+[13]: https://goo.gl/maps/aMETfPuB9MdsFVebA
