@@ -16,7 +16,6 @@ linkedin_username: giovannitoraldo
 rss: rss
 
 # integrations
-google_analytics: UA-107557-13
 disqus:
   shortname: gionn-blog
 
