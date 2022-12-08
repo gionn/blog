@@ -16,22 +16,24 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0
 
-      - uses: ruby/setup-ruby@v1
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
 
-      - name: Build
+      - name: Do jekyll build
         run: bundle exec jekyll build
 
-      - name: Setup Pages
+      - name: Configure pages
         if: github.ref_name == 'master'
         uses: actions/configure-pages@v2
 
-      - name: Upload artifact
+      - name: Upload pages
         if: github.ref_name == 'master'
         uses: actions/upload-pages-artifact@v1
         with:
