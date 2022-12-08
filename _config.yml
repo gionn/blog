@@ -23,12 +23,12 @@ disqus:
 paginate: 5
 permalink: /:year/:month/:day/:title/
 timezone: Europe/Rome
-remote_theme: fongandrew/hydeout
+
+theme: jekyll-theme-hydeout
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-remote-theme
   - jemoji
   - jekyll-redirect-from

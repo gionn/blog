@@ -1,4 +1,14 @@
-source 'https://rubygems.org'
-gem 'github-pages'
-gem 'html-proofer'
-gem "jekyll-theme-hydeout", "~> 4.2"
+source "https://rubygems.org"
+
+gem "jekyll"
+gem "jekyll-theme-hydeout"
+
+group :jekyll_plugins do
+  gem "jekyll-seo-tag"
+  gem "jekyll-feed"
+  gem "jekyll-redirect-from"
+  gem "jekyll-minifier"
+  gem "jemoji"
+  gem "jekyll-last-modified-at"
+  gem "jekyll-sitemap"
+end
