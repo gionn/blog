@@ -16,4 +16,4 @@ end
 # Workaround for failing build on Fleek:
 # Conversion error: Jekyll::Converters::Scss
 # encountered an error while converting 'assets/css/main.scss'
-gem "jekyll-sass-converter", "2.2.0"
+gem "jekyll-sass-converter", "3.0.0"
