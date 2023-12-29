@@ -13,4 +13,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
 end
 
+# Workaround for failing build on Fleek:
+# Conversion error: Jekyll::Converters::Scss
+# encountered an error while converting 'assets/css/main.scss'
 gem "jekyll-sass-converter", "2.2.0"
