@@ -11,19 +11,16 @@ layout: default
     <div class="post-body">
         {{ content }}
 
-        <div style="background-color: palegoldenrod; padding: 1em;">
-            If you liked this post, you can offer me a ☕ or a 🍺 or a 🍕 via:
-            <ul>
-                <li>
-                    <a href="https://paypal.me/gionn">Paypal</a>
-                </li>
-                <li>
-                    Bitcoin <code>bc1qmmgdj4mhcsk7aavvtqepv0wqr5r2x5sau6lc66</code>
-                </li>
-                <li>
-                    Ethereum <code>0x3Bce5d576991be320fD704D7Ca28A4FF7612C63D</code>
-                </li>
-            </ul>
+        {% include donations.html %}
+
+        <div id="cta-comments">
+            <p>🇬🇧 🇺🇸 If you have found inaccuracies or wish to improve this
+            article, please use the comments section below (after clicking on
+            Load Comments).</p>
+
+            <p>🇮🇹 Se hai trovato imprecisioni o vuoi migliorare questo
+            articolo, utilizza la sezione commenti qui sotto (dopo aver cliccato
+            Load Comments)</p>
         </div>
 
         {% include post-tags.html post=page %}

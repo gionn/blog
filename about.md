@@ -22,12 +22,6 @@ association in the city of [Lucca][13].
 
 My resume (CV) is [here](https://gionn.net/files/giovanni-toraldo-cv.pdf).
 
-You can offer me a ☕, a 🍺 or a 🍕 via:
-
-* [Paypal](https://paypal.me/gionn)
-* Bitcon: bc1qmmgdj4mhcsk7aavvtqepv0wqr5r2x5sau6lc66
-* Ethereum (and L2): 0x3Bce5d576991be320fD704D7Ca28A4FF7612C63D
-
 [lucca]: https://goo.gl/maps/ULH2ab9wLrNGa3M86
 [1]: https://github.com/gionn
 [2]: https://serverfault.com/users/72778/giovanni-toraldo
@@ -42,3 +36,5 @@ You can offer me a ☕, a 🍺 or a 🍕 via:
 [11]: https://github.com/Alfresco/acs-deployment
 [12]: https://github.com/Alfresco/alfresco-build-tools
 [13]: https://goo.gl/maps/aMETfPuB9MdsFVebA
+
+{% include donations.html %}
