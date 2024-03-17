@@ -15,52 +15,61 @@ economica e portato avanti una vita tutto sommato abbastanza frugale, ho
 iniziato a chiedermi: devo davvero continuare a lavorare fino alla pensione?
 
 Sui social network piccole e grandi truffe di ogni tipo trovano terreno facile,
-con fuffa-guru in cerca di vendere solo per oggi e soltanto per voi il corso
+con **fuffa-guru** in cerca di vendere solo per oggi e soltanto per voi il corso
 scontato su trading forex, dropshipping, copy-trading e cripto. Tutto ampiamente
 foraggiato e condito da pubblicità invasive.
 
-Nella vita reale la situazione non è affatto migliore, dato che i consulenti di
-fiducia della banca propinano prodotti della banca interessanti solo per la
+Nella vita reale la situazione non è affatto migliore, dato che i **consulenti
+di fiducia** della banca propinano prodotti della banca interessanti solo per la
 banca, grazie a commissioni che bruciano quel poco che si riesce a generare
 investendo attivamente in strumenti a “basso rischio”.
 
 Da diversi anni fortunatamente sono emersi movimenti alternativi, principalmente
-in lingua inglese, che forniscono moltissimi contenuti: da FiRe (Financial
-Independence, Retire Early) a Bogleheads (investire seguendo John Bogle -
+in lingua inglese, che forniscono moltissimi contenuti: da **FiRe** (Financial
+Independence, Retire Early) a **Bogleheads** (investire seguendo John Bogle -
 fondatore di Vanguard), però, come spesso accade, i principi sono sì
 interessanti, ma troppo americano-centrici e quindi non sempre di immediata
 applicazione per chi vive in Italia.
 
-Su quest’ultimo aspetto ci vengono in aiuto principalmente due autori: Mr. RIP e
-Paolo Coletti, che spesso partecipano a discussioni sul subreddit
+Su quest’ultimo aspetto ci vengono in aiuto principalmente due autori: **Mr.
+RIP** e **Paolo Coletti**, che spesso partecipano a discussioni sul subreddit
 **r/ItaliaPersonalFinance** e che pubblicano contenuti didattici sui rispettivi
-canali YouTube (link in calce).
+canali YouTube.
 
 Personalmente preferisco sempre leggere un articolo invece che guardare ore di
 video, quindi cercherò qui di condensare tutto quello che ho imparato e che
 spero serva a chi parte da zero per apprendere velocemente le informazioni
 essenziali e successivamente approfondire con i contenuti sopra citati.
 
+* [Le fondamenta](#le-fondamenta)
+* [Gli strumenti](#gli-strumenti)
+* [Dalla teoria alla pratica: obbligazioni e ETF](#dalla-teoria-alla-pratica-obbligazioni-e-etf)
+  * [Obbligazioni](#obbligazioni)
+  * [ETF](#etf)
+* [Approfondimenti](#approfondimenti)
+
+> Tutti i link alle risorse citate sono condensati in calce nell'ultima sezione.
+
 ## Le fondamenta
 
 Per garantire una gestione finanziaria efficace, è essenziale comprendere e
 soddisfare quattro tipi fondamentali di esigenze, noti come i “Pilastri” nel
-corso Educati e Finanziati di Paolo Coletti (link in calce):
+corso “Educati e Finanziati” di Paolo Coletti:
 
-* Conto corrente: la liquidità per le spese di tutti i giorni (pizza e birra,
-  bollette, affitto) in attesa che arrivi il prossimo stipendio. Per poter stare
-  tranquillo/a, tieni qui all’incirca quello che ti serve per vivere i prossimi
-  due mesi.
-* Fondo di emergenza: ti si guasta l’auto con cui devi andare a lavoro, la
+* **Conto corrente**: la liquidità per le spese di tutti i giorni (pizza e
+  birra, bollette, affitto) in attesa che arrivi il prossimo stipendio. Per
+  poter stare tranquillo/a, tieni qui all’incirca quello che ti serve per vivere
+  i prossimi due mesi.
+* **Fondo di emergenza**: ti si guasta l’auto con cui devi andare a lavoro, la
   caldaia e la lavatrice, spese mediche impreviste (puoi toccarti ma succede,
   specialmente in Italia) oppure rimani senza lavoro per sei mesi: valuta quale
   potrebbe essere l’ammontare che ti farà dormire sereno.
-* Spese previste: per le spese future con una data di scadenza più o meno
+* **Spese previste**: per le spese future con una data di scadenza più o meno
   definita non serve spaccare il secondo. Ad esempio, potresti pianificare di
   cambiare l’auto ogni sei anni o risparmiare più a lungo, accumulando
   l’anticipo per il mutuo per la prima casa. Inoltre è probabile che avrai
   bisogno di ristrutturare la tua abitazione almeno ogni 10 anni.
-* Investimenti: Se sei giunto a questo punto e hai ancora una parte del tuo
+* **Investimenti**: Se sei giunto a questo punto e hai ancora una parte del tuo
   attuale patrimonio non destinata ai tre punti precedenti, oppure se riesci a
   risparmiare una porzione del tuo stipendio, allora sei pronto per investire a
   lungo termine.
@@ -71,35 +80,35 @@ Una volta identificata la suddivisione del tuo patrimonio, è necessario
 comprendere quali tipologie di strumenti siano più adatte per ciascuna
 categoria, in modo da poterle utilizzare di conseguenza:
 
-* Conto corrente: Online, fisico, ibrido; qualsiasi banca in Italia va bene e il
-  Fondo Interbancario copre fino a 100.000 euro in caso di default. La maggior
-  parte dei conti correnti online sono gratuiti, mentre quelli presso le banche
-  non dovrebbero costare più di 100 euro all'anno, altrimenti devi proprio
-  cercare qualcosa di meglio.
-* Fondo di emergenza: può essere investito a basso rischio, ma è importante
+* **Conto corrente**: Online, fisico, ibrido; qualsiasi banca in Italia va bene
+  e il Fondo Interbancario copre fino a 100.000 euro in caso di default. La
+  maggior parte dei conti correnti online sono gratuiti, mentre quelli presso le
+  banche non dovrebbero costare più di 100 euro all'anno, altrimenti devi
+  proprio cercare qualcosa di meglio.
+* **Fondo di emergenza**: può essere investito a basso rischio, ma è importante
   assicurarsi che possa essere facilmente accessibile in breve tempo (1-2
   giorni) e che l'intero importo del capitale sia disponibile. Vanno bene i
   conti correnti con un tasso di interesse sulla liquidità, i conti deposito
   svincolabili o addirittura un ETF monetario.
-* Spese previste: per il denaro destinato a questa categoria vanno bene gli
+* **Spese previste**: per il denaro destinato a questa categoria vanno bene gli
   investimenti a scadenza. Gli strumenti preferiti sono tipicamente le
   obbligazioni, che devono essere rigorosamente portate a scadenza, oppure un
   conto deposito anche non svincolabile in anticipo.
-* Investimenti: Semplificando molto, il modo più semplice per investire a lungo
-  termine è acquistare quote di un ETF che replica un indice azionario globale
-  con un costo di gestione (TER) mediamente intorno allo 0,20% annuale sul
-  capitale investito. Le azioni sono strumenti il cui valore di mercato può
+* **Investimenti**: Semplificando molto, il modo più semplice per investire a
+  lungo termine è acquistare quote di un ETF che replica un indice azionario
+  globale con un costo di gestione (TER) mediamente intorno allo 0,20% annuale
+  sul capitale investito. Le azioni sono strumenti il cui valore di mercato può
   oscillare notevolmente nel breve termine, ma attraverso la diversificazione
   ottenuta tramite un indice, si ha una ragionevole certezza di ottenere
   guadagni su investimenti di almeno 10 anni.
 
-![alt_text](/images/finanza-personale-rendimenti-lungo-periodo.png "FTSE All-World, investendo 10.000 € nel 1994 fino a marzo 2024")
-_FTSE All-World, investendo 10.000 € nel 1994 fino a marzo 2024_
+![FTSE All-World investendo 10.000 € nel 1994 fino a marzo 2024](/images/finanza-personale-rendimenti-lungo-periodo.png "FTSE All-World investendo 10.000 € nel 1994 fino a marzo 2024")
+> _FTSE All-World, investendo 10.000 € nel 1994 fino a marzo 2024_
 
 ## Dalla teoria alla pratica: obbligazioni e ETF
 
-Per poter acquistare obbligazioni e ETF serve avere un conto titoli presso una
-banca, che può anche essere la stessa banca con cui intrattieni già rapporti
+Per poter acquistare obbligazioni e ETF serve avere un **conto titoli** presso
+una banca, che può anche essere la stessa banca con cui intrattieni già rapporti
 oppure un broker, che spesso ha tariffe concorrenziali.
 
 Nel subreddit IPF spesso vengono consigliati Directa, da affiancare alla propria
@@ -107,7 +116,7 @@ banca, o Fineco che offre anche i normali servizi di conto corrente,
 specialmente conveniente per gli under trenta. Se preferisci operare con la tua
 banca, verifica se sono presenti costi ricorrenti sulla custodia titoli (meglio
 non averne) e per ogni transazione su Borsa Italiana, che non dovrebbero
-superare pochi euro. Attenzione al regime fiscale applicato: per non doversi
+superare pochi euro. Attenzione al **regime fiscale** applicato: per non doversi
 preoccupare degli adempimenti fiscali è sempre bene scegliere un operatore che
 offra il regime amministrato e non dichiarativo.
 
@@ -120,13 +129,13 @@ dovrebbero essere sempre accessibili ovunque.
 
 La cosa importante da capire è che il valore di una obbligazione può variare nel
 tempo a seconda dell’andamento dei tassi delle banche centrali, e l’unico modo
-per mettersi al riparo da queste fluttuazioni è portare l’obbligazione a
-scadenza. Per aiutarci a trovare le obbligazioni in cui parcheggiare il nostro
+per mettersi al riparo da queste fluttuazioni è **portare l’obbligazione a
+scadenza**. Per aiutarci a trovare le obbligazioni in cui parcheggiare il nostro
 capitale entro una certa data, si può usare
 [simpletoolsforinvestors](https://www.simpletoolsforinvestors.eu/yieldtable.php?datatype=EOD&currency=EUR&volumerating=4)
 avendo cura di impostare nei filtri di ricerca:
 
-* rating pari a 4: è l’affidabilità dell’emittente, tipicamente a livello più
+* Rating pari a 4: è l’affidabilità dell’emittente, tipicamente a livello più
   alto sono quasi sempre obbligazioni governative europee.
 * Divisa: in EUR per evitare fluttuazioni dovute alla valuta, che nel breve
   periodo potrebbero anche causare un rendimento negativo.
@@ -150,22 +159,23 @@ degli ETF acquistabili nel mercato europeo.
 
 Esistono diversi tipi di ETF, ma a noi ne interessano principalmente due:
 
-* [ETF Monetari](https://www.justetf.com/en/find-etf.html?assetClass=class-moneyMarket&groupField=none&sortField=fundSize&sortOrder=desc&currency=EUR) (Money Market) per fondi di emergenza e liquidità a breve termine.
-* [ETF azionari globali](https://www.justetf.com/en/how-to/#indices) (MSCI o FTSE, World o Developed) per gli investimenti a lungo termine (10 anni o più).
+* [ETF monetari](https://www.justetf.com/en/find-etf.html?assetClass=class-moneyMarket&groupField=none&sortField=fundSize&sortOrder=desc&currency=EUR) (Money Market) per fondi di emergenza e liquidità a breve termine.
+* [ETF azionari](https://www.justetf.com/en/how-to/#indices) (MSCI o FTSE, World o Developed) per gli investimenti a lungo termine (10 anni o più).
 
 Le cose a cui prestare attenzione sono:
 
-* la destinazione dei dividendi dell’ETF: quelli ad accumulazione reinvestono
-  nell’ETF stesso incrementando il suo valore, quelli a distribuzione te li
-  remunerano man mano che maturano (tipicamente trimestralmente o
-  semestralmente). Benché possa sembrare accattivante ricevere soldi sul proprio
-  conto senza dover fare nulla, questa non è in realtà una scelta efficiente nel
-  lungo periodo e quindi vanno preferiti sempre gli ETF ad accumulazione.
-* Il TER: è il costo in percentuale sul capitale investito che l’emittente
+* la destinazione dei **dividendi** dell’ETF: quelli ad accumulazione
+  reinvestono nell’ETF stesso incrementando il suo valore, quelli a
+  distribuzione te li remunerano man mano che maturano (tipicamente
+  trimestralmente o semestralmente). Benché possa sembrare accattivante ricevere
+  soldi sul proprio conto senza dover fare nulla, questa non è in realtà una
+  scelta efficiente nel lungo periodo e quindi vanno preferiti sempre gli ETF ad
+  accumulazione.
+* Il **TER**: è il costo in percentuale sul capitale investito che l’emittente
   dell’ETF si terrà per sé ogni anno per il disturbo. Gli ETF più economici
   oscillano fra lo 0,05% e lo 0,25%: sopra questo range non si considerano poi
   così economici.
-* Le dimensioni del fondo: in generale è preferibile scegliere ETF a elevata
+* Le **dimensioni** del fondo: in generale è preferibile scegliere ETF a elevata
   capitalizzazione per svariati buoni motivi, a meno che non sia un ETF nato da
   poco o possieda specifiche caratteristiche che ci interessano e che altri non
   hanno.
@@ -174,9 +184,8 @@ Sugli ETF monetari c’è poco da dire: il prezzo non è soggetto a fluttuazioni
 questo risulta immediatamente visibile nel grafico dei rendimenti, anche a
 diverse cadenze temporali.
 
-
 ![Rendimento annuale di XEON](/images/finanza-personale-etf-monetari.png "Rendimento annuale di XEON")
-_Rendimento annuale di [XEON](https://www.justetf.com/en/etf-profile.html?isin=LU0290358497#chart)_
+> _Rendimento annuale di [XEON](https://www.justetf.com/en/etf-profile.html?isin=LU0290358497#chart)_
 
 Gli ETF azionari invece accendono infuocate discussioni nel subreddit di IPF,
 riassumibili nei seguenti tre approcci:
@@ -213,7 +222,7 @@ volatilità, come durante la piena crisi covid iniziata nel febbraio 2020, è
 sicuramente meglio per te non investire nell’azionario.
 
 ![Rendimenti dal 2019 al 2024 di VUAA (SP500), IWDA (Developed), VWCE (All-World)](/images/finanza-personale-etf-stocks.png "Rendimenti dal 2019 al 2024 di VUAA (SP500), IWDA (Developed), VWCE (All-World)")
-_Rendimenti dal 2019 al 2024 di VUAA (SP500), IWDA (Developed), VWCE (All-World)_
+> _Rendimenti dal 2019 al 2024 di VUAA (SP500), IWDA (Developed), VWCE (All-World)_
 
 ## Approfondimenti
 
