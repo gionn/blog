@@ -102,7 +102,7 @@ categoria, in modo da poterle utilizzare di conseguenza:
   ottenuta tramite un indice, si ha una ragionevole certezza di ottenere
   guadagni su investimenti di almeno 10 anni.
 
-![FTSE All-World investendo 10.000 € nel 2004 fino a marzo 2024](/images/finanza-personale-rendimenti-lungo-periodo.png "FTSE All-World investendo 10.000 € nel 2004 fino a marzo 2024")
+[![FTSE All-World investendo 10.000 € nel 2004 fino a marzo 2024](/images/finanza-personale-rendimenti-lungo-periodo.png "FTSE All-World investendo 10.000 € nel 2004 fino a marzo 2024")](/images/finanza-personale-rendimenti-lungo-periodo.png)
 <small>_FTSE All-World, investendo 10.000 € nel 2004 fino a marzo 2024 (fonte: curvo.eu/backtest)_</small>
 
 ## Dalla teoria alla pratica: obbligazioni e ETF
@@ -184,7 +184,7 @@ Sugli ETF monetari c’è poco da dire: il prezzo non è soggetto a fluttuazioni
 questo risulta immediatamente visibile nel grafico dei rendimenti, anche a
 diverse cadenze temporali.
 
-![Rendimento annuale di XEON](/images/finanza-personale-etf-monetari.png "Rendimento annuale di XEON")
+[![Rendimento annuale di XEON](/images/finanza-personale-etf-monetari.png "Rendimento annuale di XEON")](/images/finanza-personale-etf-monetari.png)
 <small>_Rendimento annuale di [XEON](https://www.justetf.com/en/etf-profile.html?isin=LU0290358497#chart) (da 8 marzo 2023 a 8 marzo 2024)_</small>
 
 Gli ETF azionari invece accendono infuocate discussioni nel subreddit di IPF,
@@ -221,7 +221,7 @@ a mantenere fede alla durata prevista dell’investimento nei momenti di alta
 volatilità, come durante la piena crisi covid iniziata nel febbraio 2020, è
 sicuramente meglio per te non investire nell’azionario.
 
-![Rendimenti dal 2019 al 2024 di VUAA (SP500), IWDA (Developed), VWCE (All-World)](/images/finanza-personale-etf-stocks.png "Rendimenti dal 2019 al 2024 di VUAA (SP500), IWDA (Developed), VWCE (All-World)")
+[![Rendimenti dal 2019 al 2024 di VUAA (SP500), IWDA (Developed), VWCE (All-World)](/images/finanza-personale-etf-stocks.png "Rendimenti dal 2019 al 2024 di VUAA (SP500), IWDA (Developed), VWCE (All-World)")](/images/finanza-personale-etf-stocks.png)
 <small>_Rendimenti dal 2019 al 2024 di VUAA (SP500), IWDA (Developed), VWCE (All-World)_</small>
 
 ## Approfondimenti
