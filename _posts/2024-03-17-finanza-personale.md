@@ -48,7 +48,7 @@ essenziali e successivamente approfondire con i contenuti sopra citati.
   * [ETF](#etf)
 * [Approfondimenti](#approfondimenti)
 
-> Tutti i link alle risorse citate sono condensati in calce nell'ultima sezione.
+> Nell'ultima sezione troverai i link a tutte le risorse citate in questo articolo.
 
 ## Le fondamenta
 
@@ -243,6 +243,14 @@ valgano tutto il tempo investito a studiarle.
   (prima e seconda parte)
 * [r/ItaliaPersonalFinance](https://www.reddit.com/r/ItaliaPersonalFinance/) e
   la sua [wiki](https://www.italiapersonalfinance.it)
+
+Risorse in lingua inglese:
+
+* [FI/RE - Financial Independence & Retiring Early](https://www.reddit.com/r/Fire/)
+* [Passive Indexing Community for Long-Term Lazy Investors](https://www.reddit.com/r/Bogleheads/)
+  * [Arguments World (Non-US) vs US Equities](https://www.bogleheads.org/forum/viewtopic.php?t=409214)
+  * [In defense of Bonds](https://new.reddit.com/r/Bogleheads/comments/15drkxn/in_defense_of_in_defense_of_bonds/)
+  * [The Simple Path to Wealth](https://new.reddit.com/r/Bogleheads/comments/rxzook/the_simple_path_to_wealth_book_summary_by_jl/)
 * [Investment Guides](https://www.justetf.com/en/how-to/) di JustETF, per
   scoprire con approccio top-down quali siano gli ETF che potresti voler
   acquistare.
