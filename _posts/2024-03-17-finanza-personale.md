@@ -52,6 +52,8 @@ essenziali e successivamente approfondire con i contenuti sopra citati.
 * [Approfondimenti](#approfondimenti)
 
 > Nell'ultima sezione troverai i link a tutte le risorse citate in questo articolo.
+>
+> Tutte le informazioni qui pubblicate NON devono essere considerate consigli finanziari.
 
 ## Le fondamenta
 
