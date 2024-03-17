@@ -2,6 +2,9 @@
 layout: post
 title: "Finanza personale: dal risparmio all'investimento"
 image: /images/monk-meditating-into-deep-space-on-a-mountain-of-coins.jpg
+permalink: /2024/finanza-personale/
+redirect_from:
+ - /2024/03/17/finanza-personale/
 tags:
  - italiano
  - finanza personale
