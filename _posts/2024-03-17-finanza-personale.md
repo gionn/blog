@@ -246,3 +246,5 @@ valgano tutto il tempo investito a studiarle.
 * [Investment Guides](https://www.justetf.com/en/how-to/) di JustETF, per
   scoprire con approccio top-down quali siano gli ETF che potresti voler
   acquistare.
+
+> Revisione dei testi a cura di [figliadimaestra](https://figliadimaestra.it/).
