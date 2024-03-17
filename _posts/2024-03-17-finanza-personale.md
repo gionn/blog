@@ -16,8 +16,8 @@ iniziato a chiedermi: devo davvero continuare a lavorare fino alla pensione?
 
 Sui social network piccole e grandi truffe di ogni tipo trovano terreno facile,
 con **fuffa-guru** in cerca di vendere solo per oggi e soltanto per voi il corso
-scontato su trading forex, dropshipping, copy-trading e cripto. Tutto ampiamente
-foraggiato e condito da pubblicità invasive.
+scontato su trading forex, dropshipping, copy-trading e criptovalute. Tutto
+ampiamente foraggiato e condito da pubblicità invasive.
 
 Nella vita reale la situazione non è affatto migliore, dato che i **consulenti
 di fiducia** della banca propinano prodotti della banca interessanti solo per la
@@ -102,8 +102,8 @@ categoria, in modo da poterle utilizzare di conseguenza:
   ottenuta tramite un indice, si ha una ragionevole certezza di ottenere
   guadagni su investimenti di almeno 10 anni.
 
-![FTSE All-World investendo 10.000 € nel 1994 fino a marzo 2024](/images/finanza-personale-rendimenti-lungo-periodo.png "FTSE All-World investendo 10.000 € nel 1994 fino a marzo 2024")
-> _FTSE All-World, investendo 10.000 € nel 1994 fino a marzo 2024_
+![FTSE All-World investendo 10.000 € nel 2004 fino a marzo 2024](/images/finanza-personale-rendimenti-lungo-periodo.png "FTSE All-World investendo 10.000 € nel 2004 fino a marzo 2024")
+> _FTSE All-World, investendo 10.000 € nel 2004 fino a marzo 2024_
 
 ## Dalla teoria alla pratica: obbligazioni e ETF
 
