@@ -7,3 +7,7 @@ $link-color: #fe7f2d;
 $sidebar-sticky: false;
 $layout-reverse: false;
 @import "hydeout";
+
+ul ul {
+  margin-bottom: 0em;
+}
