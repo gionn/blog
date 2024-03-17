@@ -33,7 +33,7 @@ applicazione per chi vive in Italia.
 
 Su quest’ultimo aspetto ci vengono in aiuto principalmente due autori: **Mr.
 RIP** e **Paolo Coletti**, che spesso partecipano a discussioni sul subreddit
-**r/ItaliaPersonalFinance** e che pubblicano contenuti didattici sui rispettivi
+**ItaliaPersonalFinance** e che pubblicano contenuti didattici sui rispettivi
 canali YouTube.
 
 Personalmente preferisco sempre leggere un articolo invece che guardare ore di
@@ -103,7 +103,7 @@ categoria, in modo da poterle utilizzare di conseguenza:
   guadagni su investimenti di almeno 10 anni.
 
 ![FTSE All-World investendo 10.000 € nel 2004 fino a marzo 2024](/images/finanza-personale-rendimenti-lungo-periodo.png "FTSE All-World investendo 10.000 € nel 2004 fino a marzo 2024")
-> _FTSE All-World, investendo 10.000 € nel 2004 fino a marzo 2024_
+> _FTSE All-World, investendo 10.000 € nel 2004 fino a marzo 2024 (fonte: curvo.eu/backtest)_
 
 ## Dalla teoria alla pratica: obbligazioni e ETF
 
@@ -244,5 +244,5 @@ valgano tutto il tempo investito a studiarle.
 * [r/ItaliaPersonalFinance](https://www.reddit.com/r/ItaliaPersonalFinance/) e
   la sua [wiki](https://www.italiapersonalfinance.it)
 * [Investment Guides](https://www.justetf.com/en/how-to/) di JustETF, per
-  scoprire con approccio top-down quali sianogli ETF che potresti voler
+  scoprire con approccio top-down quali siano gli ETF che potresti voler
   acquistare.
