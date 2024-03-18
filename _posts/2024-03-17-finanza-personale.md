@@ -160,7 +160,7 @@ perdita, solitamente al di sotto dell’anno solare le fluttuazioni sono minime.
 
 ### ETF
 
-Per gli ETF ci si affida a [justetf.com](justetf.com), che semplifica la ricerca
+Per gli ETF ci si affida a [justetf.com](https://justetf.com), che semplifica la ricerca
 degli ETF acquistabili nel mercato europeo.
 
 Esistono diversi tipi di ETF, ma a noi ne interessano principalmente due:
