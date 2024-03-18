@@ -140,8 +140,9 @@ capitale entro una certa data, si può usare
 [simpletoolsforinvestors](https://www.simpletoolsforinvestors.eu/yieldtable.php?datatype=EOD&currency=EUR&volumerating=4)
 avendo cura di impostare nei filtri di ricerca:
 
-* Rating pari a 4: è l’affidabilità dell’emittente, tipicamente a livello più
-  alto sono quasi sempre obbligazioni governative europee.
+* Volume Rating pari a 4: più un titolo viene scambiato sui mercati e meno si
+  rischia di acquistare a un prezzo maggiorato. Tipicamente a questo livello
+  sono quasi sempre obbligazioni governative europee.
 * Divisa: in EUR per evitare fluttuazioni dovute alla valuta, che nel breve
   periodo potrebbero anche causare un rendimento negativo.
 * Scadenza, ovvero il momento in cui desideriamo recuperare il capitale iniziale
