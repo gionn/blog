@@ -227,8 +227,8 @@ a mantenere fede alla durata prevista dell’investimento nei momenti di alta
 volatilità, come durante la piena crisi covid iniziata nel febbraio 2020, è
 sicuramente meglio per te non investire nell’azionario.
 
-[![Rendimenti dal 2019 al 2024 di VUAA (SP500), IWDA (Developed), VWCE (All-World)](/images/finanza-personale-etf-stocks.png "Rendimenti dal 2019 al 2024 di VUAA (SP500), IWDA (Developed), VWCE (All-World)")](/images/finanza-personale-etf-stocks.png)
-<small>_Rendimenti dal 2019 al 2024 di VUAA (SP500), IWDA (Developed), VWCE (All-World)_</small>
+[![Rendimenti dal 2004 al 2024 di SP500, IWDA (Developed), VWCE (All-World)](/images/finanza-personale-etf-stocks.png "Rendimenti dal 2004 al 2024 di SP500, IWDA (Developed), VWCE (All-World)")](/images/finanza-personale-etf-stocks.png)
+<small>_Rendimenti dal 2004 al 2024 di SP500, IWDA (Developed), VWCE (All-World)_</small>
 
 ## Approfondimenti
 
