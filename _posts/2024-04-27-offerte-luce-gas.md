@@ -124,8 +124,8 @@ offerte a prezzo variabile, l’utente
 [Sharkman1962](https://www.reddit.com/user/Sharkman1962/) ha realizzato e
 mantiene aggiornati due modelli di fogli di calcolo molto ben fatti:
 
-* [Offerte gestori mercato libero energia elettrica](https://docs.google.com/spreadsheets/d/18bzSR5JAIGhiISITbEMehDAWRVXMJqUNbqXeTmYLttM/edit)
-* [Offerte gestori mercato libero gas](https://docs.google.com/spreadsheets/d/10kpa1Ej522-zNxeI3YgeE1wd2IRxxq2uaFV8qm1Hiy0/edit)
+* [Offerte gestori mercato libero energia elettrica](https://docs.google.com/spreadsheets/d/10kpa1Ej522-zNxeI3YgeE1wd2IRxxq2uaFV8qm1Hiy0/edit?usp=sharing)
+* [Offerte gestori mercato libero gas](https://docs.google.com/spreadsheets/d/18bzSR5JAIGhiISITbEMehDAWRVXMJqUNbqXeTmYLttM/edit?usp=sharing)
 
 In ogni caso, verifica sempre i prezzi inseriti in caso non siano aggiornati o
 contengano errori.
