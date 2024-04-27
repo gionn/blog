@@ -44,10 +44,10 @@ As an additional note, I <a name="patch">added a line</a> to the perl script to 
 +++ cap_sasl.pl 2010-07-10 13:10:04.000000000 +0200
 @@ -4,6 +4,7 @@
  # $Id$
- 
+
  use MIME::Base64;
 +use Irssi::Irc;
- 
+
  $VERSION = "1.1";
  </code></pre>
 
@@ -55,7 +55,6 @@ For macports users:
 <pre><code>sudo port install p5-crypt-blowfish p5-crypt-dh p5-crypt-openssl-bignum \
 p5-math-gmp p5-math-pari</code></pre>
 Although I've installed these libraries, I continue to get the error:
-<pre><code>Math::BigInt: couldn't load specified math lib(s), fallback to Math::BigInt::Calc at 
+<pre><code>Math::BigInt: couldn't load specified math lib(s), fallback to Math::BigInt::Calc at
           /opt/local/lib/perl5/vendor_perl/5.8.9/Crypt/DH.pm line 6</code></pre>
 Comments welcome.
-
