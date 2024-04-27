@@ -18,5 +18,5 @@ We can configure Squid to simply ignore that request header, and usually client 
 
 Add in squid.conf:
 <code>ignore_expect_100 on</code>
- 
+
 Android application like AppBrain and Facebook Contact Sync, and BOINC client was having login issues due to this reason.

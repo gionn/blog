@@ -47,7 +47,7 @@ Le SDK contengono software e documentazione necessaria a chi vuol sviluppare sia
 <h2><a name="step1">Abilita USB Debugging</a></h2>
 Menu -> Impostazioni -> Applicazioni -> Sviluppo -> Debug USB
 <code>$ ./tools/adb devices
-List of devices attached 
+List of devices attached
 HT935NG08417    device</code>
 Se il vostro device viene riportato, siete pronti per poter utilizzare Fastboot
 
@@ -75,7 +75,7 @@ Così a naso, sembra che il miglior Android mantenuto dalla comunità è Cyanog
 
 <h2><a name="step3">Installazione rom di recovery</a></h2>
 <del datetime="2010-09-04T10:06:00+00:00">Scarica la più recente versione della <a href="http://www.cyanogenmod.com/downloads/recovery-image">Recovery Image CyanogenMod</a> (sostituisce il sistema minimale di recovery, sarà  utilizzato per poter installare facilmente Android+CyanogenMod)</del>
-Scarica la più recente versione della ra-recovery da <a href="http://forum.xda-developers.com/showpost.php?p=4647751&postcount=1">XDA</a>. 
+Scarica la più recente versione della ra-recovery da <a href="http://forum.xda-developers.com/showpost.php?p=4647751&postcount=1">XDA</a>.
 
 Scompatta e copia la prima immagine direttamente nella cartella principale della tua memoria SD (con il telefono collegato al pc, seleziona l'avviso che esce fra le notifiche in alto del device e fai Connetti) e riapri una shell:
 <code>$ ./tools/adb shell
