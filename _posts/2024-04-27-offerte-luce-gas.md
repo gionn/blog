@@ -67,19 +67,39 @@ avete a portata di mano e che occorre avere è:
   * In kWh per la luce
   * In SMC (m³) per il gas
 
-All’inizio della procedura non scegliete mai “Dual Fuel” perché mostra solo le
+All’inizio della procedura non scegliere mai “Dual Fuel” perché mostra solo le
 poche offerte combinate Luce+Gas. Nulla vieta comunque di sottoscrivere due
 forniture **presso lo stesso fornitore** per avere un'unica bolletta, o comunque
 mantenere la libertà di cambiare solo una delle due forniture in futuro qualora
 si trovassero tariffe migliori.
 
-Ottenuto un responso dal Portale Offerte, arriva la parte difficile: visitare
-il sito del fornitore, individuare la stessa tariffa e procedere alla
-sottoscrizione online, tenendo a portata di mano i codici che identificano
-univocamente il vostro allaccio alla rete:
+Ottenuto un responso dal Portale Offerte, arriva la parte difficile: visitare il
+sito del fornitore, individuare la stessa tariffa ottenuta sul Portale Offerte,
+e verificare che sia le tariffe che le condizioni siano quelle che ci
+aspettiamo. Attenzione che alcune offerte hanno servizi aggiuntivi (manutenzione
+caldaia, bici elettrica e altre amenità), da evitare se non ci interessano
+davvero.
+
+Per comparare una offerta a prezzo fisso di un fornitore con quella
+di un altro fornitore, è sufficiente calcolare:
+
+`quantità consumata nell'ultimo anno di materia prima` * `prezzo materia prima` + `costi fissi`
+
+Nel caso di tariffe luce a fasce, si moltiplica il consumo di ogni fascia per il
+prezzo di ogni fascia. Nel caso in cui si preferisca affidarsi ad una offerta
+con prezzo variabile la situazione si complica, ma puoi utilizzare lo
+spreadsheet che trovi nell'ultimo paragrafo di questa pagina.
+
+Infine, puoi procedere alla sottoscrizione online, tenendo a portata di mano i
+codici che identificano univocamente il vostro allaccio alla rete:
 
 * Il codice **POD**, per la luce
 * Il codice **PDR**, per il gas
+
+Riceverai una prima comunicazione dal nuovo fornitore per confermare la presa in
+carico della migrazione, dopodiché ti sarà comunicata la data effettiva in cui
+cesserà il contratto col vecchio fornitore e inizierà quello nuovo. Solitamente
+il primo giorno del mese dopo 2 mesi dalla data di sottoscrizione.
 
 ## Alternative più semplici
 
