@@ -30,5 +30,10 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-minifier
   - jemoji
   - jekyll-redirect-from
+
+jekyll-minifier:
+  uglifier_args:
+    harmony: true
