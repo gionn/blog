@@ -10,23 +10,23 @@ tags:
  - utenze
 ---
 
-Con l’avvento del Mercato Libero, molte famiglie si ritrovano costrette a
-scegliere un fornitore luce e gas, ma a differenza delle altre utenze, capire
-come orientarsi può essere difficile se non si conoscono alcune caratteristiche.
-Vediamo quali:
+Con l’avvento del Mercato Libero molte famiglie si ritrovano costrette a
+scegliere un nuovo fornitore luce e gas, ma a differenza delle altre utenze
+capire come orientarsi può essere difficile, se non si conoscono alcune
+caratteristiche. Vediamo quali:
 
-I costi su cui fare attenzione sono essenzialmente solo due:
+I costi a cui fare attenzione sono essenzialmente solo due:
 
-* Il costo della **materia prima** (energia o gas), espresso in:
+* Il costo della **materia prima**, espresso in:
   * €/kWh per la luce
   * €/Smc per il gas
 * I **costi fissi** di commercializzazione (una tantum al mese/anno)
 
 Tutti gli altri costi, come trasporto e gestione contatore, oneri di sistema e
-tasse **non variano in funzione del fornitore**, quindi superflui per la scelta
-della tariffa migliore per noi.
+tasse **non variano in funzione del fornitore**, quindi sono superflui per la
+scelta della tariffa migliore per te.
 
-Ogni fornitore solitamente fornisce due modalità di prezzo:
+Ogni fornitore solitamente propone due modalità di prezzo:
 
 * **Prezzo fisso**, mantenuto per 12 mesi
 * **Prezzo variabile**, in funzione del
@@ -43,25 +43,26 @@ influenzano i costi dell’energia.
 Per la luce viene anche offerta la possibilità di avere una **tariffa
 monoraria**, quindi la stessa nelle 24 ore, o **a fasce**, con prezzi diversi a
 seconda delle diverse fasce orarie nell’arco della settimana (F1, F2, F3).
-Solitamente se dal lunedì al venerdì si è fuori casa per lavoro, conviene quella
-a fasce, mentre se si lavora da casa è preferibile la monoraria.
+Solitamente, se dal lunedì al venerdì si è fuori casa, conviene quella a fasce,
+mentre se si trascorre la maggior parte della giornata a casa è preferibile la
+monoraria.
 
 Altra cosa importante da tenere a mente: i fornitori **non possono imporre
 vincoli** di durata minima o penali di uscita anticipata, quindi tecnicamente è
 possibile inoltrare richiesta a un nuovo fornitore a partire dal primo giorno di
-fornitura con il fornitore attuale. Il cambio fornitore impiega mediamente **2
+fornitura con quello attuale. Il cambio fornitore impiega mediamente **2
 mesi**, quindi se il tuo contratto è in scadenza e il tuo fornitore non ti ha
 già comunicato quali saranno le nuove tariffe, è bene procedere al cambio 2 mesi
 prima della scadenza.
 
 Il modo più semplice per trovare in qualsiasi momento le offerte migliori è
 attraverso il [**Portale Offerte**](https://www.ilportaleofferte.it/portaleOfferte)
-di ARERA. Vi saranno chieste alcune informazioni, non serve nessun tipo di
-registrazione/account e otterrete subito le migliori offerte in ordine di prezzo
+di ARERA. Ti saranno chieste alcune informazioni, non serve nessun tipo di
+registrazione/account e otterrai subito le migliori offerte in ordine di prezzo
 finale (inclusi i costi di sistema).
 
 Per poter effettuare tale simulazione, l’unica informazione che sicuramente non
-avete a portata di mano e che occorre avere è:
+hai a portata di mano e che occorre avere è:
 
 * Il **consumo dell’ultimo anno**, reperibile in ogni bolletta:
   * In kWh per la luce
@@ -70,28 +71,27 @@ avete a portata di mano e che occorre avere è:
 All’inizio della procedura non scegliere mai “Dual Fuel” perché mostra solo le
 poche offerte combinate Luce+Gas. Nulla vieta comunque di sottoscrivere due
 forniture **presso lo stesso fornitore** per avere un'unica bolletta, o comunque
-mantenere la libertà di cambiare solo una delle due forniture in futuro qualora
+mantenere la libertà di cambiare solo una delle due forniture in futuro, qualora
 si trovassero tariffe migliori.
 
 Ottenuto un responso dal Portale Offerte, arriva la parte difficile: visitare il
 sito del fornitore, individuare la stessa tariffa ottenuta sul Portale Offerte,
-e verificare che sia le tariffe che le condizioni siano quelle che ci
-aspettiamo. Attenzione che alcune offerte hanno servizi aggiuntivi (manutenzione
-caldaia, bici elettrica e altre amenità), da evitare se non ci interessano
-davvero.
+e verificare che sia le tariffe che le condizioni siano quelle che ti aspetti.
+Attenzione che alcune offerte hanno servizi aggiuntivi (manutenzione caldaia,
+bici elettrica e altre amenità), da evitare se non ti interessano davvero.
 
-Per comparare una offerta a prezzo fisso di un fornitore con quella
-di un altro fornitore, è sufficiente calcolare:
+Per comparare un'offerta a prezzo fisso di un fornitore con quella di un altro
+fornitore, è sufficiente calcolare:
 
 `quantità consumata nell'ultimo anno di materia prima` * `prezzo materia prima` + `costi fissi`
 
 Nel caso di tariffe luce a fasce, si moltiplica il consumo di ogni fascia per il
-prezzo di ogni fascia. Nel caso in cui si preferisca affidarsi ad una offerta
-con prezzo variabile la situazione si complica, ma puoi utilizzare lo
-spreadsheet che trovi nell'ultimo paragrafo di questa pagina.
+prezzo di ogni fascia. Se preferisci affidarti a un'offerta con prezzo
+variabile la situazione si complica, ma puoi utilizzare lo spreadsheet che trovi
+nell'ultimo paragrafo di questa pagina.
 
 Infine, puoi procedere alla sottoscrizione online, tenendo a portata di mano i
-codici che identificano univocamente il vostro allaccio alla rete:
+codici che identificano univocamente il tuo allaccio alla rete:
 
 * Il codice **POD**, per la luce
 * Il codice **PDR**, per il gas
@@ -103,19 +103,19 @@ il primo giorno del mese dopo 2 mesi dalla data di sottoscrizione.
 
 ## Alternative più semplici
 
-Se invece non volete avventurarvi nelle procedure di cambio fornitore e cercate
-una soluzione *zero sbatti*, potete provare con
-[Switcho](https://www.switcho.it/), che non vi garantisce di passare al
-fornitore più conveniente in assoluto in quel momento ma a quello con cui loro
-hanno accordi commerciali, col vantaggio, però, che si occupano di tutto loro,
-semplicemente fornendogli una copia delle vostre ultime bollette.
+Se invece non vuoi avventurarti in procedure di cambio fornitore e cerchi una
+soluzione *zero sbatti*, puoi provare con [Switcho](https://www.switcho.it/),
+che non ti garantisce di passare al fornitore più conveniente in assoluto in
+quel momento ma a quello con cui loro hanno accordi commerciali, col vantaggio,
+però, che si occupano di tutto loro, semplicemente fornendogli una copia delle
+tue ultime bollette.
 
 ## Comparazione rapida
 
-Qui di seguito un modulo automatico per comparare le offerte di luce e gas
+Qui di seguito un modulo automatico per comparare le offerte di luce e gas,
 inserendo i propri consumi. Come spiegato precedentemente, il totale non è da
 intendersi come preventivo realistico ma solo come parziale che include la sola
-materia prima più costi fissi, pienamente sufficiente per valutare le diverse
+materia prima più i costi fissi, pienamente sufficiente per valutare le diverse
 offerte in base ai consumi passati. Inoltre i fornitori qui presenti sono i più
 conosciuti e che normalmente operano su tutto il territorio nazionale. Tramite
 il Portale Offerte si potrebbero trovare offerte più vantaggiose da fornitori
@@ -139,8 +139,8 @@ che operano su zone geografiche ridotte.
 
 ## Simulazione completa con fogli di calcolo
 
-Per chi volesse effettuare una simulazione dettagliata, anche nel caso di
-offerte a prezzo variabile, l’utente
+Se vuoi effettuare una simulazione dettagliata, anche nel caso di offerte a
+prezzo variabile, l’utente
 [Sharkman1962](https://www.reddit.com/user/Sharkman1962/) ha realizzato e
 mantiene aggiornati due modelli di fogli di calcolo molto ben fatti:
 
