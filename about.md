@@ -28,7 +28,7 @@ My resume (CV) is [here](https://gionn.net/files/giovanni-toraldo-cv.pdf).
 [3]: https://www.packtpub.com/virtualization-and-cloud/opennebula-3-cloud-computing
 [4]: https://www.amazon.com/OpenNebula-Cloud-Computing-Giovanni-Toraldo/dp/1849517460
 [5]: https://eng.it/dhub
-[6]: https://www.cloudesire.com
+[6]: https://cloudesire.com
 [7]: https://consanpaolino.org/gallery
 [8]: https://www.hyland.com/
 [9]: https://www.alfresco.com/
