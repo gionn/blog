@@ -110,33 +110,6 @@ quel momento ma a quello con cui loro hanno accordi commerciali, col vantaggio,
 però, che si occupano di tutto loro, semplicemente fornendogli una copia delle
 tue ultime bollette.
 
-## Comparazione rapida
-
-Qui di seguito un modulo automatico per comparare le offerte di luce e gas,
-inserendo i propri consumi. Come spiegato precedentemente, il totale non è da
-intendersi come preventivo realistico ma solo come parziale che include la sola
-materia prima più i costi fissi, pienamente sufficiente per valutare le diverse
-offerte in base ai consumi passati. Inoltre i fornitori qui presenti sono i più
-conosciuti e che normalmente operano su tutto il territorio nazionale. Tramite
-il Portale Offerte si potrebbero trovare offerte più vantaggiose da fornitori
-che operano su zone geografiche ridotte.
-
-> Ultimo aggiornamento: 26 aprile 2024
-
-### Comparazione rapida per luce
-
-<input type="text" id="consumo-f1" placeholder="F1 kwH su base annua"/>
-<input type="text" id="consumo-f2" placeholder="F2 kwH su base annua"/>
-<input type="text" id="consumo-f3" placeholder="F3 kwH su base annua"/>
-
-<div id="table-wrapper-light"></div>
-
-### Comparazione rapida per gas
-
-<input type="text" id="consumo-smc" placeholder="SMC su base annua"/>
-
-<div id="table-wrapper-gas"></div>
-
 ## Simulazione completa con fogli di calcolo
 
 Se vuoi effettuare una simulazione dettagliata, anche nel caso di offerte a
