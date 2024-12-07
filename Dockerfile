@@ -8,4 +8,6 @@ RUN bundle install
 
 COPY . .
 
+ENV JEKYLL_ENV production
+
 RUN bundle exec jekyll build
