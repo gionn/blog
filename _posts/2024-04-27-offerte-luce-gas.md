@@ -57,9 +57,12 @@ prima della scadenza.
 
 Il modo più semplice per trovare in qualsiasi momento le offerte migliori è
 attraverso il [**Portale Offerte**](https://www.ilportaleofferte.it/portaleOfferte)
-di ARERA. Ti saranno chieste alcune informazioni, non serve nessun tipo di
+ufficiale di ARERA. Ti saranno chieste alcune informazioni, non serve nessun tipo di
 registrazione/account e otterrai subito le migliori offerte in ordine di prezzo
 finale (inclusi i costi di sistema).
+
+> Un'alternativa di terze parti è [Wattene!](https://wattene.it/) che permette di
+sfogliere le offerte disponibili su una interfaccia più veloce ed ergonomica.
 
 Per poter effettuare tale simulazione, l’unica informazione che sicuramente non
 hai a portata di mano e che occorre avere è:
