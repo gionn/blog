@@ -4,6 +4,8 @@ title:  When Docker ends, Chef begins @ Incontro DevOps Italia 2015
 tags:
  - conferences
  - Incontro DevOps Italia
+categories:
+  - Slides
 ---
 
 This is a [presentation](http://archive.incontrodevops.it/sessions/dove-finisce-docker-inizia-chef/) I held at the third "[Incontro DevOps Italia](https://www.incontrodevops.it/)" conference.

@@ -2,7 +2,9 @@
 layout: post
 title:  Managing GCP Projects with Terraform @ GDG DevFest Pisa 0.1
 tags:
- - conferences
+  - conferences
+categories:
+  - Slides
 ---
 
 This is a [presentation](https://devfest.gdgpisa.it/schedule/day1?sessionId=158) I held at the first alpha edition of "[GDG DevFest Pisa](https://devfest.gdgpisa.it/)" conference.

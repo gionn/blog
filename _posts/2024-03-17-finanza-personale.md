@@ -10,6 +10,8 @@ tags:
  - finanza personale
  - educazione finanziaria
  - etf
+categories:
+  - Finanza personale
 ---
 
 Ho iniziato a interessarmi di finanza personale da qualche anno, principalmente

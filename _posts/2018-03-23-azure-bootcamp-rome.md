@@ -2,7 +2,9 @@
 layout: post
 title:  Selling Office 365 and Azure resources on a SaaS marketplace
 tags:
- - conferences
+  - conferences
+categories:
+  - Slides
 ---
 
 Selling and automated provisioning of Microsoft/Azure products in a SaaS marketplace
