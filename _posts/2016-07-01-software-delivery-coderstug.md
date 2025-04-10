@@ -2,8 +2,10 @@
 layout: post
 title:  Software Delivery in 2016 - A Continuous Delivery Approach @ Apericoder CodersTUG
 tags:
- - conferences
- - codersTUG
+  - conferences
+  - codersTUG
+categories:
+  - Slides
 ---
 
 The speech "Software Delivery in 2016" was held by Giovanni Toraldo (Lead Developer at ClouDesire) on July 1st 2016 in Pisa, Italy.

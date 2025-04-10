@@ -5,10 +5,10 @@ title: !binary |-
   IERldmVsZXIgd29ya3Nob3AgMjAxMg==
 created: 1354391610
 comments: true
-categories: !binary |-
-  ZW5fdXMgc29mdHdhcmU=
 tags:
  - conferences
+categories:
+  - Slides
 ---
 These months have been quite busy for me, but I always try to find some time to seed on local communities the knowledge of some particular Open Source software, especially for OpenNebula (someone called me <em>evangelist</em>, but it is really too much for what am I doing).
 

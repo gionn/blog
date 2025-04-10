@@ -4,6 +4,8 @@ title: "Docker in production: service discovery with Consul @ Opscon 2015"
 tags:
  - conferences
  - Opscon
+categories:
+  - Slides
 ---
 
 Where: Road to OpsCon 2015, Milano

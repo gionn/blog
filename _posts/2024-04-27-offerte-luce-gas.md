@@ -4,10 +4,12 @@ title: "Come trovare la migliore offerta per Luce e Gas nel Mercato Libero"
 image: /images/goddess-of-the-gas-and-light.jpg
 permalink: /2024/trovare-migliore-offerta-luce-gas-mercato-libero/
 tags:
- - italiano
- - finanza personale
- - tariffe
- - utenze
+  - italiano
+  - finanza personale
+  - tariffe
+  - utenze
+categories:
+  - Finanza personale
 ---
 
 Con l’avvento del Mercato Libero molte famiglie si ritrovano costrette a

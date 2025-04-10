@@ -4,6 +4,8 @@ title: Infrastructure as code with Terraform @ Apericoder CodersTUG
 tags:
  - conferences
  - codersTUG
+categories:
+  - Slides
 ---
 
 Have you ever found tedious to manage cloud services on a scattered ecosystem of GUI and CLI tools pushed by every vendor?

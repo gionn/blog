@@ -4,6 +4,8 @@ title: Easy applications deployment on OpenStack clouds @ OpenStack Day 2014 Mil
 tags:
  - conferences
  - OpenStack Day
+categories:
+  - Slides
 ---
 
 This is a presentation I held at the first italian OpenStack Day in Milano. #openstackday #openstackdayit

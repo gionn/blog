@@ -5,10 +5,10 @@ title: !binary |-
   bG91ZA==
 created: 1336677258
 comments: true
-categories: !binary |-
-  ZW5fdXMgc29mdHdhcmU=
 tags:
- - conferences
+  - conferences
+categories:
+  - Slides
 ---
 During these first hot-days in Florence, I've attended the <a href="http://www.evaflorence.it/">EVA Florence 2012</a> conference, presenting a talk with <a href="http://twitter.com/ccorsani">Cristiano Corsani</a> about a project for the National Library of Florence (<a href="http://www.bncf.firenze.sbn.it">BNCF</a>), covering the deployment of a small Private Cloud using exclusively open source software, for serving internal and public BNCF services.
 
