@@ -1,6 +1,10 @@
 ---
 layout: post
 title: "Ethereum senza fronzoli: crea wallet e prime transazioni"
+permalink: /2025/ethereum-senza-fronzoli/
+image: /images/2025/ethereum-facile.webp
+tags:
+  - ethereum
 ---
 
 Ethereum è una **rete decentralizzata** che consente di trasferire fondi a terzi
