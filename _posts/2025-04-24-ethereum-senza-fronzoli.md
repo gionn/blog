@@ -149,28 +149,29 @@ Puoi usare come destinatario il mio indirizzo che trovi a fine articolo, ma puoi
 anche utilizzare il tuo stesso indirizzo, e ancor più interessante, il valore da
 trasferire può anche essere pari a zero.
 
-Per utenti più avanzati: puoi includere un breve messaggio nella transazione,
-che verrà registrato sulla blockchain. Ti basta impostare il parametro
-`calldata` con il tuo messaggio convertito da ascii a esadecimale, preceduto da
-`0x` e senza spazi extra. Per esempio, `ciao eth` corrisponde a
+Per utenti più avanzati: puoi **includere un breve messaggio** nella
+transazione, che verrà registrato sulla blockchain. Ti basta impostare il
+parametro `calldata` con il tuo messaggio convertito **da ascii a esadecimale**,
+preceduto da `0x` e senza spazi extra. Per esempio, `ciao eth` corrisponde a
 `0x6369616f20657468`.
 
 Dopo qualche istante, riceverai un messaggio che la transazione è stata
-completata con successo. Se fai click sul messaggio, oppure da `Transactions`
-fai click sull'id dell'ultima transazione, ti si aprirà il dettaglio della
-transazione su un sito web chiamato block explorer, che pubblica tutti i
-dettagli delle transazioni del network corrente.
+**completata con successo**. Se fai click sul messaggio, oppure da
+`Transactions` fai click sull'id dell'ultima transazione, ti si aprirà il
+dettaglio della transazione su un sito web chiamato **block explorer**, che
+pubblica tutti i dettagli delle transazioni del network corrente.
 
-Ricapitoliamo quello che hai appena fatto: attraverso il wallet hai generato una
-transazione, l'hai firmata, è stata inviata ai nodi della rete Ethereum, è stata
-riconosciuta come valida, inclusa all'interno del primo blocco disponibile, hai
-consumato degli ETH per coprire il costo della transazione!
+Ricapitoliamo quello che hai appena fatto: attraverso il wallet hai **generato
+una transazione**, l'hai **firmata**, è stata inviata ai **nodi della rete**
+Ethereum, è stata riconosciuta come **valida**, inclusa all'interno del primo
+**blocco disponibile**, hai consumato degli ETH per coprire il **costo della
+transazione**!
 
 ## Parte 2?
 
 Se ti è piaciuto questo articolo e vorresti leggere la seconda parte su come
-interagire con le applicazioni distribuite più famose, fammelo sapere nei
-commenti!
+interagire con le applicazioni distribuite più famose, **fammelo sapere nei
+commenti**!
 
 ## 🔒 Disclaimer legale
 
