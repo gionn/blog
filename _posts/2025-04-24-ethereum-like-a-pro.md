@@ -3,15 +3,13 @@ layout: post
 title: "Ethereum senza fronzoli: crea wallet e prime transazioni"
 ---
 
-## Cosa è Ethereum (spiegato semplice)
-
-Ethereum è una **rete decentralizzata** che consente di trasferire fondi a
-terzi senza intermediari fisici come banche, governi o aziende. Nello specifico,
-puoi trasferire la valuta nativa (Ether) o qualsiasi altro token disponibile
+Ethereum è una **rete decentralizzata** che consente di trasferire fondi a terzi
+senza intermediari fisici come banche, governi o aziende. Nello specifico, puoi
+trasferire la **valuta nativa** (ETH) o qualsiasi altro **token** disponibile
 sulla rete (stablecoins, wrapped Bitcoin o altri tipi di token), fino ad
 operazioni più complesse come interagire con gli smart contract.
 
-Gli smart contract sono programmi resi disponibili all'interno del network, e
+Gli **smart contract** sono programmi resi disponibili sulla rete Ethereum, e
 permettono di eseguire una o più operazioni in sequenza, come previsto dagli
 sviluppatori che lo hanno sviluppato e pubblicato. Per maggiori dettagli tecnici
 vedi il linguaggio di programmazione [Solidity](https://soliditylang.org/) e
@@ -20,16 +18,16 @@ alcune [implementazioni](https://docs.openzeppelin.com/contracts/5.x/tokens).
 Per poter interagire sulla rete Ethereum, è necessario pagare una commissione,
 che viene semplicemente chiamata `gas`, per analogia con la benzina che fa
 funzionare un motore. Più complessa è l'azione, più gas serve. Il gas si paga
-usando la valuta nativa Ethereum.
+usando la valuta nativa ETH.
 
 ## Perché esistono le sottoreti Layer 2 (L2)
 
-La rete Ethereum, denominata L1 o mainnet, ha una capienza limitata, e quando la
-rete è particolarmente congestionata, le commissioni per poter eseguire una
-nuova transazione possono lievitare vertiginosamente. Negli ultimi anni ha preso
-piede un nuovo paradigma basato sull'avere un insieme di sotto-reti indipendenti
-(L2), con alcune caratteristiche che però le rendono molto più interessanti
-rispetto ad altre reti L1 alternative:
+La rete Ethereum, denominata **L1** o mainnet, ha una **capienza limitata**, e
+quando la rete è particolarmente congestionata, le commissioni per poter
+eseguire una nuova transazione possono lievitare vertiginosamente. Negli ultimi
+anni ha preso piede un nuovo paradigma basato sull'avere un insieme di
+sotto-reti indipendenti (L2), con alcune caratteristiche che però le rendono
+molto più interessanti rispetto ad altre reti L1 alternative:
 
 - Sono veloci e economiche
 - Continuano a usare Ethereum come base di sicurezza
@@ -45,10 +43,11 @@ reale sulle performance delle principali L2.
 Un *wallet* è il tuo portafoglio digitale: ti serve per ricevere, inviare e
 custodire criptovalute. Ma non è solo un portafoglio, è anche l'interfaccia per
 accedere al **Web3**: ti permette di interagire con le app decentralizzate come
-Aave, Uniswap, OpenSea (che vedremo meglio più avanti).
+Aave, Uniswap, OpenSea (che vedremo meglio in una eventuale parte 2 di questo
+articolo).
 
 Esistono wallet *custodial*, dove le chiavi vengono custodite da
-qualcun altro, per esempio un exchange, e *non-custodial*, le cui chiavi sono
+qualcun altro, per esempio un crypto exchange, e *non-custodial*, le cui chiavi sono
 gestite direttamente da te. Qui ci concentreremo su come utilizzare un wallet
 *non-custodial* open-source, nello specifico [Rabby Wallet](https://rabby.io/)
 che è attualmente considerato uno dei wallet Ethereum con la migliore usabilità.
@@ -93,9 +92,10 @@ potrai accedere allo stesso portafoglio inserendo la medesima **seed phrase**.
 > segnalibri!) o direttamente gli store del tuo browser/piattaforma, verificando
 > che il publisher sia effettivamente quello previsto.
 
-Ora hai un wallet Ethereum. In alto troverai il tuo **indirizzo pubblico** (una
-stringa che inizia con `0x...`). È come l'IBAN del tuo conto crypto: puoi
-ricevere ETH e altri token lì sopra.
+Ora hai un indirizzo Ethereum. In alto troverai il tuo **indirizzo pubblico**
+(una stringa che inizia con `0x...`), che puoi copiare negli appunti attraverso
+l'apposito bottone. È come l'IBAN del tuo conto crypto: puoi ricevere ETH e
+altri token lì sopra.
 
 Noterai che il bilancio sarà inesorabilmente vuoto, e già sai che per poter
 effettuare transazioni è necessario avere un po' di `gas`, quindi adesso vediamo
@@ -116,8 +116,9 @@ utilizzare per transazioni sporadiche utilizzando la carta di credito sono:
 >
 > 🔓 Se questa barriera ti frena ma vorresti comunque provare a fare la tua
 > prima transazione su Ethereum, posso aiutarti con una piccola quantità di ETH
-> per coprire il gas iniziale. È un gesto gratuito e senza garanzie: se ho tempo
-> e fondi disponibili, ti invierò qualche frazione di ETH.
+> per coprire il gas per una transazione di prova. È un gesto gratuito e senza
+> garanzie: se ho tempo e fondi disponibili, contattami e ti invierò qualche
+> frazione di ETH.
 >
 > 💸 Se invece sei già dentro al mondo Ethereum e vuoi contribuire ad aiutare
 > nuovi utenti, puoi inviare una piccola donazione a questo indirizzo:
@@ -159,6 +160,11 @@ completata con successo. Se fai click sul messaggio, oppure da `Transactions`
 fai click sull'id dell'ultima transazione, ti si aprirà il dettaglio della
 transazione su un sito web chiamato block explorer, che pubblica tutti i
 dettagli delle transazioni del network corrente.
+
+Ricapitoliamo quello che hai appena fatto: attraverso il wallet hai generato una
+transazione, l'hai firmata, è stata inviata ai nodi della rete Ethereum, è stata
+riconosciuta come valida, inclusa all'interno del primo blocco disponibile, hai
+consumato degli ETH per coprire il costo della transazione!
 
 ## Parte 2?
 
