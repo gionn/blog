@@ -94,7 +94,7 @@ potrai accedere allo stesso portafoglio inserendo la medesima **seed phrase**.
 > che il publisher sia effettivamente quello previsto.
 
 Ora hai un wallet Ethereum. In alto troverai il tuo **indirizzo pubblico** (una
-stringa che inizia con `0x...`). È come l’IBAN del tuo conto crypto: puoi
+stringa che inizia con `0x...`). È come l'IBAN del tuo conto crypto: puoi
 ricevere ETH e altri token lì sopra.
 
 Noterai che il bilancio sarà inesorabilmente vuoto, e già sai che per poter
@@ -113,10 +113,16 @@ utilizzare per transazioni sporadiche utilizzando la carta di credito sono:
 > ⚠️ A causa delle stringenti normative anti-riciclaggio, è molto probabile che
 > anche per piccoli importi, ti verrà richiesto di fornire i tuoi dati
 > identificativi e seguire una procedura di *KYC* (know your customer).
-> Purtroppo non ci sono scappatoie, ma se non hai fretta puoi mandarmi un tip
-> privato con uno dei link che trovi a fine articolo, avendo cura di inserire
-> l'indirizzo nel tuo wallet nel messaggio. Con calma, ti invierò un po' di
-> Ethereum su L2 Arbitrum.
+>
+> 🔓 Se questa barriera ti frena ma vorresti comunque provare a fare la tua
+> prima transazione su Ethereum, posso aiutarti con una piccola quantità di ETH
+> per coprire il gas iniziale. È un gesto gratuito e senza garanzie: se ho tempo
+> e fondi disponibili, ti invierò qualche frazione di ETH.
+>
+> 💸 Se invece sei già dentro al mondo Ethereum e vuoi contribuire ad aiutare
+> nuovi utenti, puoi inviare una piccola donazione a questo indirizzo:
+> `0xcc4e662c4ec670fa3b5c786843f9a086201bd909`. Tutto quello che riceverò lì
+> verrà usato esclusivamente per rifornire i lettori di questo post.
 
 Segui il percorso che solitamente viene chiamato `Buy Crypto`, selezionando
 `EUR` come valuta. Ogni servizio ha il suo taglio minimo, per i nostri primi
@@ -159,3 +165,12 @@ dettagli delle transazioni del network corrente.
 Se ti è piaciuto questo articolo e vorresti leggere la seconda parte su come
 interagire con le applicazioni distribuite più famose, fammelo sapere nei
 commenti!
+
+## 🔒 Disclaimer legale
+
+Le informazioni fornite hanno scopo esclusivamente educativo e non costituiscono
+consulenza finanziaria, invito all'investimento o offerta di servizi
+regolamentati. L'invio di ETH è volontario, gratuito, non garantito e destinato
+solo a scopi dimostrativi. L’utilizzo delle criptovalute comporta rischi
+elevati, inclusa la perdita totale dei fondi. Agisci con cautela e
+responsabilità.
