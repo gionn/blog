@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Ethereum senza fronzoli: crea wallet e prime transazioni"
+title: "Ethereum senza fronzoli: wallet setup e prima transazione"
 permalink: /2025/ethereum-senza-fronzoli/
-image: /images/2025/ethereum-facile.webp
+image: /images/2025/ethereum-facile.png
 tags:
   - ethereum
 ---
