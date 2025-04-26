@@ -14,10 +14,10 @@ sulla rete (stablecoins, wrapped Bitcoin o altri tipi di token), fino ad
 operazioni più complesse come interagire con gli smart contract.
 
 Gli **smart contract** sono programmi resi disponibili sulla rete Ethereum, e
-permettono di eseguire una o più operazioni in sequenza, come previsto dagli
-sviluppatori che lo hanno sviluppato e pubblicato. Per maggiori dettagli tecnici
-vedi il linguaggio di programmazione [Solidity](https://soliditylang.org/) e
-alcune [implementazioni](https://docs.openzeppelin.com/contracts/5.x/tokens).
+permettono di eseguire una o più operazioni in sequenza, come definito nel loro
+codice sorgente. Per maggiori dettagli tecnici vedi il linguaggio di
+programmazione [Solidity](https://soliditylang.org/) e alcune
+[implementazioni](https://docs.openzeppelin.com/contracts/5.x/tokens).
 
 Per poter interagire sulla rete Ethereum, è necessario pagare una commissione,
 che viene semplicemente chiamata `gas`, per analogia con la benzina che fa
@@ -33,7 +33,7 @@ anni ha preso piede un nuovo paradigma basato sull'avere un insieme di
 sotto-reti indipendenti (L2), con alcune caratteristiche che però le rendono
 molto più interessanti rispetto ad altre reti L1 alternative:
 
-- Sono veloci e economiche
+- Sono più veloci ed economiche rispetto alla L1 Ethereum
 - Continuano a usare Ethereum come base di sicurezza
 - Supportano le stesse funzionalità a livello applicativo di Ethereum
 
@@ -118,11 +118,13 @@ utilizzare per transazioni sporadiche utilizzando la carta di credito sono:
 > anche per piccoli importi, ti verrà richiesto di fornire i tuoi dati
 > identificativi e seguire una procedura di *KYC* (know your customer).
 >
+>
 > 🔓 Se questa barriera ti frena ma vorresti comunque provare a fare la tua
 > prima transazione su Ethereum, posso aiutarti con una piccola quantità di ETH
 > per coprire il gas per una transazione di prova. È un gesto gratuito e senza
 > garanzie: se ho tempo e fondi disponibili, contattami e ti invierò qualche
 > frazione di ETH.
+>
 >
 > 💸 Se invece sei già dentro al mondo Ethereum e vuoi contribuire ad aiutare
 > nuovi utenti, puoi inviare una piccola donazione a questo indirizzo:
@@ -143,6 +145,15 @@ pagamento.
 
 Riceverai gli Ethereum all'indirizzo e sulla rete che hai scelto dopo pochi
 minuti.
+
+> ### 🔒 Disclaimer legale
+>
+> Le informazioni qui fornite hanno scopo esclusivamente educativo e non
+> costituiscono consulenza finanziaria, invito all'investimento o offerta di
+> servizi regolamentati. L'invio di ETH è volontario, gratuito, non garantito e
+> destinato solo a scopi dimostrativi. L’utilizzo delle criptovalute comporta
+> rischi elevati, inclusa la perdita totale dei fondi. Agisci con cautela e
+> responsabilità.
 
 ## La tua prima transazione
 
@@ -176,12 +187,3 @@ transazione**!
 Se ti è piaciuto questo articolo e vorresti leggere la seconda parte su come
 interagire con le applicazioni distribuite più famose, **fammelo sapere nei
 commenti**!
-
-## 🔒 Disclaimer legale
-
-Le informazioni fornite hanno scopo esclusivamente educativo e non costituiscono
-consulenza finanziaria, invito all'investimento o offerta di servizi
-regolamentati. L'invio di ETH è volontario, gratuito, non garantito e destinato
-solo a scopi dimostrativi. L’utilizzo delle criptovalute comporta rischi
-elevati, inclusa la perdita totale dei fondi. Agisci con cautela e
-responsabilità.
