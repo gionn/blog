@@ -28,14 +28,14 @@ usando la valuta nativa ETH.
 
 La rete Ethereum, denominata **L1** o mainnet, ha una **capienza limitata**, e
 quando la rete è particolarmente congestionata, le commissioni per poter
-eseguire una nuova transazione possono lievitare vertiginosamente. Negli ultimi
-anni ha preso piede un nuovo paradigma basato sull'avere un insieme di
-sotto-reti indipendenti (L2), con alcune caratteristiche che però le rendono
+eseguire una nuova transazione possono **lievitare vertiginosamente**. Negli
+ultimi anni ha preso piede un nuovo paradigma basato sull'avere un insieme di
+**sotto-reti indipendenti** (L2), con alcune caratteristiche che però le rendono
 molto più interessanti rispetto ad altre reti L1 alternative:
 
-- Sono più veloci ed economiche rispetto alla L1 Ethereum
-- Continuano a usare Ethereum come base di sicurezza
-- Supportano le stesse funzionalità a livello applicativo di Ethereum
+- Sono più **veloci** ed **economiche** rispetto alla L1 Ethereum
+- Continuano a usare Ethereum come **base di sicurezza**
+- Supportano le **stesse funzionalità** a livello applicativo di Ethereum
 
 Alcuni esempi delle L2 più utilizzate sono **Arbitrum**, **Optimism** e
 **Base**. Per chi ama approfondire i numeri,
@@ -44,15 +44,15 @@ reale sulle performance delle principali L2.
 
 ## Il wallet Ethereum
 
-Un *wallet* è il tuo portafoglio digitale: ti serve per ricevere, inviare e
+Un *wallet* è il tuo **portafoglio digitale**: ti serve per ricevere, inviare e
 custodire criptovalute. Ma non è solo un portafoglio, è anche l'interfaccia per
 accedere al **Web3**: ti permette di interagire con le app decentralizzate come
 Aave, Uniswap, OpenSea (che vedremo meglio in una eventuale parte 2 di questo
 articolo).
 
-Esistono wallet *custodial*, dove le chiavi vengono custodite da
-qualcun altro, per esempio un crypto exchange, e *non-custodial*, le cui chiavi sono
-gestite direttamente da te. Qui ci concentreremo su come utilizzare un wallet
+Esistono wallet *custodial*, dove le chiavi vengono custodite da qualcun altro,
+per esempio un crypto exchange, e *non-custodial*, le cui chiavi sono **gestite
+direttamente da te**. Qui ci concentreremo su come utilizzare un wallet
 *non-custodial* open-source, nello specifico [Rabby Wallet](https://rabby.io/)
 che è attualmente considerato uno dei wallet Ethereum con la migliore usabilità.
 
