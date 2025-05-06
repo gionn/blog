@@ -8,14 +8,10 @@ tags:
 ---
 
 Ethereum, the world's leading smart contract blockchain, is gearing up for its
-most significant upgrade since the 2022 Merge. On May 6, 2025, [Ethereum.org
-announced](https://x.com/ethereum/status/1919794615827280126) the upcoming
-*Pectra* upgrade, describing it as a transformative shift that prioritizes user
-experience while enhancing the network's scalability and efficiency. Dubbed
-"Ethereum's glow-up", Pectra promises to make the blockchain smoother, smarter,
-and more accessible for everyone, from casual users to hardcore stakers. Let's
-take a look into what this upgrade means, its key features, and why it's a
-turning point for Ethereum's future.
+most significant upgrade since the 2022 Merge. The upcoming *Pectra* upgrade is
+a transformative shift that prioritizes user experience while enhancing the
+network's scalability and efficiency. Let's take a look into what this upgrade
+means, its key features, and why it's a turning point for Ethereum's future.
 
 * [What Is the Pectra Upgrade?](#what-is-the-pectra-upgrade)
 * [Key Features of the Pectra Upgrade](#key-features-of-the-pectra-upgrade)
