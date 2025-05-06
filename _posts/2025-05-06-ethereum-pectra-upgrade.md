@@ -13,9 +13,18 @@ announced](https://x.com/ethereum/status/1919794615827280126) the upcoming
 *Pectra* upgrade, describing it as a transformative shift that prioritizes user
 experience while enhancing the network's scalability and efficiency. Dubbed
 "Ethereum's glow-up", Pectra promises to make the blockchain smoother, smarter,
-and more accessible for everyone,from casual users to hardcore stakers. Let's
+and more accessible for everyone, from casual users to hardcore stakers. Let's
 take a look into what this upgrade means, its key features, and why it's a
 turning point for Ethereum's future.
+
+* [What Is the Pectra Upgrade?](#what-is-the-pectra-upgrade)
+* [Key Features of the Pectra Upgrade](#key-features-of-the-pectra-upgrade)
+  * [Smarter Wallets with EIP-7702](#smarter-wallets-with-eip-7702)
+  * [Cheaper Transactions and Better Scaling](#cheaper-transactions-and-better-scaling)
+  * [Staking Gets a Major Boost](#staking-gets-a-major-boost)
+  * [Fewer Clicks, More Doing](#fewer-clicks-more-doing)
+* [Why Pectra Matters](#why-pectra-matters)
+* [Looking Ahead: The Next Era of Ethereum](#looking-ahead-the-next-era-of-ethereum)
 
 ## What Is the Pectra Upgrade?
 
@@ -41,7 +50,7 @@ Ethereum ecosystem. Here are the highlights:
 ### Smarter Wallets with EIP-7702
 
 One of the most exciting changes is the introduction of **EIP-7702**, which
-allows Externally Owned Accounts (EOAs),the basic wallets most Ethereum users
+allows Externally Owned Accounts (EOAs), the basic wallets most Ethereum users
 rely on, to execute smart contract code directly. This is a massive step toward
 *account abstraction*, a long-term goal for Ethereum that aims to make all
 accounts behave like smart contracts.
