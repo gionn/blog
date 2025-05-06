@@ -2,6 +2,7 @@
 layout: post
 title: "Ethereum Pectra upgrade: what's coming"
 permalink: /2025/ethereum-pectra-explained/
+image: /images/2025/pectra-upgrade.jpg
 tags:
   - ethereum
 ---
