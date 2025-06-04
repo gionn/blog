@@ -118,12 +118,14 @@ tue ultime bollette.
 ## Simulazione completa con fogli di calcolo
 
 Se vuoi effettuare una simulazione dettagliata, anche nel caso di offerte a
-prezzo variabile, l'utente
-[Sharkman1962](https://www.reddit.com/user/Sharkman1962/) ha realizzato e
+prezzo variabile, l'utente **Sharkman1962** ha realizzato e
 mantiene aggiornati due modelli di fogli di calcolo molto ben fatti:
 
 * [Offerte gestori mercato libero energia elettrica](https://docs.google.com/spreadsheets/d/1ToYALBCaB9S_xFLVeLaHP46aD8bF3I09_aB09Up32pE/edit)
 * [Offerte gestori mercato libero gas](https://docs.google.com/spreadsheets/d/18bzSR5JAIGhiISITbEMehDAWRVXMJqUNbqXeTmYLttM/edit?usp=sharing)
+
+Per maggiori informazioni o supporto puoi raggiungere il suo
+[gruppo telegram dedicato](https://t.me/offertemercatolibero).
 
 In ogni caso, verifica sempre i prezzi inseriti in caso non siano aggiornati o
 contengano errori.
