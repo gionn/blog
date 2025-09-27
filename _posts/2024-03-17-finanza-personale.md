@@ -244,14 +244,14 @@ consiglio:
 * [Sei già ricco ma non lo sai - Riccardo Spada](https://amzn.to/46nFC4o):
   ideale per chi parte da zero sulla finanza personale.
 * [Investire senza dubbi - Riccardo Spada](https://amzn.to/4mAUrp2): per chi è
-  già un po' edotto sulla finanza personale, si concentra più sul quarto
+  già un po' informato sulla finanza personale, si concentra più sul quarto
   pilastro, composizione del portafogli (uscirà il 15 ottobre 2025).
 * [Guida per tutti alla libertà finanziaria - Michele
   Catera](https://amzn.to/4mGjUgO): anche questo è ideale per chi parte da zero,
   molto pragmatico e contiene anche calcoli/simulazioni che soddisferanno i
   lettori di indole più matematica.
 
-Alcune risorse online, che sono sono da dove ho attinto la maggior parte della
+Alcune risorse online, che sono da dove ho attinto la maggior parte della
 mia conoscenza:
 
 * [Educati e Finanziati](https://youtube.com/playlist?list=PLfuzpc-H8qcdyEb5rpgYhN2P7cJGR1i9h&si=oXnRvwLl38NBLQAS)
