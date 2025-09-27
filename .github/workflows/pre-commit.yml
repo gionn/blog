@@ -12,4 +12,4 @@ jobs:
     steps:
       - uses: Alfresco/alfresco-build-tools/.github/actions/pre-commit@v9.0.1
         with:
-          python-version: '3.12'
+          python-version: '3.13.3'
