@@ -129,3 +129,29 @@ Per maggiori informazioni o supporto puoi raggiungere il suo
 
 In ogni caso, verifica sempre i prezzi inseriti in caso non siano aggiornati o
 contengano errori.
+
+## Domotica e ottimizzazione avanzata
+
+Oltre a scegliere la tariffa più conveniente, un'altra strategia può essere
+quella di ricorrere alla tecnologia per abbassare i consumi. La domotica offre
+soluzioni semplici ed economiche per automatizzare alcuni processi, ridurre gli
+sprechi e avere un maggiore controllo sull'energia utilizzata.
+
+Un esempio concreto è la presa smart [TP-Link Tapo P100](https://amzn.to/3IKoFrI),
+che utilizzo per gestire alcune prese di casa.
+L'ho configurata in modo da disattivare automaticamente la TV e il computer
+durante la notte, seguendo un orario prestabilito. In questo modo si evita lo
+spreco di energia dovuto allo standby e non devo ricordarmi ogni volta di
+staccare le prese manualmente.
+
+Un altro strumento molto utile è il termostato
+[Netatmo](https://amzn.to/3IjqagB), che consente di gestire il riscaldamento di
+casa direttamente dallo smartphone. Puoi programmare orari di accensione e
+spegnimento in base alle tue abitudini quotidiane e gestire eventuali eccezioni
+in tempo reale, ad esempio se rientri dal lavoro prima del previsto o se una
+sera torni più tardi del solito.
+
+Spero di esserti stato d’aiuto! Se hai altre idee o hai trovato un dispositivo
+per risparmiare energia, lascia un commento e condividi la tua esperienza.
+
+> Revisione dei testi a cura di [figliadimaestra](https://figliadimaestra.it/).

@@ -139,3 +139,6 @@ v12.0.20 con protocollo VDSL2 35b (ITU G.993.2).
 
 Leggi i commenti a questo articolo su Reddit
 [r/ItalyInformatica](https://www.reddit.com/r/ItalyInformatica/comments/kkfx7w/come_sostituire_il_router_fastweb_fastgate_con_un/)
+
+> Hai zone con poco o senza segnale WiFi? Per estendere la tua rete wifi dai un
+> occhio a [FRITZ!Repeater 1200 AX](https://amzn.to/4nRkHwk)
