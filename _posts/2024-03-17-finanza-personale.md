@@ -238,6 +238,22 @@ Se sei arrivato fin qui, probabilmente vorrai saperne di più. Cerco di
 riassumere quindi le principali fonti che ho personalmente seguito e che penso
 valgano tutto il tempo investito a studiarle.
 
+Non sono un grande divoratore di libri, ma questi sono quelli che ho letto e che
+consiglio:
+
+* [Sei già ricco ma non lo sai - Riccardo Spada](https://amzn.to/46nFC4o):
+  ideale per chi parte da zero sulla finanza personale.
+* [Investire senza dubbi - Riccardo Spada](https://amzn.to/4mAUrp2): per chi è
+  già un po' informato sulla finanza personale, si concentra più sul quarto
+  pilastro, composizione del portafogli (uscirà il 15 ottobre 2025).
+* [Guida per tutti alla libertà finanziaria - Michele
+  Catera](https://amzn.to/4mGjUgO): anche questo è ideale per chi parte da zero,
+  molto pragmatico e contiene anche calcoli/simulazioni che soddisferanno i
+  lettori di indole più matematica.
+
+Alcune risorse online, che sono da dove ho attinto la maggior parte della
+mia conoscenza:
+
 * [Educati e Finanziati](https://youtube.com/playlist?list=PLfuzpc-H8qcdyEb5rpgYhN2P7cJGR1i9h&si=oXnRvwLl38NBLQAS)
   di Paolo Coletti (19 episodi), in particolare i seguenti episodi:
   * [I quattro pilastri](https://youtu.be/pxSBZHHQxSM?si=UFZyHnlXvkmFE5oJ)
@@ -257,8 +273,8 @@ Risorse in lingua inglese:
 * [FI/RE - Financial Independence & Retiring Early](https://www.reddit.com/r/Fire/)
 * [Passive Indexing Community for Long-Term Lazy Investors](https://www.reddit.com/r/Bogleheads/)
   * [Arguments World (Non-US) vs US Equities](https://www.bogleheads.org/forum/viewtopic.php?t=409214)
-  * [In defense of Bonds](https://new.reddit.com/r/Bogleheads/comments/15drkxn/in_defense_of_in_defense_of_bonds/)
-  * [The Simple Path to Wealth](https://new.reddit.com/r/Bogleheads/comments/rxzook/the_simple_path_to_wealth_book_summary_by_jl/)
+  * [In defense of Bonds](https://reddit.com/r/Bogleheads/comments/15drkxn/in_defense_of_in_defense_of_bonds/)
+  * [The Simple Path to Wealth](https://reddit.com/r/Bogleheads/comments/rxzook/the_simple_path_to_wealth_book_summary_by_jl/)
 * [Investment Guides](https://www.justetf.com/en/how-to/) di JustETF, per
   scoprire con approccio top-down quali siano gli ETF che potresti voler
   acquistare.
