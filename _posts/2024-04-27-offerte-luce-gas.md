@@ -106,7 +106,7 @@ carico della migrazione, dopodiché ti sarà comunicata la data effettiva in cui
 cesserà il contratto col vecchio fornitore e inizierà quello nuovo. Solitamente
 il primo giorno del mese dopo 2 mesi dalla data di sottoscrizione.
 
-## Alternative più semplici
+## Soluzioni più semplici
 
 Se invece non vuoi avventurarti in procedure di cambio fornitore e cerchi una
 soluzione *zero sbatti*, puoi provare con [Switcho](https://www.switcho.it/),
@@ -114,6 +114,13 @@ che non ti garantisce di passare al fornitore più conveniente in assoluto in
 quel momento ma a quello con cui loro hanno accordi commerciali, col vantaggio,
 però, che si occupano di tutto loro, semplicemente fornendogli una copia delle
 tue ultime bollette.
+
+C'è anche [NeN](https://nen.it/attiva-nen?promoCode=@bucaneve374), che offre un
+modello di **pagamento mensile fisso**: sempre la stessa cifra indipendentemente
+dai consumi reali, e la piattaforma regola i conguagli annuali per bilanciare
+eventuali differenze. Questo rende le bollette **prevedibili** e più facili da
+gestire. Io sono cliente e se usi il link avremo entrambi **un euro al mese di
+sconto** sui costi fissi della bolletta per il primo anno di fornitura.
 
 ## Simulazione completa con fogli di calcolo
 
