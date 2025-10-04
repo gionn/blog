@@ -30,3 +30,5 @@ appreciate the engaging discussions and interactions at the end!
 <script defer class="speakerdeck-embed" data-id="1d50785bb71d4f11a5d8b7a587dafe85" data-ratio="1.7777777777777777" src="//speakerdeck.com/assets/embed.js"></script>
 
 ![incontro devops badge](/images/2025/incontro-devops-speaker.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kVOYFFbbCho?si=IbK0hKNRDMFH5PQT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
