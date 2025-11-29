@@ -10,6 +10,6 @@ jobs:
   pre-commit:
     runs-on: ubuntu-latest
     steps:
-      - uses: Alfresco/alfresco-build-tools/.github/actions/pre-commit@v9.0.1
+      - uses: Alfresco/alfresco-build-tools/.github/actions/pre-commit@v10.1.0
         with:
           python-version: '3.13.3'
