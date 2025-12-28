@@ -54,10 +54,10 @@ Proviamo a riassumere i due scenari.
   contributo aggiuntivo da parte dell'azienda. In pratica, sono **soldi gratis**
   che non riceveresti tenendo il TFR in azienda.
 * **Vantaggi fiscali:** i contributi versati (escluso il TFR) sono deducibili ai
-  fini IRPEF fino a un massimo di 5.164,57 euro all’anno. Il rimborso del
-  vantaggio fiscale avviene direttamente ogni mese in busta paga (abbattendo
-  anche ulteriori ritenute calcolate successivamente come l'addizionale
-  regionale e comunale)
+  fini IRPEF fino a un massimo di 5.300 euro all’anno (limite aggiornato per il
+  2026). Il rimborso del vantaggio fiscale avviene direttamente ogni mese in
+  busta paga (abbattendo anche ulteriori ritenute calcolate successivamente come
+  l'addizionale regionale e comunale).
 
 A questo punto, avrai capito che il fondo pensione è spesso più conveniente
 grazie alla tassazione agevolata e al contributo datoriale. Tuttavia, è naturale
@@ -66,25 +66,66 @@ se si rischi di perdere tutto a causa dell'andamento dei mercati.
 
 ## Come posso prelevare dal fondo pensione?
 
-Puoi accedere ai tuoi fondi principalmente in due modalità:
+Puoi accedere ai tuoi risparmi in momenti e con modalità differenti, a seconda delle tue necessità e della fase della tua vita lavorativa.
 
-1. **Al momento della pensione:** sotto forma di capitale (liquidazione totale)
-   o rendita integrativa mensile. La scelta dipende dall'ammontare accumulato:
-   se la rendita derivante dalla conversione del 50% del capitale risulta
-   inferiore all’assegno sociale INPS, puoi riscattare tutto in un'unica
-   soluzione.
-2. **In qualsiasi momento (Anticipazioni):** qualora si verifichino necessità
-   particolari:
-    * **Spese sanitarie** (per sé, coniuge o figli): fino al 75% del capitale,
-      in qualsiasi momento.
-    * **Acquisto o ristrutturazione prima casa:** fino al 75% del capitale (dopo
-      8 anni di iscrizione).
-    * **Ulteriori esigenze non documentate:** fino al 30% del capitale (dopo 8
-      anni di iscrizione).
+### Anticipazioni
+
+Durante la carriera, puoi richiedere delle somme per coprire spese improvvise o
+progetti importanti senza chiudere il fondo:
+
+* **Spese sanitarie** (per te, coniuge o figli): fino al 75% del capitale, in
+  qualsiasi momento.
+* **Acquisto o ristrutturazione prima casa:** fino al 75% del capitale (dopo 8
+  anni di iscrizione).
+* **Ulteriori esigenze non documentate:** fino al 30% del capitale (dopo 8 anni
+  di iscrizione).
 
 Proprio per il limite degli 8 anni, è consigliabile aprire un fondo pensione il
 prima possibile, anche versando il minimo, così da far partire il cronometro
-della propria anzianità previdenziale.
+della tua anzianità previdenziale.
+
+### Riscatto
+
+Esiste poi la possibilità del riscatto, che comporta la **chiusura della
+posizione** (o parte di essa) e la relativa perdita dell'anzianità maturata, ma
+che risulta accessibile in casi specifici:
+
+* **Con tassazione al 23%:**
+  * Perdita dei requisiti (es: cambio di contratto CCNL o dimissioni).
+  * Inoccupazione (anche di un solo giorno).
+* **Con tassazione agevolata (dal 15% al 9%):**
+  * Inoccupazione tra i 12 e i 48 mesi (riscatto parziale al 50%).
+  * Inoccupazione superiore ai 48 mesi o invalidità permanente (riscatto totale al 100%).
+
+Questa opzione è particolarmente interessante per chi punta all'indipendenza
+finanziaria (FIRE) e non desidera attendere l'età pensionabile per accedere al
+capitale, qualora la propria situazione permetta già di smettere di lavorare.
+
+### RITA (Rendita Integrativa Temporanea Anticipata)
+
+Se sei inoccupato e ti mancano meno di 5 anni alla pensione di vecchiaia (o 10
+anni in casi specifici), puoi richiedere la RITA. In questo caso, il tuo
+montante ti viene erogato frazionatamente come rendita temporanea fino al
+raggiungimento della pensione pubblica.
+
+Questa modalità gode della tassazione agevolata (dal 15% al 9%) e ti permette di
+"fare ponte" verso la pensione senza intaccare altri risparmi. (Nella sezione
+approfondimenti troverai un articolo specifico al riguardo).
+
+### Al momento della pensione
+
+Infine, al raggiungimento dei requisiti pensionistici, potrai ritirare quanto
+accumulato sotto forma di capitale o rendita integrativa mensile. La scelta non
+è sempre libera:
+
+* Se la rendita derivante dalla conversione del 70% del tuo montante accumulato
+  risulta inferiore alla metà dell’assegno sociale INPS, puoi riscattare il
+  **100% in un'unica soluzione**.
+* In caso contrario, almeno il **50% dovrà essere convertito in rendita**.
+
+Quest'ultima opzione può sembrare un limite, ma si rivela un vantaggio nel caso
+di una vita particolarmente longeva, garantendo un'entrata costante per tutta la
+vecchiaia.
 
 ## Come vengono investiti i tuoi soldi?
 
@@ -92,7 +133,8 @@ I capitali raccolti dai fondi pensione vengono investiti in strumenti finanziari
 diversificati per ottenere un rendimento in linea con gli obiettivi temporali
 degli iscritti.
 
-Al momento dell’adesione puoi scegliere tra diversi **comparti**:
+Al momento dell'iscrizione e anche in un secondo momento, puoi scegliere come
+investire i tuoi risparmi in uno dei diversi **comparti disponibili**:
 
 * **Linee conservative:** con rendimenti più stabili, ideali se mancano pochi
   anni alla pensione.
@@ -107,10 +149,12 @@ informazioni nei resoconti che i fondi pensione sono obbligati a pubblicare per
 legge.
 
 Lo scopo del fondo non è il trading speculativo, ma la **preservazione del
-capitale** rispetto all’inflazione. Nel lungo periodo (oltre i 10 anni), i
-mercati globali tendono storicamente a crescere; se dovesse verificarsi un
-evento tale da azzerare un fondo pensione ben diversificato, probabilmente il
-rendimento sarebbe l'ultimo dei tuoi problemi.
+capitale** rispetto all’inflazione. Storicamente, su orizzonti temporali lunghi
+(oltre i 10 anni), i mercati globali tendono a crescere. Se una crisi sistemica
+riuscisse a polverizzare un fondo pensione globale e diversificato, l'andamento
+del tuo portafoglio sarebbe l'ultima delle tue preoccupazioni, mentre cerchi di
+sopravvivere tra esplosioni atomiche, oceani scomparsi e una terra ridotta a un
+deserto post-apocalittico.
 
 Ogni fondo è obbligato dalla [COVIP](https://www.covip.it/) a pubblicare
 annualmente i
@@ -175,6 +219,7 @@ a fare la scelta giusta!
   quantità di contenuti divulgativi che pubblicano continuamente sul loro
   [blog](https://www.ciaoelsa.com/blog) e sui social. Questi gli articoli che
   sono stati più interessanti per me:
+  * [RITA](https://www.ciaoelsa.com/blog/rita-rendita-integrativa-temporanea-anticipata-fondo-pensione-a-chi-conviene-requisiti-simulazioni)
   * [Extra-deducibilità](https://www.ciaoelsa.com/blog/extra-deducibilita-fondo-pensione-dichiarazione-redditi):
     quando puoi superare il limite annuale di versamenti nel fondo.
   * [Amundi
