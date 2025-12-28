@@ -64,7 +64,7 @@ grazie alla tassazione agevolata e al contributo datoriale. Tuttavia, è natural
 chiedersi quanto sia complicato accedere a quella liquidità in caso di bisogno o
 se si rischi di perdere tutto a causa dell'andamento dei mercati.
 
-### Come posso prelevare dal fondo pensione?
+## Come posso prelevare dal fondo pensione?
 
 Puoi accedere ai tuoi fondi principalmente in due modalità:
 
@@ -86,7 +86,7 @@ Proprio per il limite degli 8 anni, è consigliabile aprire un fondo pensione il
 prima possibile, anche versando il minimo, così da far partire il cronometro
 della propria anzianità previdenziale.
 
-### Come vengono investiti i tuoi soldi?
+## Come vengono investiti i tuoi soldi?
 
 I capitali raccolti dai fondi pensione vengono investiti in strumenti finanziari
 diversificati per ottenere un rendimento in linea con gli obiettivi temporali
@@ -120,7 +120,7 @@ e i
 Ti consiglio di consultarli per confrontare le diverse opzioni, ricordando però
 che i rendimenti passati non garantiscono quelli futuri.
 
-### Fondo Pensione o investimento autonomo in ETF?
+## Fondo Pensione o investimento autonomo in ETF?
 
 Molti investitori preferiscono gestire il proprio capitale in autonomia
 acquistando **ETF (Exchange Traded Funds)**. Chi sceglie questa strada ha spesso
@@ -146,7 +146,7 @@ fondo pensione (almeno per massimizzare il contributo aziendale) e affiancarla a
 un [portafoglio di ETF](/2024/finanza-personale/) permette di bilanciare
 benefici fiscali immediati e crescita del capitale nel lungo periodo.
 
-### Conclusione
+## Conclusione
 
 Il fondo pensione è uno strumento versatile per gestire il TFR e costruire una
 sicurezza finanziaria extra. La scelta dipende dal tuo orizzonte temporale e dal
@@ -156,3 +156,31 @@ efficienti nel panorama italiano.
 Se hai domande, dubbi o vuoi condividere la tua esperienza con un fondo
 specifico, scrivimi nei commenti: la tua opinione potrebbe aiutare altri lettori
 a fare la scelta giusta!
+
+## Approfondimenti
+
+* [Guida Completa ai Fondi Pensione in Italia
+  V.3](https://www.reddit.com/r/ItaliaPersonalFinance/comments/1mw7z6n/guida_completa_ai_fondi_pensione_in_italia_v3/):
+  PDF + Excel redatto da un utente di `r/ItaliaPersonalFinance`.
+* [🔊 Episodio 61 di The Bull](https://www.youtube.com/watch?v=Gv5pds7YSds): Fondi
+  Pensione vs ETF, l'episodio di uno dei podcast di finanza personale che seguo.
+* [🎥 Quando e per chi conviene il fondo
+  pensione](https://www.youtube.com/watch?v=wE9_72brJWs), dal canale YouTube di
+  Paolo Coletti.
+* [Ciao Elsa](https://www.ciaoelsa.com/): è una piattaforma online che offre
+  consulenza e supporto per la gestione dei fondi pensione. Il servizio è noto
+  per la sua facilità d'uso, per la competenza dei suoi consulenti e per la
+  quantità di contenuti divulgativi che pubblicano continuamente sul loro
+  [blog](https://www.ciaoelsa.com/blog) e sui social. Questi gli articoli che
+  sono stati più interessanti per me:
+  * [Extra-deducibilità](https://www.ciaoelsa.com/blog/extra-deducibilita-fondo-pensione-dichiarazione-redditi):
+    quando puoi superare il limite annuale di versamenti nel fondo.
+  * [Amundi
+    SecondaPensione](https://www.ciaoelsa.com/blog/amundi-secondapensione-costi-rendimenti):
+    il fondo pensione aperto fra i più consigliati anche da
+    `r/ItaliaPersonalFinance` (utile per chi è lavoratore autonomo o non ha un
+    fondo pensione di categoria con contributo datoriale)
+  * [Versamenti in busta paga o tramite
+    bonifico](https://www.ciaoelsa.com/blog/versamenti-volontari-fondo-pensione-bonifico-busta-paga):
+    perché conviene quasi sempre contribuire al fondo pensione attraverso la
+    busta paga.
