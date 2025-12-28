@@ -5,6 +5,7 @@ permalink: /2025/stablecoin-rivoluzione
 image: /images/2025/stablecoins.jpg
 tags:
   - ethereum
+hidden: true
 ---
 
 L'approvazione del [GENIUS
