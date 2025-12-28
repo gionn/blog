@@ -163,7 +163,7 @@ a fare la scelta giusta!
   V.3](https://www.reddit.com/r/ItaliaPersonalFinance/comments/1mw7z6n/guida_completa_ai_fondi_pensione_in_italia_v3/):
   PDF + Excel redatto da un utente di `r/ItaliaPersonalFinance`.
 * [Episodio 61 di The Bull](https://www.youtube.com/watch?v=Gv5pds7YSds): Fondi
-  Pensione vs ETF.
+  Pensione vs ETF, l'episodio di uno dei podcast di finanza personale che seguo.
 * [Quando e per chi conviene il fondo
   pensione](https://www.youtube.com/watch?v=wE9_72brJWs) di Paolo Coletti.
 * [Ciao Elsa](https://www.ciaoelsa.com/): è una piattaforma online che offre
