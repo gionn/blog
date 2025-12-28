@@ -5,6 +5,7 @@ permalink: /2025/ethereum-pectra-explained/
 image: /images/2025/pectra-upgrade.jpg
 tags:
   - ethereum
+hidden: true
 ---
 
 Ethereum, the world's leading smart contract blockchain, is gearing up for its
