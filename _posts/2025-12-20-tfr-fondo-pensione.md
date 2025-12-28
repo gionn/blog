@@ -56,7 +56,7 @@ Proviamo a riassumere i due scenari.
 * **Vantaggi fiscali:** i contributi versati (escluso il TFR) sono deducibili ai
   fini IRPEF fino a un massimo di 5.164,57 euro all’anno. Il rimborso del
   vantaggio fiscale avviene direttamente ogni mese in busta paga (abbattendo
-  anche ulteriori ritenute calculate successivamente come l'addizionale
+  anche ulteriori ritenute calcolate successivamente come l'addizionale
   regionale e comunale)
 
 A questo punto, avrai capito che il fondo pensione è spesso più conveniente
