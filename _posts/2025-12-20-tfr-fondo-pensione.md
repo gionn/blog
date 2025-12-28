@@ -176,9 +176,9 @@ a fare la scelta giusta!
     quando puoi superare il limite annuale di versamenti nel fondo.
   * [Amundi
     SecondaPensione](https://www.ciaoelsa.com/blog/amundi-secondapensione-costi-rendimenti):
-    il fondo pensione aperto più consigliato anche da r/ItaliaPersonalFinance
-    (utile per chi è lavoratore autonomo o non ha un fondo pensione di categoria
-    con contributo datoriale)
+    il fondo pensione aperto fra i più consigliati anche da
+    `r/ItaliaPersonalFinance` (utile per chi è lavoratore autonomo o non ha un
+    fondo pensione di categoria con contributo datoriale)
   * [Versamenti in busta paga o tramite
     bonifico](https://www.ciaoelsa.com/blog/versamenti-volontari-fondo-pensione-bonifico-busta-paga):
     perché conviene quasi sempre contribuire al fondo pensione attraverso la
