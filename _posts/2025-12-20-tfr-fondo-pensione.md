@@ -162,6 +162,8 @@ a fare la scelta giusta!
 * [Guida Completa ai Fondi Pensione in Italia
   V.3](https://www.reddit.com/r/ItaliaPersonalFinance/comments/1mw7z6n/guida_completa_ai_fondi_pensione_in_italia_v3/):
   PDF + Excel redatto da un utente di `r/ItaliaPersonalFinance`.
+* Fondi pensione sulla [wiki di
+  r/ItaliaPersonalFinance](https://www.italiapersonalfinance.it/blog/fondi-pensione/)
 * [🔊 Episodio 61 di The Bull](https://www.youtube.com/watch?v=Gv5pds7YSds): Fondi
   Pensione vs ETF, l'episodio di uno dei podcast di finanza personale che seguo.
 * [🎥 Quando e per chi conviene il fondo
