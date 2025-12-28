@@ -10,6 +10,10 @@ jobs:
   pre-commit:
     runs-on: ubuntu-latest
     steps:
+      - name: Install image optimization tools
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y jpegoptim optipng
       - uses: Alfresco/alfresco-build-tools/.github/actions/pre-commit@v10.1.0
         with:
           python-version: '3.13.3'
