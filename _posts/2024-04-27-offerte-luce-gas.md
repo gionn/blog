@@ -63,8 +63,9 @@ ufficiale di ARERA. Ti saranno chieste alcune informazioni, non serve nessun tip
 registrazione/account e otterrai subito le migliori offerte in ordine di prezzo
 finale (inclusi i costi di sistema).
 
-> Un'alternativa di terze parti è [Wattene!](https://wattene.it/) che permette di
-sfogliere le offerte disponibili su una interfaccia più veloce ed ergonomica.
+> Un'alternativa di terze parti è [⚡ Wattene!](https://wattene.it/) che permette
+> di sfogliare le offerte disponibili su una interfaccia più veloce ed
+> ergonomica.
 
 Per poter effettuare tale simulazione, l’unica informazione che sicuramente non
 hai a portata di mano e che occorre avere è:
@@ -85,8 +86,9 @@ e verificare che sia le tariffe che le condizioni siano quelle che ti aspetti.
 Attenzione che alcune offerte hanno servizi aggiuntivi (manutenzione caldaia,
 bici elettrica e altre amenità), da evitare se non ti interessano davvero.
 
-Per comparare un'offerta a prezzo fisso di un fornitore con quella di un altro
-fornitore, è sufficiente calcolare:
+Se come me, tendi a non fidarti ciecamente dei numeri, per comparare un'offerta
+a prezzo fisso di un fornitore con quella di un altro (o magari la tua attuale),
+è sufficiente calcolare:
 
 `quantità consumata nell'ultimo anno di materia prima` * `prezzo materia prima` + `costi fissi`
 
