@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Recap Portafogli ETF 2025
+title: Recap Portafoglio ETF 2025
 image: /images/2025/portfolio-update/hero.jpg
 permalink: /2025/recap-portafogli-etf/
 tags:
@@ -77,7 +77,7 @@ singola posizione (TER medio 0,09%):
 | EIMI |  8.07   |  15.56%   | 17.29%  |
 | CETH |  3.02   |  -7.44%   | -8.15%  |
 | XHYA |  0.71   |   1.41%   |  4.15%  |
-|      | 100.00  |           |  6.31%  |
+|      | 100.00  |           |  6.33%  |
 
 * ✅ **Miglior ETF:** `MEUD` +17.80%
 * ❌ **Peggior ETF:** `CETH` -7.44%
@@ -108,7 +108,7 @@ USA** in modo più sistematico, e ho iniziato a comprare `EXUS` (Ex-US
 Developed), con cui estendere la mia iniziale posizione in `MEUD` (Euro Stoxx
 600), che comunque manterrò per evitare di pagarci tasse. Poiché i multipli
 elevati dell'attuale mercato USA riducono la probabilità di rendimenti futuri
-significativi, ritengo opportuno alleggerire la posizione  e migliorare il mio
+significativi, ritengo opportuno alleggerire la posizione e migliorare il mio
 comfort psicologico.
 
 ## 🚀 Obiettivi per il 2026
@@ -116,7 +116,7 @@ comfort psicologico.
 * Portare la posizione di VUAA al 50% all'interno delle Equity dall'attuale 63%
 * Disfarmi della piccola posizione in `XHYA`
 * Guardare più da vicino le commodity e iniziare a ragionare se ha senso
-  inserirle in portafogli (ma solo se ne sono DAVVERO convinto)
+  inserirle in portafoglio (ma solo se ne sono DAVVERO convinto)
 
 ## Note
 
