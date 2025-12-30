@@ -56,8 +56,11 @@ di investimento, integrandovi gli altri fondi (prevalentemente Moneyfarm e conti
 deposito). Ad oggi, rimane esclusa solo la liquidità residua presente sul conto
 corrente.
 
-![Grafico TTWRR YTD 2025](/images/2025/portfolio-update/TTWRR-YTD.png)
-![Grafico TTWRR dall'inizio](/images/2025/portfolio-update/TTWRR-inception.png)
+Grafico TTWRR YTD (2025):
+[![Grafico TTWRR YTD 2025](/images/2025/portfolio-update/TTWRR-YTD.png)](/images/2025/portfolio-update/TTWRR-YTD.png)
+
+Grafico TTWRR dall'inizio:
+[![Grafico TTWRR dall'inizio](/images/2025/portfolio-update/TTWRR-inception.png)](/images/2025/portfolio-update/TTWRR-inception.png)
 
 Ho usato `VNGA80` (Vanguard LifeStrategy 80% Equity) come benchmark (linea
 tratteggiata) perché ha una asset allocation molto simile.
@@ -79,10 +82,11 @@ singola posizione (TER medio 0,09%):
 | XHYA |  0.71   |   1.41%   |  4.15%  |
 |      | 100.00  |           |  6.33%  |
 
-* ✅ **Miglior ETF:** `MEUD` +17.80%
-* ❌ **Peggior ETF:** `CETH` -7.44%
+* 🏆 **Miglior ETF:** `MEUD` +17.80%
+* 😵 **Peggior ETF:** `CETH` -7.44%
 
-![Grafico a torta dell'asset allocation](/images/2025/portfolio-update/assets-pie.png)
+Rappresentazione grafica della composizione del portafoglio:
+[![Grafico a torta dell'asset allocation](/images/2025/portfolio-update/assets-pie.png)](/images/2025/portfolio-update/assets-pie.png)
 
 ## 🧠 Lezioni Apprese
 
