@@ -70,23 +70,29 @@ tratteggiata) perché ha una asset allocation molto simile.
 Ecco la composizione dettagliata del portafoglio con i rendimenti di ogni
 singola posizione (TER medio 0,09%):
 
-| Name | Share % | TTWRR YTD | IRR YTD |
-|:----:|:-------:|:---------:|:-------:|
-| VUAA |  47.17  |   4.91%   |  5.03%  |
-| XEON |  11.35  |   1.43%   |  2.32%  |
-| MEUD |  10.80  |  17.80%   | 20.38%  |
-| XGLE |  10.28  |   2.94%   |  3.68%  |
-| EXUS |  8.60   |   2.85%   | 20.62%  |
-| EIMI |  8.07   |  15.56%   | 17.29%  |
-| CETH |  3.02   |  -7.44%   | -8.15%  |
-| XHYA |  0.71   |   1.41%   |  4.15%  |
-|      | 100.00  |           |  6.33%  |
+| Name | Share % | TTWRR YTD | IRR YTD | Descrizione           |
+|:----:|:-------:|:---------:|:-------:|:----------------------|
+| VUAA |  47.17  |   4.91%   |  5.03%  | SP500                 |
+| XEON |  11.35  |   1.43%   |  2.32%  | monetario €STR        |
+| MEUD |  10.80  |  17.80%   | 20.38%  | Stoxx 600 (europa)    |
+| XGLE |  10.28  |   2.94%   |  3.68%  | Euro Govt Bond        |
+| EXUS |  8.60   |   2.85%   | 20.62%  | Developed escluso USA |
+| EIMI |  8.07   |  15.56%   | 17.29%  | Emerging markets      |
+| CETH |  3.02   |  -7.44%   | -8.15%  | Staked Ethereum       |
+| XHYA |  0.71   |   1.41%   |  4.15%  | High Yield Europa     |
+|      | 100.00  |           |  6.33%  |                       |
 
 * 🏆 **Miglior ETF:** `MEUD` +17.80%
 * 😵 **Peggior ETF:** `CETH` -7.44%
 
 Rappresentazione grafica della composizione del portafoglio:
 [![Grafico a torta dell'asset allocation](/images/2025/portfolio-update/assets-pie.png)](/images/2025/portfolio-update/assets-pie.png)
+
+Come sono andate le singole posizioni YTD:
+[![Grafico rendimenti singole posizioni YTD](/images/2025/portfolio-update/TTWRR-equities-YTD.png)](/images/2025/portfolio-update/TTWRR-equities-YTD.png)
+
+Come sono andate le singole posizioni dall'inizio:
+[![Grafico rendimenti singole posizioni dall'inizio](/images/2025/portfolio-update/TTWRR-equities-inception.png)](/images/2025/portfolio-update/TTWRR-equities-inception.png)
 
 ## 🧠 Lezioni Apprese
 
