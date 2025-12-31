@@ -126,3 +126,5 @@ comfort psicologico.
 
 Grafici e statistiche elaborate con
 [Portfolio Performance](https://www.portfolio-performance.info).
+
+Discussione su [r/ItaliaPersonalFinance](https://www.reddit.com/r/ItaliaPersonalFinance/comments/1pzpyi5/il_mio_recap_del_portafoglio_etf_2025/).
