@@ -21,7 +21,7 @@ This allows you to import prices from Yahoo Finance (perfect for EU markets and
 beyond) using a **very simple formula**.
 
 It's a lightweight, **open-source API** that queries Yahoo Finance and returns
-only the price in text format—ideal for being "digested" by Google Sheets.
+only the price in text format, ideal for being consumed in Google Sheets.
 
 You just need to use the `IMPORTDATA` function, pointing to either my public
 instance or your own (if you prefer total control over privacy and uptime).
@@ -34,10 +34,10 @@ instance or your own (if you prefer total control over privacy and uptime).
 
 ## Key Information
 
-* **Public Instance**: It’s free and currently runs on my free Cloudflare
+* **Public Instance**: It's free and currently runs on my free Cloudflare
   account, which handles up to 100,000 requests per day. If we ever hit this
-  limit, I’ll re-evaluate the next steps.
-* **Caching**: Prices are cached for 4 hours to avoid hammering Yahoo’s servers.
+  limit, I'll re-evaluate the next steps.
+* **Caching**: Prices are cached for 4 hours to avoid hammering Yahoo's servers.
   I'm fairly sure you won't be checking your sheets more frequently than that!
 * **Self-Hosting (For Power Users)**: If you want total control, the project is
   on GitHub:
