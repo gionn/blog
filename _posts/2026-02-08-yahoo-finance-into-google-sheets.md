@@ -16,12 +16,12 @@ classic `=GOOGLEFINANCE("BIT:VWCE")` now simply returns an error, leaving us
 stranded.
 
 Since waiting for a fix from Google is wishful thinking, and many are scrambling
-for alternatives, I've built a clean solution based on **Cloudflare Workers**.
+for alternatives, I've built a clean solution based on *Cloudflare Workers*.
 This allows you to import prices from Yahoo Finance (perfect for EU markets and
-beyond) using a very simple formula.
+beyond) using a **very simple formula**.
 
-It's a lightweight, open-source API that queries Yahoo Finance and returns only
-the price in text format—ideal for being "digested" by Google Sheets.
+It's a lightweight, **open-source API** that queries Yahoo Finance and returns
+only the price in text format—ideal for being "digested" by Google Sheets.
 
 You just need to use the `IMPORTDATA` function, pointing to either my public
 instance or your own (if you prefer total control over privacy and uptime).
@@ -43,7 +43,7 @@ instance or your own (if you prefer total control over privacy and uptime).
   on GitHub:
   [https://github.com/gionn/yf-import](https://github.com/gionn/yf-import). Just
   click "Fork," connect your Cloudflare Workers, and you'll have your own
-  private instance: `https://yf-import.yourname.workers.dev`.
+  private instance like `https://yf-import.yourname.workers.dev`.
 
 I hope this helps anyone who, like me, has been dealing with a "broken"
 portfolio tracker for the past few months.
