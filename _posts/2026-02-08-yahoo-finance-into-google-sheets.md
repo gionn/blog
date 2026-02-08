@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fixing Google Sheets: import European ETF Prices via Yahoo Finance"
+title: "Fixing Google Sheets: import securities prices via Yahoo Finance"
 permalink: /2026/google-sheets-yahoo-finance-fix/
 image: /images/2026/yahoo-import-hero.png
 tags:
