@@ -108,6 +108,14 @@ carico della migrazione, dopodiché ti sarà comunicata la data effettiva in cui
 cesserà il contratto col vecchio fornitore e inizierà quello nuovo. Solitamente
 il primo giorno del mese dopo 2 mesi dalla data di sottoscrizione.
 
+<section style="background-color: #0e0039; color: #ffffff; padding: 1em; margin-top: 1em; margin-bottom: 1em;">
+<img src="/images/2026/octopus-energy-premio.jpg" alt="Octopus Energy Premio"/>
+<h4 style="color: inherit;">Ottieni 30€ di sconto immediato</h4>
+<p style="color: inherit;">Molti utenti apprezzano i prezzi competitivi di Octopus Energy, assieme al servizio clienti e alla possibilità di aggiornare la tariffa ad una più conveniente senza costi aggiuntivi.</p>
+<p style="color: inherit;">Se vuoi passare a Octopus Energy puoi utilizzare il <a href="https://octopusenergy.it/octo-friends/mist-pear-903" style="color: #9ecbff;">mio codice
+sconto</a> per ottenere entrambi uno sconto in bolletta.</p>
+</section>
+
 ## Soluzioni più semplici
 
 Se invece non vuoi avventurarti in procedure di cambio fornitore e cerchi una
@@ -116,13 +124,6 @@ che non ti garantisce di passare al fornitore più conveniente in assoluto in
 quel momento ma a quello con cui loro hanno accordi commerciali, col vantaggio,
 però, che si occupano di tutto loro, semplicemente fornendogli una copia delle
 tue ultime bollette.
-
-C'è anche [NeN](https://nen.it/attiva-nen?promoCode=@bucaneve374), che offre un
-modello di **pagamento mensile fisso**: sempre la stessa cifra indipendentemente
-dai consumi reali, e la piattaforma regola i conguagli annuali per bilanciare
-eventuali differenze. Questo rende le bollette **prevedibili** e più facili da
-gestire. Io sono cliente e se usi il link avremo entrambi **un euro al mese di
-sconto** sui costi fissi della bolletta per il primo anno di fornitura.
 
 ## Simulazione completa con fogli di calcolo
 
