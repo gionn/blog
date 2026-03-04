@@ -32,10 +32,11 @@ instance or your own (if you prefer total control over privacy and uptime).
 * **VUAA (Milan)**: `=IMPORTDATA("https://yf-import.gionn.net/api/quotes/VUAA.MI", "", "en_US")`
 * **AAPL (US)**: `=IMPORTDATA("https://yf-import.gionn.net/api/quotes/AAPL", "", "en_US")`
 
-These extra parameters manage locale used when parsing the API response. If
-you're already on English (US), you can skip them, but if not, having them will
-save you massive headaches with numbers not parsing correctly and causing weird
-numbers.
+These extra parameters manage how the API response is parsed. The second
+argument `""` is for the delimiter (automatically detected) and the third
+argument `"en_US"` forces numbers to be parsed using the correct locale and
+saves you from massive headaches with numbers not parsing correctly and causing
+weird results.
 
 ## Key Information
 
