@@ -28,9 +28,14 @@ instance or your own (if you prefer total control over privacy and uptime).
 
 ## Examples
 
-* **VWCE (XETRA)**: `=IMPORTDATA("https://yf-import.gionn.net/api/quotes/VWCE.DE")`
-* **VUAA (Milan)**: `=IMPORTDATA("https://yf-import.gionn.net/api/quotes/VUAA.MI")`
-* **AAPL (US)**: `=IMPORTDATA("https://yf-import.gionn.net/api/quotes/AAPL")`
+* **VWCE (XETRA)**: `=IMPORTDATA("https://yf-import.gionn.net/api/quotes/VWCE.DE", "", "en_US")`
+* **VUAA (Milan)**: `=IMPORTDATA("https://yf-import.gionn.net/api/quotes/VUAA.MI", "", "en_US")`
+* **AAPL (US)**: `=IMPORTDATA("https://yf-import.gionn.net/api/quotes/AAPL", "", "en_US")`
+
+These extra parameters manage locale used when parsing the API response. If
+you're already on English (US), you can skip them, but if not, having them will
+save you massive headaches with numbers not parsing correctly and causing weird
+numbers.
 
 ## Key Information
 
