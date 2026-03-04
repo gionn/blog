@@ -119,11 +119,12 @@ sconto</a> per ottenere entrambi uno sconto in bolletta.</p>
 ## Soluzioni più semplici
 
 Se invece non vuoi avventurarti in procedure di cambio fornitore e cerchi una
-soluzione *zero sbatti*, puoi provare con [Switcho](https://www.switcho.it/),
+soluzione *zero sbatti*, puoi provare con [Switcho](https://swi.tc/ref/giovanni_abu),
 che non ti garantisce di passare al fornitore più conveniente in assoluto in
 quel momento ma a quello con cui loro hanno accordi commerciali, col vantaggio,
 però, che si occupano di tutto loro, semplicemente fornendogli una copia delle
 tue ultime bollette.
+Se usi il mio link, otteniamo entrambi un **buono Amazon da 10€**.
 
 ## Simulazione completa con fogli di calcolo
 
