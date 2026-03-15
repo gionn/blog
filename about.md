@@ -20,7 +20,7 @@ later got acquired by [Engineering D.HUB][5].
 During the weekends I shoot with a [medieval crossbow 🎯][7] for a reenactment
 association in the city of [Lucca][13].
 
-My resume (CV) is [here](https://gionn.net/files/giovanni-toraldo-cv.pdf).
+My resume (CV) is [here](/cv/).
 
 [lucca]: https://goo.gl/maps/ULH2ab9wLrNGa3M86
 [1]: https://github.com/gionn
