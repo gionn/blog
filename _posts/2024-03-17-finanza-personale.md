@@ -7,8 +7,6 @@ redirect_from:
  - /2024/03/17/finanza-personale/
 tags:
  - italiano
- - finanza personale
- - educazione finanziaria
  - etf
 categories:
   - Finanza personale

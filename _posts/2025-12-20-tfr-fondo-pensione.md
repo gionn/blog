@@ -5,9 +5,6 @@ image: /images/2025/tfr-azienda-fondo-pensione.jpg
 permalink: /2025/tfr-fondo-pensione/
 tags:
  - italiano
- - finanza personale
- - educazione finanziaria
- - fondo pensione
 categories:
   - Finanza personale
 ---

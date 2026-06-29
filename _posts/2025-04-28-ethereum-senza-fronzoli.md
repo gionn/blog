@@ -5,6 +5,7 @@ permalink: /2025/ethereum-senza-fronzoli-primo-setup-wallet/
 image: /images/2025/ethereum-facile.png
 tags:
   - ethereum
+  - italiano
 ---
 
 Ethereum è una **rete decentralizzata** che consente di trasferire fondi a terzi
