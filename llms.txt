@@ -1,0 +1,16 @@
+---
+permalink: /llms.txt
+layout: null
+---
+# {{ site.title }}
+
+> {{ site.description }}
+
+## Posts (English)
+
+{% for post in site.posts %}{% unless post.tags contains "italiano" %}- [{{ post.title }}]({{ post.url | absolute_url }}): {{ post.description | default: post.excerpt | strip_html | strip_newlines | truncatewords: 25 }}
+{% endunless %}{% endfor %}
+## Articoli (Italiano)
+
+{% for post in site.posts %}{% if post.tags contains "italiano" %}- [{{ post.title }}]({{ post.url | absolute_url }}): {{ post.description | default: post.excerpt | strip_html | strip_newlines | truncatewords: 25 }}
+{% endif %}{% endfor %}
