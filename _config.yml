@@ -37,3 +37,4 @@ plugins:
 
 exclude:
   - Dockerfile
+  - CLAUDE.md
