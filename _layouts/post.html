@@ -24,6 +24,10 @@ layout: default
         </div>
 
         {% include post-tags.html post=page %}
+
+        <p class="post-meta">
+            <small><a href="https://raw.githubusercontent.com/gionn/blog/refs/heads/master/{{ page.path }}">View source on GitHub</a></small>
+        </p>
     </div>
 
     {% include comments.html %}

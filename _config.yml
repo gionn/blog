@@ -33,6 +33,8 @@ plugins:
   - jekyll-minifier
   - jemoji
   - jekyll-redirect-from
+  - jekyll-last-modified-at
 
 exclude:
   - Dockerfile
+  - CLAUDE.md
