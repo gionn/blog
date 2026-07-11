@@ -13,9 +13,9 @@ Pre-commit hooks run automatically on commit and optimize images via `jpegoptim`
 
 ## Architecture
 
-Static Jekyll blog using the [Hydeout](https://github.com/fongandrew/hydeout) theme. Minimal customization — one layout override (`_layouts/post.html`) and five includes (`_includes/`), one of which (`post-meta.html`) overrides the theme's version to add a "View source on GitHub" link.
+Static Jekyll blog using the [Hydeout](https://github.com/fongandrew/hydeout) theme. Minimal customization — one layout override (`_layouts/post.html`, which also appends a muted "View source on GitHub" link after the tags) and four includes (`_includes/`).
 
-`robots.txt` and `llms.txt` are custom root-level files (not theme/plugin defaults): `robots.txt` explicitly allows known AI crawlers (GPTBot, ClaudeBot, etc.); `llms.txt` is a generated index of all posts per the [llms.txt](https://llmstxt.org) convention. `jekyll-last-modified-at` is enabled so JSON-LD `dateModified` reflects real git history.
+`robots.txt`, `llms.txt`, and `404.html` are custom root-level files (not theme/plugin defaults): `robots.txt` explicitly allows known AI crawlers (GPTBot, ClaudeBot, etc.); `llms.txt` is a generated index of all posts per the [llms.txt](https://llmstxt.org) convention; `404.html` avoids Cloudflare Pages' default soft-404 (SPA-style homepage fallback) for unmatched paths. `jekyll-last-modified-at` is enabled so JSON-LD `dateModified` reflects real git history.
 
 **Post frontmatter fields:**
 - `layout: post` — always
