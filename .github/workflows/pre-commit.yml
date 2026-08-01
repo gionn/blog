@@ -14,6 +14,6 @@ jobs:
         run: |
           sudo apt-get update -q
           sudo apt-get install -y jpegoptim optipng
-      - uses: Alfresco/alfresco-build-tools/.github/actions/pre-commit@6d82a126f5f8b2cbfe2663c2c6c4fa3dbd5bdc7e # v18.15.0
+      - uses: Alfresco/alfresco-build-tools/.github/actions/pre-commit@e87345fb177248fc5bdc7838107f098438818df1 # v18.21.0
         with:
           python-version: '3.13.3'
