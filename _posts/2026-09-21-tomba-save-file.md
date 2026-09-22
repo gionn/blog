@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Putting an item back into a Tomba! save file"
+title: "Putting an item back into a Tombi! save file"
 permalink: /2026/tomba-save-editing/
 image: /images/2026/tomba-hero.jpg
 excerpt: |
@@ -55,14 +55,14 @@ struct, so the fields sit at fixed offsets.
 
 ## Finding the inventory
 
-The first cool thing the model did was look for a decompilation project on
-GitHub. I had no idea Tomba! had one, and I was genuinely surprised it was
+The first cool thing the model did was look for a **decompilation project** on
+GitHub. I had no idea Tombi! had one, and I was genuinely surprised it was
 there. That was the luckiest thing that could have happened, because with the
 source available I did not have to reverse engineer the save by hand. I could
 read the actual struct layout and look up the item ids, which made it much
 simpler to work out which item to change.
 
-Tomba!'s decompilation project is
+Tombi!'s decompilation project is
 [hansbonini/psx_tomba](https://github.com/hansbonini/psx_tomba), and it has the
 item list and the inventory logic. The relevant struct in `include/game.h` looks
 like this:
@@ -105,7 +105,7 @@ part of any field.
 
 Guessing the algorithm was probably not an easy task, so I exported a second,
 untouched save from the same playthrough. Comparing the two legitimate saves showed the byte at
-`0x0C7F` changed by exactly the XOR of everything that changed in the game data.
+`0x0C7F` changed by **exactly the XOR** of everything that changed in the game data.
 The rule turned out to be simple:
 
 ```
@@ -150,7 +150,7 @@ the red mushroom, killed the blue one together with a red one, and got the
 special mushroom. Eating it turned the character completely gray and gave the
 extra power it was supposed to.
 
-![Tomba turned gray after eating the special mushroom, the power-up the Blue Powder unlocks](/images/2026/tomba-mushroom.png)
+![Tombi turned gray after eating the special mushroom, the power-up the Blue Powder unlocks](/images/2026/tomba-mushroom.png)
 
 ## Notes
 
@@ -159,7 +159,7 @@ builds have a different executable, so the struct layout may differ. The method
 is the same either way: find the struct offsets in a decompilation, or locate
 the arrays by eye, then recompute the checksum.
 
-The checksum byte only matters if the game validates it. Tomba! does, which is
+The checksum byte only matters if the game validates it. Tombi! does, which is
 why the first edit failed. If you edit a raw card image instead of importing a
 `.mcs`, the memory card frame carries its own checksum that also needs updating,
 so back up the original before writing anything.
