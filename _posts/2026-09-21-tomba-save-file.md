@@ -34,8 +34,7 @@ on my Linux box and pointed opencode, with the latest DeepSeek 4.1, at the
 `.mcs` file.
 
 I had no idea what I was looking at. The file is 8320 bytes, most of it looked
-like `FF` padding, and nothing obviously said "inventory". So I went looking for
-the game's data structures instead of guessing.
+like `FF` padding, and nothing obviously said "inventory".
 
 ## What is inside the file
 
