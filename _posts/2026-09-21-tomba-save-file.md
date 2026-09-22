@@ -117,6 +117,10 @@ the same kind of checksum: the byte at `0x007F` is the XOR of `0x0000` to
 
 ## The working edit
 
+With the offsets and the checksum rule in hand, the whole fix is a few lines of
+Python: append the powder to the next free slot, set its quantity to 1, bump
+`counter` and recompute the checksum.
+
 ```python
 data = bytearray(open('save.mcs', 'rb').read())
 
