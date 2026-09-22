@@ -28,6 +28,6 @@ Static Jekyll blog using the [Hydeout](https://github.com/fongandrew/hydeout) th
 
 - Blog is bilingual (English and Italian). Italian posts use the `italiano` tag; English posts have no language tag.
 - No em-dashes (`—`). Use colons, commas, or parentheses instead.
-- Use bold (`<strong>`) emphasis sparingly, on 2-3 words at most.
+- Use bold (`<strong>`) on 2-3 words at most, and use it freely every 2-3 lines to help readers skim.
 - Images go in `images/YYYY/` and are auto-optimized by pre-commit hooks.
 - Permalinks: prefer year-only for new posts (`/2026/slug/`), but many legacy posts use the default `/:year/:month/:day/:title/` pattern unless they set `permalink:` explicitly.
