@@ -54,9 +54,9 @@ struct, so the fields sit at fixed offsets.
 
 ## Finding the inventory
 
-The first cool thing the model did was look for a **decompilation project** on
-GitHub. I had no idea Tombi! had one, and I was genuinely surprised it was
-there. That was the luckiest thing that could have happened, because with the
+The model searched for the game's data structures and found a
+**decompilation project** on GitHub. I had no idea Tombi! had one, and I was
+genuinely surprised it was there. That was the luckiest thing that could have happened, because with the
 source available I did not have to reverse engineer the save by hand. I could
 read the actual struct layout and look up the item ids, which made it much
 simpler to work out which item to change.
