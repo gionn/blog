@@ -57,7 +57,7 @@ struct, so the fields sit at fixed offsets.
 The model searched for the game's data structures and found a
 **decompilation project** on GitHub. I had no idea Tombi! had one, and I was
 genuinely surprised it was there. That was the luckiest thing that could have happened, because with the
-source available I did not have to reverse engineer the save by hand. I could
+source available I did not have to reverse engineer the save by myself. I could
 read the actual struct layout and look up the item ids, which made it much
 simpler to work out which item to change.
 
@@ -90,12 +90,14 @@ With the struct fields known, the offsets fall out. The game data starts at
 
 I checked this against the save: `counter` read 33, and there were exactly 33
 item ids in `slots[]`. Silver Powder (`0x66`) was there. Blue Powder (`0x75`)
-was not, which matched the game.
+was not, which matched what I could see when playing the game.
 
 ## The first attempt failed
 
 The model appended `0x75` to the next free slot, set `item[0x75]` to 1, and
-bumped `counter` to 34. The emulator refused to load the save.
+bumped `counter` to 34. The emulator refused to load the save. I panicked a
+bit: had I reimported the `.mcs` file properly? DuckStation makes that easy to
+verify, so I asked the model again: "is there a checksum we missed?"
 
 Of course there is a checksum. Console games often store a small checksum next to the save
 data and reject anything that does not match. The model looked at the last bytes
