@@ -37,4 +37,5 @@ plugins:
 
 exclude:
   - Dockerfile
+  - AGENTS.md
   - CLAUDE.md
