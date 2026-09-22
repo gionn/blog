@@ -3,8 +3,6 @@ layout: post
 title: "Putting an item back into a Tombi! save file"
 permalink: /2026/tomba-save-editing/
 image: /images/2026/tomba-hero.jpg
-excerpt: |
-    <p>A lost quest item, two overwritten saves and one 8320-byte memory card export. A decompilation project and an AI model turn a soft-lock into a small Python script.</p>
 tags:
   - retro-gaming
   - playstation
