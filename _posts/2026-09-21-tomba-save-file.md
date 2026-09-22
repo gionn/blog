@@ -19,7 +19,9 @@ it blue, and then kill the blue mushroom together with a regular red one to get
 a new mushroom that gives you more power. I was sure the powder was an infinite
 item, so I used it without a second thought. I tried the trick, but I missed
 hitting the red mushroom. I moved on to something else and kept making saves as
-I progressed, without realizing the powder was gone from my inventory.
+I progressed, without realizing **the powder was gone from my inventory**.
+
+![Tombi! PAL PlayStation box art](/images/2026/tomba-hero.jpg)
 
 When I later went back to the mushroom and the powder was not there, I
 understood it was not infinite after all.
