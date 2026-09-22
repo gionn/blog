@@ -43,9 +43,10 @@ The layout is:
   checksum.
 - `0x0080` to `0x027F`: the **save header**. It starts with `SC`, then the title
   and the icon.
-- `0x0280` to the end: the **actual game data**.
+- `0x0280` to `0x0C7F`: the **actual game data**, followed by a checksum byte.
+- `0x0C80` to the end: unused `FF` padding.
 
-That last part is the interesting one. It is a **raw copy** of the game's main
+The game data is the interesting part. It is a **raw copy** of the game's main
 state struct, so the fields sit at **fixed offsets**.
 
 ![The save.mcs file open in ghex, showing the directory entry, the SC header and the start of the game data](/images/2026/tomba-save-hex.png)
