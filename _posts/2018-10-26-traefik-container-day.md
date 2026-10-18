@@ -3,7 +3,7 @@ layout: post
 title:  Introduction to Traefik - ContainerDay 2018
 tags:
   - conferences
-  - ContainerDay
+  - containerday
 categories:
   - Slides
 ---
