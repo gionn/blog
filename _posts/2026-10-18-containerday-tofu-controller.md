@@ -5,7 +5,7 @@ permalink: /2026/containerday-tofu-controller/
 image: /images/2026/containerday-tofu.jpg
 tags:
   - conferences
-  - ContainerDay
+  - containerday
   - kubernetes
   - gitops
   - terraform
