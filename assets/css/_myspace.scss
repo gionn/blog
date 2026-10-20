@@ -329,6 +329,12 @@ button.myspace-song {
   margin-left: 0.5em;
 }
 
+// Hydeout hides every sidebar sibling after the header on mobile non-home
+// pages, which would take the only way to turn the egg off with it.
+#sidebar .myspace-toggle-wrap {
+  display: block;
+}
+
 // The heart is the way in, so it pulses once every three seconds until the egg
 // is on. The music note beside it stays still.
 @media (prefers-reduced-motion: no-preference) {

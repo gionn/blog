@@ -42,7 +42,13 @@
 
   // A restored page has no user gesture, so the browser keeps the audio context
   // suspended until the reader clicks or types anywhere.
-  function onFirstGesture() {
+  function onFirstGesture(event) {
+    // The controls' own click handlers decide; resuming here first would make
+    // the note think playback is already on and mute instead.
+    if (event && event.target && event.target.closest &&
+        event.target.closest('.myspace-toggle')) {
+      return;
+    }
     if (!readSound() || root.getAttribute('data-theme') !== 'myspace') {
       disarmGesture();
       return;
