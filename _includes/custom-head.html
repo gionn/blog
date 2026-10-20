@@ -1,1 +1,10 @@
 {% seo %}
+<script>
+  // Runs before first paint so an enabled easter egg doesn't flash the normal
+  // palette on every navigation. Keep the key in sync with assets/js/myspace.js.
+  try {
+    if (window.localStorage.getItem('gionn:myspace') === '1') {
+      document.documentElement.setAttribute('data-theme', 'myspace');
+    }
+  } catch (e) {}
+</script>

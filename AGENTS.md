@@ -15,6 +15,8 @@ Static Jekyll blog using the [Hydeout](https://github.com/fongandrew/hydeout) th
 
 `robots.txt`, `llms.txt`, and `404.html` are custom root-level files (not theme/plugin defaults): `robots.txt` explicitly allows known AI crawlers (GPTBot, ClaudeBot, etc.); `llms.txt` is a generated index of all posts per the [llms.txt](https://llmstxt.org) convention; `404.html` avoids Cloudflare Pages' default soft-404 (SPA-style homepage fallback) for unmatched paths. `jekyll-last-modified-at` is enabled so JSON-LD `dateModified` reflects real git history.
 
+The heart in the sidebar footer (`_includes/copyright.html`) toggles a MySpace-era palette as an easter egg: `assets/css/_myspace.scss` holds the themed rules under `html[data-theme="myspace"]`, `assets/js/myspace.js` toggles the attribute and injects the marquee, `assets/js/myspace-song.js` synthesizes the chiptune loop with Web Audio, and the inline snippet in `_includes/custom-head.html` restores the saved choice before first paint. The preference lives in `localStorage` under `gionn:myspace`; keep that key in sync across the files. Sound is on by default once the egg is enabled and the ♪ button stores the choice under `gionn:myspace-sound`. A restored page tries to resume the tune immediately, falling back to the first click or keypress because browsers block audio without a gesture.
+
 **Post frontmatter fields:**
 - `layout: post` — always
 - `title` — quoted if it contains special characters
