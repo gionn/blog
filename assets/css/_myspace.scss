@@ -297,8 +297,8 @@ html[data-theme='myspace'] {
   }
 }
 
-// The door in. Styled to look like the sidebar text it sits under, but it has
-// to out-specify the theme's global `button` and `button:hover` rules.
+// The heart has to out-specify the theme's global `button` and `button:hover`
+// rules.
 button.myspace-toggle {
   background: none;
   border: 0;
@@ -307,9 +307,7 @@ button.myspace-toggle {
   cursor: pointer;
   font: inherit;
   font-size: 1.2em;
-  opacity: 0.55;
   padding: 0;
-  transition: opacity 0.2s ease-in-out;
 
   &:hover,
   &:focus {
@@ -317,11 +315,6 @@ button.myspace-toggle {
     border-color: transparent;
     box-shadow: none;
     color: inherit;
-    opacity: 1;
-  }
-
-  &[aria-pressed='true'] {
-    opacity: 1;
   }
 }
 
@@ -329,10 +322,18 @@ button.myspace-song {
   margin-left: 0.5em;
 }
 
-// Hydeout hides every sidebar sibling after the header on mobile non-home
-// pages, which would take the only way to turn the egg off with it.
-#sidebar .myspace-toggle-wrap {
-  display: block;
+// Sit the heart on the icon row: 1em box for the 1em svgs, nudged 0.2em down
+// because those svgs hang from the text baseline instead of centring.
+#sidebar-icon-links .myspace-toggle-wrap {
+  align-items: center;
+  display: inline-flex;
+  font-size: 1.5rem;
+  height: 1em;
+  margin: 0.2em 0.25em 0;
+}
+
+#sidebar-icon-links .myspace-toggle {
+  font-size: 1em;
 }
 
 // The heart is the way in, so it pulses once every three seconds until the egg
@@ -351,18 +352,18 @@ button.myspace-song {
 @keyframes myspace-heart-pulse {
   0%,
   80% {
-    opacity: 0.55;
+    opacity: 1;
     transform: scale(1);
   }
 
   85% {
-    opacity: 1;
+    opacity: 0.55;
     transform: scale(1.35);
   }
 
   90%,
   100% {
-    opacity: 0.55;
+    opacity: 1;
     transform: scale(1);
   }
 }
