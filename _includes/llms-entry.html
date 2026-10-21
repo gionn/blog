@@ -1,0 +1,5 @@
+{% assign body = post.excerpt | strip_html | strip -%}
+{% if body == "" %}{% assign body = post.content | strip_html %}{% endif -%}
+{% assign description = body | normalize_whitespace | replace: '&lt;', '<' | replace: '&gt;', '>' | replace: '&quot;', '"' | replace: '&#39;', "'" | replace: '&amp;', '&' | strip | truncate: 160 -%}
+{% if description == "" %}{% assign tags = post.tags | join: ", " %}{% assign description = "Post tagged " | append: tags | append: "." %}{% endif -%}
+- [{{ post.title }}]({{ post.url | absolute_url }}): {{ description }}
