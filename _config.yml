@@ -25,6 +25,11 @@ permalink: /:year/:month/:day/:title/
 timezone: Europe/Rome
 
 theme: jekyll-theme-hydeout
+jekyll-minifier:
+  exclude:
+    - llms.txt
+    - robots.txt
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

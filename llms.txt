@@ -6,11 +6,21 @@ layout: null
 
 > {{ site.description }}
 
+Personal blog written by {{ site.author }} since 2005, covering cloud infrastructure, DevOps, open source software and personal finance. Posts are in English unless they appear under "Articoli (Italiano)". Every post is published as a rendered HTML page at the URL listed below, with its Markdown source in the GitHub repository.
+
+## Core Content
+
+- [About]({{ '/about/' | absolute_url }}): Who writes the blog, what he works on, and how to get in touch.
+- [CV]({{ '/cv/' | absolute_url }}): Professional profile as DevOps engineer and backend developer, with a downloadable PDF.
+- [Contact]({{ '/contact/' | absolute_url }}): Contact form and links to public profiles on GitHub, LinkedIn and social networks.
+- [Slides]({{ '/slides/' | absolute_url }}): Conference talks and slide decks published on the blog.
+- [Tags]({{ '/tags/' | absolute_url }}): Index of every post grouped by topic tag.
+- [Feed]({{ '/feed.xml' | absolute_url }}): RSS feed of the latest posts in both languages.
+- [Source repository](https://github.com/gionn/blog): Markdown source, templates and configuration for the whole site.
+
 ## Posts (English)
 
-{% for post in site.posts %}{% unless post.tags contains "italiano" %}- [{{ post.title }}]({{ post.url | absolute_url }}): {{ post.description | default: post.excerpt | strip_html | strip_newlines | truncatewords: 25 }} ([source](https://raw.githubusercontent.com/gionn/blog/refs/heads/master/{{ post.path }}))
-{% endunless %}{% endfor %}
+{% for post in site.posts %}{% unless post.tags contains "italiano" %}{% include llms-entry.html post=post %}{% endunless %}{% endfor %}
 ## Articoli (Italiano)
 
-{% for post in site.posts %}{% if post.tags contains "italiano" %}- [{{ post.title }}]({{ post.url | absolute_url }}): {{ post.description | default: post.excerpt | strip_html | strip_newlines | truncatewords: 25 }} ([source](https://raw.githubusercontent.com/gionn/blog/refs/heads/master/{{ post.path }}))
-{% endif %}{% endfor %}
+{% for post in site.posts %}{% if post.tags contains "italiano" %}{% include llms-entry.html post=post %}{% endif %}{% endfor -%}

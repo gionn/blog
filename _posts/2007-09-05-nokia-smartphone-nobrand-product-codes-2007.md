@@ -1,5 +1,7 @@
 ---
 layout: post
+tags:
+  - italiano
 title: !binary |-
   Tm9raWEgc21hcnRwaG9uZSBub2JyYW5kIFByb2R1Y3QgQ29kZXMgKDIwMDcp
 created: 1188985803

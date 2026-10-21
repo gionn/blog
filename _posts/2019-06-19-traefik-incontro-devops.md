@@ -4,6 +4,7 @@ title:  Introduzione a Traefik - Incontro DevOps 2019
 tags:
   - conferences
   - Incontro DevOps Italia
+  - italiano
 categories:
   - Slides
 ---

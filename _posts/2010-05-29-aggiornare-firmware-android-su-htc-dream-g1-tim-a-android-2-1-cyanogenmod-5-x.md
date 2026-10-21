@@ -1,5 +1,7 @@
 ---
 layout: post
+tags:
+  - italiano
 title: !binary |-
   QWdnaW9ybmFyZSBmaXJtd2FyZSBBbmRyb2lkIHN1IEhUQyBEcmVhbSBHMSBU
   aW0gYSBBbmRyb2lkIDIuMSBDeWFub2dlbk1vZCA1Lng=
