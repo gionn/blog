@@ -1,5 +1,7 @@
 ---
 layout: post
+tags:
+  - italiano
 title: !binary |-
   U29sdXppb25pIGRlbCBNZW5zYSA=
 created: 1139746012

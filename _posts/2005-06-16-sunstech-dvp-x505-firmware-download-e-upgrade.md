@@ -1,5 +1,7 @@
 ---
 layout: post
+tags:
+  - italiano
 title: !binary |-
   U3Vuc3RlY2ggRFZQLXg1MDUgRmlybXdhcmUgRG93bmxvYWQgZSBVcGdyYWRl
 created: 1118935201

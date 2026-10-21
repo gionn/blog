@@ -1,5 +1,7 @@
 ---
 layout: post
+tags:
+  - italiano
 title: !binary |-
   TWFjQm9vayBQcm8gMTUnJyBEZWJpYW4=
 created: 1247422011

@@ -1,5 +1,7 @@
 ---
 layout: post
+tags:
+  - italiano
 title: Neogeo updated bios rom per 0.135 (download neogeo.zip)
 created: 1260285128
 comments: true
